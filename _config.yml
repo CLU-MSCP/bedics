@@ -13,5 +13,5 @@ tagline:             ''
 description:         'CLU PSY412 Spring 2018'
 url:                 https://clu-mscp.github.io/psy412
 baseurl:             'https://clu-mscp.github.io/psy412/'
-paginate:            5
+
 
