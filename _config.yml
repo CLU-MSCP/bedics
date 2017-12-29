@@ -10,8 +10,10 @@ permalink:           pretty
 # Setup
 title:               CLU PSY412 Advanced Statistics and Research Methods
 tagline:             ''
-description:         'CLU PSY412 Spring 2018'
+description:         '<div><img src="https://raw.githubusercontent.com/CLU-MSCP/psy412/f8d111879edd4e7e53dfd5d624cff284d4812372/public/GumbyRound.png" width="90%" height="90%" </img></div>'
 url:                 https://clu-mscp.github.io/psy412
 baseurl:             'https://clu-mscp.github.io/psy412/'
+
+
 
 
