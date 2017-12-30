@@ -5,7 +5,7 @@ title: About Dr. Bedics
 
 
 <center>
-<img src="bedics/public/jamie.png" align="right">
+<img src="/public/jamie.jpg" align="right">
 </center> 
 
 Greetings! My name is Jamie and I'm an Associate Professor in Graduate Psychology and the Director of the MS in Clinical Psychology Program at [California Lutheran University](https://www.callutheran.edu/faculty/profile.html?id=jbedics). I have been at Cal Lutheran since 2010. 
