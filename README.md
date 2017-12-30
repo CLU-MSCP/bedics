@@ -1,1 +1,1 @@
-# Advanced Statistics and Research Methods
+# CLU MS in Clinical Psychology Program
