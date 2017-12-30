@@ -16,15 +16,12 @@ In addition to my duties at CLU, I am a Clinical Instructor at UCLA in the [Yout
 
 When I'm not working, I like to run around my neighborhood in Venice, CA.  I, off and on again, study Japanese and spend a lot of time traveling including to Japan and my hometown of Bethlehem, PA.  
 
-Please feel free to contact me via:
+Please feel free to contact me.
 
-<div class="contact-buttons" style="line-height:160%;margin-left:30px;margin-top:10px">
-<p>
-<a href="https://github.com/jdbedics" target="_blank" style="color:#4446af;"><i class="fa fa-github" style="font-size:1em"></i> &nbsp; GitHub<br></a> 
-<a href="https://osf.io/h48c6/" target="_blank" style="color:#4446af;"><i class="ai ai-osf-square ai-3x" style="font-size:1em"></i> &nbsp; OSF<br></a>
-<a href="mailto:jbedics@callutheran.edu" target="_blank" style="color:#4446af;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; Email<br></a> 
-<a href="https://www.facebook.com/clumscp/" target="_blank" style="color:#4446af;"><i class="fa fa-facebook"></i> &nbsp; CLU MSCP Facebook<br></a>
-</p>
-</div>
+- [Jamie](https://www.callutheran.edu/faculty/profile.html?id=jbedics) &nbsp;
+  <a href="https://github.com/jdbedics" target="_blank" style="color:#4446af;"><i class="fa fa-github" style="font-size:1em"></i></a> &nbsp; 
+  <a href="https://osf.io/h48c6/" target="_blank" style="color:#4446af;"><i class="ai ai-osf-square ai-3x" style="font-size:1em"></i></a> &nbsp; 
+  <a href="mailto:jbedics@callutheran.edu" target="_blank" style="color:#4446af;"><i class="fa fa-envelope" style="font-size:1em"></i></a> &nbsp;
+  <a href="https://www.facebook.com/clumscp/" target="_blank" style="color:#4446af;"><i class="fa fa-facebook"></i></a>
 
 
