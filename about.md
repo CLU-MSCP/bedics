@@ -20,7 +20,7 @@ Please feel free to contact me via:
 
 <div class="contact-buttons" style="line-height:160%;margin-left:30px;margin-top:10px">
 <p>
- <a href="mailto:jbedics@callutheran.edu" target="_blank" style="color:#4446af;"><i class="fa fa-envelope fa-lg" aria-hidden="true"> &nbsp; Email<br></a> 
+<a href="mailto:jbedics@callutheran.edu" target="_blank" style="color:#4446af;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; Email<br></a> 
 <a href="https://github.com/jdbedics" target="_blank" style="color:#4446af;"><i class="fa fa-github" style="font-size:1em"></i> &nbsp; GitHub<br></a> 
 <a href="https://osf.io/h48c6/" target="_blank" style="color:#4446af;"><i class="ai ai-osf-square" style="font-size:1em"></i> &nbsp; OSF<br></a>
 <a href="https://www.facebook.com/clumscp/" target="_blank" style="color:#4446af;"><i class="fa fa-facebook"></i> &nbsp; CLU MSCP Facebook<br></a>
