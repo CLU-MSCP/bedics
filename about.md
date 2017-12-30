@@ -18,7 +18,7 @@ When I'm not working, I like to run around my neighborhood in Venice, CA.  I, of
 
 Please feel free to contact me.
 
-- [Jamie](https://www.callutheran.edu/faculty/profile.html?id=jbedics) &nbsp;
+[Jamie](https://www.callutheran.edu/faculty/profile.html?id=jbedics) &nbsp;
   <a href="https://github.com/jdbedics" target="_blank" style="color:#4446af;"><i class="fa fa-github" style="font-size:1em"></i></a> &nbsp; 
   <a href="https://osf.io/h48c6/" target="_blank" style="color:#4446af;"><i class="ai ai-osf-square ai-3x" style="font-size:1em"></i></a> &nbsp; 
   <a href="mailto:jbedics@callutheran.edu" target="_blank" style="color:#4446af;"><i class="fa fa-envelope" style="font-size:1em"></i></a> &nbsp;
