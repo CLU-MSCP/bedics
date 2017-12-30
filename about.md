@@ -5,10 +5,10 @@ title: About Dr. Bedics
 
 
 <center>
-<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/jamie.jpg" alt="Jamie" align="right" style="width: 42%; height: 42%; margin:8px">
+<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/jamie2.jpg" alt="Jamie" align="right" style="width: 42%; height: 42%; margin:8px">
 </center> 
 
-Greetings! My name is Jamie and I'm an Associate Professor in Graduate Psychology at [California Lutheran University](https://www.callutheran.edu/faculty/profile.html?id=jbedics). I am also the Director of the [MS in Clinical Psychology Program](https://www.callutheran.edu/academics/graduate/ms-clinical-psychology/) at CLU. I have been at Cal Lutheran since 2010. 
+Greetings! My name is Jamie and I'm an [Associate Professor in Graduate Psychology](https://www.callutheran.edu/faculty/profile.html?id=jbedics) at California Lutheran University. I am also the Director of the [MS in Clinical Psychology Program](https://www.callutheran.edu/academics/graduate/ms-clinical-psychology/) at CLU. I have been at Cal Lutheran since 2010. 
 
 At CLU, I mostly teach courses in my clinical area of expertise called [dialectical behavior therapy](https://www.callutheran.edu/academics/graduate/psyd-clinical-psychology/dbt.html).  I am also the director of the DBT Training Clinic at [the CLU Community Counseling Centers](http://www.clucounseling.org/services/dbt.html).  When I can, I like to do a little research mostly in the area of suicide intervention and psychotherapy.  The majority of my time is spent on curriculum development of the MS program to improve the future of researchers in psychology by teaching the values and ethics associated with open science, reproducibility, and transparency in science. 
 
