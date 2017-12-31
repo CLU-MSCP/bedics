@@ -5,7 +5,7 @@ title: Home
 
 
 <center>
-<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cover.jpg" alt="Cover" align="right" style="width: 42%; height: 42%; margin:8px">
+<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cover.jpg" alt="Cover" align="right" style="width: 60%; height: 60%; margin:8px">
 </center> 
 
 Welcome to the Statistics and Research Methods Resource Site for the MS in Clinical Psychology Program (MSCP) at California Lutheran University (CLU), Thousand Oaks, CA.
