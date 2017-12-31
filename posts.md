@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: page
+permalink: /posts
 ---
+
 
 <div class="posts">
   {% for post in paginator.posts %}
