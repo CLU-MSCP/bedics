@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: _posts
+permalink: /posts
 ---
 
 
