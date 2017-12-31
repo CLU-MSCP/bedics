@@ -4,7 +4,7 @@ layout: page
 
 
 <center>
-<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cover.jpg" alt="Jamie" align="right" style="width: 80%; height: 80%; margin:8px">
+<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cover.jpg" alt="Jamie" align="center" style="width: 40%; height: 80%; margin:8px">
 </center> 
 
 
