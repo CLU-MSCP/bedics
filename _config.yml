@@ -8,7 +8,7 @@ paginate_path: "page:num"
 permalink:           pretty
 
 # Setup
-title:               CLU MS in Clinical Psychology
+title:               <center>CLU MS in Clinical Psychology Program</center>
 tagline:             ''
 description:         '<div><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/f8d111879edd4e7e53dfd5d624cff284d4812372/public/GumbyRound.png" width="90%" height="90%" </img></div>'
 url:                 https://clu-mscp.github.io/bedics
