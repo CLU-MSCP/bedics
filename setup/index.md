@@ -8,7 +8,9 @@ Summary: The chapter covers a lot of diverse material.  Here's how you can make 
 
 - [R History and Setup](setup)
 
-- [Importing Data into R](import)
+See the [R History and Setup](http://afit-r.github.io/setup/)
+
+- [Importing Data into R]
 
 - [Data Wrangling](wrangle)
 
