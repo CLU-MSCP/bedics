@@ -17,7 +17,7 @@ Summary: The chapter covers a lot of diverse material.  Here's how you can make 
 
 ## Background: 
 
-The majority of time when we use R we are working with data that have been entered or created in other software packages such as Excel (.xls, .xlsx), tabular spreadsheets (.csv, .dat), SPPS (.sav), STATA (.dta) and others.  In the old days, and still today, we would enter data by hand into Excel or SPSS.  Nowadays, it's more common to use Qualtrics (at CLU) or Survey Monkey to electronically collect data.  The data from these services are then easily exported into a tabular file like Excel, .csv (Dr. Bedics' favorite), or SPSS.
+The majority of time when we use R we are working with data that have been entered or created in other software packages such as Excel (.xls, .xlsx), tabular spreadsheets (.csv, .dat), SPSS (.sav), STATA (.dta) and others.  In the old days, and still today, we would enter data by hand into Excel or SPSS.  Nowadays, it's more common to use Qualtrics (at CLU) or Survey Monkey to electronically collect data.  The data from these services are then easily exported into a tabular file like Excel, .csv (Dr. Bedics' favorite), or SPSS.
 
 You're most likely familiar with Excel and SPSS from your prior training.  In this sense, you've been to taught that you should be able to visually _see_ and physically _touch_ data.  Further, there tends to be some comfort when you have such a direct connection to the data itself.  Consequently, it can be actually be a bit unsettling to _not_ see the data so easily as in a framework like R.
 
