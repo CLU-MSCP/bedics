@@ -6,11 +6,11 @@ permalink: /background
 
 Summary: The chapter covers a lot of diverse material.  Here's how you can make sense of it all.
 
-- [R History and Setup](setup)
+  * [R History and Setup](https://clu-mscp.github.io/bedics/setup) 
 
-- [Importing Data into R](import)
+  * Importing Data into R
 
-- [Data Wrangling](wrangle)
+  * Data Wrangling
 
 
 **General tip**: Ignore anything and everything to do with R Commander.  We will *never* use that software.
@@ -29,9 +29,7 @@ Traditionally, statistics courses in psychology are focused 90%+ on data modelin
 
 Before you take you first step towards reproducibility, you have to get data into R.  We will then review data wrangling.
 
-## Importing Data with R (Sections 3.5 & 3.7) {#import}
+Go to [Importing Data with R](https://clu-mscp.github.io/bedics/import) 
 
 
 
-
-## Wrangling Data {#wrangle}
