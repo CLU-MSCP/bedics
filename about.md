@@ -22,6 +22,5 @@ Please feel free to contact me.
   <a href="https://github.com/jdbedics" target="_blank" style="color:#4446af;"><i class="fa fa-github" style="font-size:1em"></i></a> &nbsp; 
   <a href="https://osf.io/h48c6/" target="_blank" style="color:#4446af;"><i class="ai ai-osf-square ai-3x" style="font-size:1em"></i></a> &nbsp; 
   <a href="mailto:jbedics@callutheran.edu" target="_blank" style="color:#4446af;"><i class="fa fa-envelope" style="font-size:1em"></i></a> &nbsp;
-  <a href="https://www.facebook.com/clumscp/" target="_blank" style="color:#4446af;"><i class="fa fa-facebook"></i></a>
-
-
+  <a href="https://www.facebook.com/clumscp/" target="_blank" style="color:#4446af;"><i class="fa fa-facebook"></i></a> &nbsp;
+  <a href="https://jamiebedics.youcanbook.me/service/jsps/closed.jsp?cal=50ea5622-73c1-4d99-a19f-434778df6c1d&ini=1515049293887" target="_blank" style="color:#4446af;"><i class="fa fa-calendar" style="font-size:1em"></i></a>
