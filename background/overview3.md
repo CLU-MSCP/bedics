@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chapter 2 DSUR: The R Environment
+title: DSUR2
 permalink: /background
 ---
 
