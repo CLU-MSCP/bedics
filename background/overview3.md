@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Chapter 2 DSUR: The R Environment
+title: DSUR2
 permalink: /background
 ---
 
-Summary: The chapter covers a lot of diverse material.  Here's how you can make sense of it all.
+## Summary: The chapter covers a lot of diverse material.  Here's how you can make sense of it all.
 
 - [R History and Setup](setup)
 
@@ -13,7 +13,7 @@ Summary: The chapter covers a lot of diverse material.  Here's how you can make 
 - [Data Wrangling](#wrangle)
 
 
-#### General tip: Ignore anything and everything to do with R Commander.  We will *never* use that software.
+**General tip**: Ignore anything and everything to do with R Commander.  We will *never* use that software.
 
 ## Background: 
 
