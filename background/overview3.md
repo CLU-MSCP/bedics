@@ -1,10 +1,10 @@
 ---
 layout: page
-title: DSUR2
+title: Chapter 2 DSUR: The R Environment
 permalink: /background
 ---
 
-## Summary: The chapter covers a lot of diverse material.  Here's how you can make sense of it all.
+Summary: The chapter covers a lot of diverse material.  Here's how you can make sense of it all.
 
 - [R History and Setup](setup)
 
