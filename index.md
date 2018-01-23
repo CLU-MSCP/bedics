@@ -10,6 +10,6 @@ title: Home
 
 Welcome to Dr. Bedics' Statistics and Research Methods Resource Site for the MS in Clinical Psychology Program (MSCP) at California Lutheran University (CLU), Thousand Oaks, CA. 
 
-The CLU MSCP is a two-year program that emphasizes research training that values open, transparent, collaboration.  Students receive specialized training in both research and clinical practice.
+The CLU MSCP is a two-year program that emphasizes open science and reproducibility in psychological science. In addition to the values associated with open science, students are taught how to best utilize the latest technologies as a method of fulfilling these values.  In doing so, students are taught that careful attention to how research is conducted will ultimately improve the outcome and impact of their work. 
 
 
