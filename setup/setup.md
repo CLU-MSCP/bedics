@@ -11,33 +11,26 @@ Each Class installation is unique.  Select your course and follow the instructio
 * [Psychology 412: Advanced Research Design & Statistics](#412)
 * [Psychology 562: Advanced Statistics](#562)
 * [Psychology 582: Research Ethics](#ethics)
-* [Psychology 565: Thesis Seminar](#packages)
-* [Psychology 582: Data Wrangling](#582wrangle)
+* [Psychology 565: Thesis Seminar](#seminar)
+
 
 <br>
 
-## Installing R & RStudio {#installation}
-R
-RStudio
-OSF Signup
-
-PSY562
-R
-RStudio
-Git
-Github
-
-PSY565
-R
-RStudio
-Git
-Github
-
-PSY582 Ethics
-R
-R Studio
+## Psy412: Advanced Research Design and Statistics {#412}
 
 
+In this class you'll learn the use of R through the R Studio IDE.  R and R Studio are seperate programs.  They are installed individually and they are updated separately.  We use R Studio to work with R.  After
+
+*What you will need*
+1. [R and R Studio](rsetup)
+2. [Open Science Framework](https://osf.io/): Please use your CLU ID.
+3. [Slack](https://slack.com/): Optional Slack account to work with TAs and Instructor
+
+## PSYC 562: Advanced Statistics and Regression I {#562}
+
+## PSYC 582: Research Ethics {#ethics}
+
+## PSYC 565: Thesis seminar {#seminar}
 
 
 
