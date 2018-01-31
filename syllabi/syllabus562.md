@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Psy 412 Course Goals and Objectives
-permalink: /syllabus412
+title: Psy 562 Course Goals and Objectives
+permalink: /syllabus562
 ---
 
 ## COURSE DESCRIPTION

@@ -10,6 +10,7 @@ permalink: /syllabus412
 * [Prerequisites](#prereq)
 * [Assignments and Grading](#assignments)
 
+<br>
 
 ## Course Description & Objectives {#course}
 
@@ -44,7 +45,6 @@ Psy 312, 313, Graduating with a B.S., Senior Status or its equivalent.
 												
  
 ## Assignments and Grading {#assignments}
-
 
 1.	Advanced Methods Articles for an Improved Psychological Science (10%) - In this class, a priority is for you to understand how to conduct better psychological research.  In order to do that, you need to be familiar with the contemporary issues. The articles are dense and will be time-consuming.  Please adjust your time appropriately. 
 
