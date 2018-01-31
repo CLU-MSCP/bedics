@@ -9,6 +9,7 @@ permalink: /syllabus412
 * [Required Readings](#reading)
 * [Prerequisites](#prereq)
 * [Assignments and Grading](#assignments)
+* [Articles](#articles)
 
 <br>
 
@@ -94,3 +95,5 @@ Psy 312, 313, Graduating with a B.S., Senior Status or its equivalent.
 4. Final Exam (15%) - A multiple-choice and short-answer final exam will cover all of the readings (textbook and articles) from the second part of the class. A review sheet will be provided!
 
 5. DSUR Assignments (8%) - An important part of this course is gaining some familiarity with the R programming language.  We will cover enough chapters in the DSUR textbook to get you familiar with running several statistical analyses in R.  An important part of learning R is practice, practice, practice.  You will complete questions at the end of the chapter and a total of 7 in-class practice assignments. 
+
+## Articles {#articles}
