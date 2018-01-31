@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Psyc 565 Course Goals and Objectives
+title: Psyc 565 Thesis Seminar for MSCP
 permalink: /syllabus565
 ---
 

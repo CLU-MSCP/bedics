@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Psy 562 Course Goals and Objectives
+title: Psyc 562 Advanced Statistics
 permalink: /syllabus562
 ---
 

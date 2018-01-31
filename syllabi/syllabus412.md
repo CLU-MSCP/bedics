@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Psy 412 Course Goals and Objectives
+title: Psy 412 Advanced Research Design and Statistics
 permalink: /syllabus412
 ---
 
