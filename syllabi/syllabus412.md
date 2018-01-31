@@ -66,7 +66,7 @@ Psy 312, 313, Graduating with a B.S., Senior Status or its equivalent.
   
         * Part 5. Hypotheses (should be exact or even improved for direct replication; i.e., Class 1 from Schmidt, 2009).
 
-    * Method Section (5%) - Write a proposed method section (in APA style) that includes the participants, measures, procedures, and data analysis.
+  * Method Section (5%) - Write a proposed method section (in APA style) that includes the participants, measures, procedures, and data analysis.
 
   * R Code (25%) - In this section, you are to create R code that will do the following:
     
@@ -89,8 +89,8 @@ Psy 312, 313, Graduating with a B.S., Senior Status or its equivalent.
   * Pre-Registration (5%) - Complete the pre-registration process through OSF or AsPredicted.
 
 
-3.	Midterm Exam (15%) - A multiple-choice and short-answer mid-term will cover all of the readings (textbook and articles) during the first part of the class. A review sheet will be provided!
+3. Midterm Exam (15%) - A multiple-choice and short-answer mid-term will cover all of the readings (textbook and articles) during the first part of the class. A review sheet will be provided!
 
-4.	Final Exam (15%) - A multiple-choice and short-answer final exam will cover all of the readings (textbook and articles) from the second part of the class. A review sheet will be provided!
+4. Final Exam (15%) - A multiple-choice and short-answer final exam will cover all of the readings (textbook and articles) from the second part of the class. A review sheet will be provided!
 
-5.	DSUR Assignments (8%) - An important part of this course is gaining some familiarity with the R programming language.  We will cover enough chapters in the DSUR textbook to get you familiar with running several statistical analyses in R.  An important part of learning R is practice, practice, practice.  You will complete questions at the end of the chapter and a total of 7 in-class practice assignments. 
+5. DSUR Assignments (8%) - An important part of this course is gaining some familiarity with the R programming language.  We will cover enough chapters in the DSUR textbook to get you familiar with running several statistical analyses in R.  An important part of learning R is practice, practice, practice.  You will complete questions at the end of the chapter and a total of 7 in-class practice assignments. 
