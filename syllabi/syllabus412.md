@@ -47,13 +47,13 @@ Psy 312, 313, Graduating with a B.S., Senior Status or its equivalent.
 									
 ## Assignments and Grading {#assignments}
 
-1.	Advanced Methods Articles for an Improved Psychological Science (10%) - In this class, a priority is for you to understand how to conduct better psychological research.  In order to do that, you need to be familiar with the contemporary issues. The articles are dense and will be time-consuming.  Please adjust your time appropriately. 
+1.	**Advanced Methods Articles for an Improved Psychological Science** (10%) - In this class, a priority is for you to understand how to conduct better psychological research.  In order to do that, you need to be familiar with the contemporary issues. The articles are dense and will be time-consuming.  Please adjust your time appropriately. 
 
     * Complete 10/14 Reflections on any of the articles of your choosing.  Write a 1-2 (max), typed, double-spaced summary of the main points along with 1-question for the article. Each article is due on the date assigned.  In other words, if you skip the first 4 then you must do the last 10.  You'll be rated on your thoughtfulness and understanding of the entire article (10 points each article).
 
     * All assignments are due at the beginning of class.  Never email an assignment to the instructor.  
 
-2.	Registered Replication and Reproducible Research Project (50%) - The ability to replicate and extend prior work is critical for psychology as a science.  You will write-up a replication study of an article of your choice.  
+2.	**Registered Replication and Reproducible Research Project** (50%) - The ability to replicate and extend prior work is critical for psychology as a science.  You will write-up a replication study of an article of your choice.  
   
     * Introduction Section (15%) - Write a brief four-page introduction section (in APA Style).  
   
@@ -90,10 +90,10 @@ Psy 312, 313, Graduating with a B.S., Senior Status or its equivalent.
     * Pre-Registration (5%) - Complete the pre-registration process through OSF or AsPredicted.
 
 
-3. Midterm Exam (15%) - A multiple-choice and short-answer mid-term will cover all of the readings (textbook and articles) during the first part of the class. A review sheet will be provided!
+3. **Midterm Exam** (15%) - A multiple-choice and short-answer mid-term will cover all of the readings (textbook and articles) during the first part of the class. A review sheet will be provided!
 
-4. Final Exam (15%) - A multiple-choice and short-answer final exam will cover all of the readings (textbook and articles) from the second part of the class. A review sheet will be provided!
+4. **Final Exam** (15%) - A multiple-choice and short-answer final exam will cover all of the readings (textbook and articles) from the second part of the class. A review sheet will be provided!
 
-5. DSUR Assignments (8%) - An important part of this course is gaining some familiarity with the R programming language.  We will cover enough chapters in the DSUR textbook to get you familiar with running several statistical analyses in R.  An important part of learning R is practice, practice, practice.  You will complete questions at the end of the chapter and a total of 7 in-class practice assignments. 
+5. **DSUR Assignments** (8%) - An important part of this course is gaining some familiarity with the R programming language.  We will cover enough chapters in the DSUR textbook to get you familiar with running several statistical analyses in R.  An important part of learning R is practice, practice, practice.  You will complete questions at the end of the chapter and a total of 7 in-class practice assignments. 
 
 ## Articles {#articles}
