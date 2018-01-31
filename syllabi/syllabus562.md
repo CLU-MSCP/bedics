@@ -4,29 +4,51 @@ title: Psy 562 Course Goals and Objectives
 permalink: /syllabus562
 ---
 
-## COURSE DESCRIPTION
-The goals of this course will serve as an overview of advanced methodological issues in psychological research. Students will be encouraged to think critically about their own research, advanced topics in psychological science and how to apply these principles to their own proposed research project.  
 
-The course is designed to familiarize students with all aspects of psychological research including, but not limited to the following:
+* [Course Description & Objectives](#course)
+* [Required Readings](#reading)
+* [Slack versus Email](#slack)
+* [Assignments and Grading](#assignments)
+* [Articles](#articles)
 
-  *	Understanding the principles of open science including the importance of collaboration and transparency through the sharing of materials and data as well as pre-registration of studies. 
-  
-  *	Appreciate the importance of replication as an undervalued and yet critical component for the accumulation of knowledge in psychological research.  
+## COURSE DESCRIPTION {#course}
 
-  *	Learn the technological tools that allow for researchers to conduct reproducible research consistent with good science in psychology.   
+The course provides in-depth coverage of the scientific process and scientific values as it relates to the application of statistical modeling.  The course will emphasize statistical thinking over statistical ritual as students will be introduced to critical topics in psychological science including theory-testing, reproducibility, statistical power, and the philosophical underpinnings of null-hypothesis statistical testing.  The course will also provide coverage of the more commonly used statistical procedures in psychological research.  These procedures include correlation, multiple regression, logistic regression, and multi-level regression.  Students will learn how to conduct these procedures and interpret statistical results using the free, open source software environment called R. The skills you learn in this class should prepare you to better consumers and producers of research in the sciences.    
+Students who have satisfactorily completed this course should be able to: 
 
-  *	Gain a basic competency and familiarity with the R statistical programming language for data wrangling, data visualization, and statistical modeling.
-
-  *	How to put the principles of open science into action by conducting a pre-registered, reproducible, replication study using R, R Projects, and the Open Science Framework.
-
-  * Continued training in methods for improving statistical analyses with an emphasis on regression.  
+    * Develop a research workflow that is supportive of the scientific values of reproducibility, transparency, and collaboration.
+    
+    * Organize a dataset for the purposes of statistical analysis by developing skills for importing data and data wrangling (munging). 
+    
+    * Create effective plots and figures to visually demonstrate the general trends, variations, and associations in any given dataset.
+    
+    * Conduct and analyze linear and logistic regression models in R. 
+    
+    * Assess and address the assumptions of common statistical procedures used in psychological research including linear and logistic regressions.  
+    
+    * Use R, R Studio, Git, Github and additional Git Clients to effectively manage research workflow and work collaboratively with a peer on a data science project. 
+    
+    * Create and communicate results from a data science project using R Markdown and R Presentations.
 
 PROGRAM COMPETENCIES ASSESSED IN THIS COURSE
-*	Scientific Mindedness (2)
 
+    * Scientific Mindedness (2)
+ 
+## Required Readings {#reading}
+Texts:
 
+ * Wickham, H., & Grolemund, G. (2017). R for Data Science. O'Reilly; Boston. (ISBN 1491910399)
 
-Go to [Importing Data with R](https://clu-mscp.github.io/bedics/import) 
+ * Field, A., Miles, J., Field, Z. (2012). Discovering statistics using R. Sage Press; Thousand 
+Oaks, CA. (ISBN-10: 1446200469)
+ 
+Articles:
+See course schedule for complete list of required articles
+												
+## Slack versus Email {#slack}
+Slack (Searchable Log for All Conversation and Knowledge) is cloud-based application for teamwork and collaboration.  Slack is widely used within a variety of industries especially those that are more technology focused.  Slack is organized by topic and allows you to ask questions about any assignments, projects, and/or course materials.  The course instructor and TAs are on Slack to answer any questions.  You can direct message people through Slack but the goal is to ask a question for the entire class to see so we all can learn.  You will be emailed an invite.
 
+			
 
+## Assignments and Grading {#assignments}
 
