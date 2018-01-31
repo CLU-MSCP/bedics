@@ -55,13 +55,15 @@ Slack (Searchable Log for All Conversation and Knowledge) is cloud-based applica
 
 1. **Weekly Class Readings and Weekly R HW Assignment** (30%) - These are practical, hands-on, activities to build your skill in R and Git. Many of these exercises are repetitive and build on each other as we progress through the course.
 
-      reading.rmd - Make an R Script for every week that you have reading.  In your reading most,       if not all, of the code provided as examples will be reproducible from data within the            package itself.  Only for DSUR will you have to import data. There is no requirement for          exact content.  I want to see you practice and watch how you discuss code. Create two files       for each book:
-          o	r4ds.Rmd
-          o	dsur.Rmd
+    * reading.rmd - Make an R Script for every week that you have reading.  In your reading most, if not all, of the code provided as examples will be reproducible from data within the package itself.  Only for DSUR will you have to import data. There is no requirement for exact content.  I want to see you practice and watch how you discuss code. Create two files for each book:
 
-      hw.rmd - Make an R Script for every weekly homework.  In your reading most, if not all, of the code provided as examples will be reproducible from data within the package itself.  Only for DSUR will you have to import data.  Create one file: 
+        * r4ds.Rmd
       
-      562hw.Rmd
+        * dsur.Rmd
+
+    * hw.rmd - Make an R Script for every weekly homework.  In your reading most, if not all, of the code provided as examples will be reproducible from data within the package itself.  Only for DSUR will you have to import data.  Create one file: 
+      
+        * 562hw.Rmd
 
 The three R markdown files should be in uploaded to your cloned GitHub Repo ("firstname_lastname") which you should be linked to a R Project via Git. Make your revisions locally and then do your Git thing (knit, pull, commit, push, make an issue) within RStudio.  Do this forever. 
 
@@ -70,9 +72,10 @@ The three R markdown files should be in uploaded to your cloned GitHub Repo ("fi
 3. **Mid-Term Concepts Exam** (20%) - A midterm concept exam will test your working memory of the many functions and statistical concepts learned during the first half of the course. 
 
 4. **Final Group Project and Collaboration** (20%) - You and a partner will work collaboratively with the instructor or the TA to develop reproducible workflow for a data analysis project of interest to you.   You will either scrape or import data from the internet or clone a GitHub repository of interest.  Using the archived data, you'll will address issues of data wrangling, summarizing, visualization, modeling, and communication and presentation.  You will be assigned a partner to work with collaboratively on two separate projects. Each student will have primary responsibility for their own topic. Provide feedback to a peers regarding their presentations by December 10th.  
-        a.	Submit a `.Rmd` file. Commit, Push, and make an Issue on GitHub
-        b.	Submit a `.Rpres` file.  Commit, Push, and make an Issue on GitHub
-        c.	Give a peer feedback and rate your peer.
+        
+        * Submit a `.Rmd` file. Commit, Push, and make an Issue on GitHub
+        * Submit a `.Rpres` file.  Commit, Push, and make an Issue on GitHub
+        * Give a peer feedback and rate your peer.
 
 5. **Final Concepts Exam** (20%) - It's like the mid-term but for the material in the second half of the course only. 
 
