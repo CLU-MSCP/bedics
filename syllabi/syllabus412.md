@@ -54,7 +54,7 @@ Psy 312, 313, Graduating with a B.S., Senior Status or its equivalent.
 
 2.	Registered Replication and Reproducible Research Project (50%) - The ability to replicate and extend prior work is critical for psychology as a science.  You will write-up a replication study of an article of your choice.  
   
-  * Introduction Section (15%) - Write a brief four-page introduction section (in APA Style).  
+    * Introduction Section (15%) - Write a brief four-page introduction section (in APA Style).  
   
         * Part 1. Provide an overview of the problem (first paragraph)
   
@@ -66,9 +66,9 @@ Psy 312, 313, Graduating with a B.S., Senior Status or its equivalent.
   
         * Part 5. Hypotheses (should be exact or even improved for direct replication; i.e., Class 1 from Schmidt, 2009).
 
-  * Method Section (5%) - Write a proposed method section (in APA style) that includes the participants, measures, procedures, and data analysis.
+    * Method Section (5%) - Write a proposed method section (in APA style) that includes the participants, measures, procedures, and data analysis.
 
-  * R Code (25%) - In this section, you are to create R code that will do the following:
+    * R Code (25%) - In this section, you are to create R code that will do the following:
     
       * Import data into the R Project
     
@@ -86,7 +86,7 @@ Psy 312, 313, Graduating with a B.S., Senior Status or its equivalent.
     
       * Have everything work :)
     
-  * Pre-Registration (5%) - Complete the pre-registration process through OSF or AsPredicted.
+    * Pre-Registration (5%) - Complete the pre-registration process through OSF or AsPredicted.
 
 
 3. Midterm Exam (15%) - A multiple-choice and short-answer mid-term will cover all of the readings (textbook and articles) during the first part of the class. A review sheet will be provided!
