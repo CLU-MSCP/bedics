@@ -56,37 +56,38 @@ Psy 312, 313, Graduating with a B.S., Senior Status or its equivalent.
   
   * Introduction Section (15%) - Write a brief four-page introduction section (in APA Style).  
   
-      * Part 1. Provide an overview of the problem (first paragraph)
+        * Part 1. Provide an overview of the problem (first paragraph)
   
-      * Part 2. Review the article you're replicating. (2-3 paragraphs)
+        * Part 2. Review the article you're replicating. (2-3 paragraphs)
   
-      * Part 3. Discuss 1-2 new articles related to the research (1-2 paragraphs)
+        * Part 3. Discuss 1-2 new articles related to the research (1-2 paragraphs)
   
-      * Part 4. Discuss the importance of replication in science (1-paragraph)
+        * Part 4. Discuss the importance of replication in science (1-paragraph)
   
-      * Part 5. Hypotheses (should be exact or even improved for direct replication; i.e., Class 1 from Schmidt, 2009).
+        * Part 5. Hypotheses (should be exact or even improved for direct replication; i.e., Class 1 from Schmidt, 2009).
 
-  * Method Section (5%) - Write a proposed method section (in APA style) that includes the participants, measures, procedures, and data analysis.
+    * Method Section (5%) - Write a proposed method section (in APA style) that includes the participants, measures, procedures, and data analysis.
 
   * R Code (25%) - In this section, you are to create R code that will do the following:
     
-    * Import data into the R Project
+      * Import data into the R Project
     
-    * Reverse all necessary scores on the measures that need reversing.
+      * Reverse all necessary scores on the measures that need reversing.
+     
+      * Summarize all the necessary scores need to conduct your analyses.
     
-    * Summarize all the necessary scores need to conduct your analyses.
+      * Provide a power analysis for each hypothesis.
     
-    * Provide a power analysis for each hypothesis.
+      * Create at least two graphs.
     
-    * Create at least two graphs.
+      * Write proposed analyses for at least one hypothesis
     
-    * Write proposed analyses for at least one hypothesis
+      * Create simulated data - Create a simulated database with mock data that can be used to run your R code. 
     
-    * Create simulated data - Create a simulated database with mock data that can be used to run your R code. 
+      * Have everything work :)
     
-    * Have everything work :)
-    
-    * Pre-Registration (5%) - Complete the pre-registration process through OSF or AsPredicted.
+  * Pre-Registration (5%) - Complete the pre-registration process through OSF or AsPredicted.
+
 
 3.	Midterm Exam (15%) - A multiple-choice and short-answer mid-term will cover all of the readings (textbook and articles) during the first part of the class. A review sheet will be provided!
 
