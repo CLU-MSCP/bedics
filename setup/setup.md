@@ -8,7 +8,7 @@ permalink: /setup
 
 Each Class installation is unique.  Select your course and follow the instructions for local installation 
 
-| Course |  [R and R Studio](rsetup) | [OSF](https://www.osf.io) | [Git/GitHub](git) | [Slack](https://www.slack.com) |
+| Course |  [R and R Studio](https://speakerdeck.com/jdbedics/r-and-r-studio-setup) | [OSF](https://speakerdeck.com/jdbedics/osf-setup-for-class-projects-or-theses) | [Git/GitHub](git) | [Slack](https://www.slack.com) |
 |--- |:-:	|:-: |:-: | :-: |
 | PSY412 | Yes | Yes | No | No |
 | Psyc562 | Yes | Yes | Yes | Yes |
