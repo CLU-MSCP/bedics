@@ -97,3 +97,31 @@ Psy 312, 313, Graduating with a B.S., Senior Status or its equivalent.
 5. **DSUR Assignments** (8%) - An important part of this course is gaining some familiarity with the R programming language.  We will cover enough chapters in the DSUR textbook to get you familiar with running several statistical analyses in R.  An important part of learning R is practice, practice, practice.  You will complete questions at the end of the chapter and a total of 7 in-class practice assignments. 
 
 ## Articles {#articles}
+
+Anderson, M. S., Martinson, B. C., & Vries, R. D. (2007). Normative Dissonance in Science: Results from a National Survey of U.S. Scientists. Journal of Empirical Research on Human Research Ethics,2(4), 3-14. doi:10.1525/jer.2007.2.4.3
+
+Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munafo, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature Reviews Neuroscience,14, 365-376. doi:10.1038/nrn3475
+
+Carp, J. (2012). The secret lives of experiments: Methods reporting in the fMRI literature. Elsevier,63, 289-300. doi:10.1016/j.neuroimage.2012.07.004
+
+Cohen, J. (1992). A Power Primer. Quantitative Methods for Psychology,112(1), 155-159. doi:10.20982/tqmp.03.2.p079
+
+Cybulski, L., Mayo-Wilson, E., & Grant, S. (2016). Improving Transparency and Reproducibility Through Registration: The Status of Intervention Trials Published in Clinical Psychology Journals. Journal of Consulting and Clinical Psychology,1-15. doi:10.1037/ccp0000115
+
+Gigerenzer, G. (2004). Mindless statistics. The Journal of Socio-Economics,33(5), 587-606. doi:10.1016/j.socec.2004.09.033
+
+Greenland, S., Senn, S. J., Rothman, K. J., Carlin, J. B., Poole, C., Goodman, S. N., & Altman, D. G. (2016). Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations. European Journal of Epidemiology,31(4), 337-350. doi:10.1007/s10654-016-0149-3
+
+Ioannidis, J. P. (2005). Why Most Published Research Findings Are False. PLoS Medicine,2(8), 696-701. doi:10.1371/journal/pmed.0020124
+
+Ioannidis, J. P. (2008). Why Most Discovered True Associations Are Inflated. Epidemiology,19(5), 640-648. doi:10.1097/EDE.0b013e31818131e7
+
+Kazdin, A. E. (2006). Arbitrary Metrics: Implications for Identifying Evidence-Based Treatments. American Psychologist,61(1), 42-49. doi:10.1037/0003-066X.61.1.42
+
+Nosek, B. A., Spies, J. R., & Motyl, M. (2012). Scientific Utopia: II. Restructuring Incentives and Practices to Promote Truth Over Publishability. Association for Psychological Science,7(6), 615-631. doi:10.1177/1745691612459058
+
+Nosek, B. A., & Lakens, D. (2014). Registered Reports: A Method to Increase the Credibility of Published Results. Social Psychology,45(3), 137-141. doi:10.1027/1864-9335/a000192
+
+Aarts, A. et al., (2015). Estimating the reproducibility of psychological science. Open Science Collaboration, Science,349(6251), 943-951. doi:10.1126/science.aac4716
+
+Schmidt, S. (2009). Shall we really do it again? The Powerful Concept of Replication Is Neglected in the Social Sciences. Review of General Psychology,13(2), 90-100. doi:10.1037/a0015108
