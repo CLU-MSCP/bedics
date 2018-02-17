@@ -10,6 +10,49 @@ title: Home
 
 Welcome to Dr. Bedics' Statistics and Research Methods Resource Site for the MS in Clinical Psychology Program (MSCP) at California Lutheran University (CLU), Thousand Oaks, CA. 
 
-The CLU MSCP is a two-year program that emphasizes open science and reproducibility in psychological science. In addition to the values associated with open science, students are taught how to best utilize the latest technologies as a method of fulfilling these values.  In doing so, students are taught that careful attention to how research is conducted will ultimately improve the outcome and impact of their work. 
+The CLU MSCP is a two-year program that emphasizes open science and reproducibility in psychological science. In addition to the values associated with open science, students are taught how to best utilize the latest technologies as a method of fulfilling these values.  In doing so, students are taught that careful attention to *how* research is conducted will ultimately improve the outcome and impact of their work.  
 
+The program is committed to the use of the [R language for statistical programming](https://www.r-project.org/) and the use of [R Studio](https://www.rstudio.com/) as the primary interface for working with R.  All R software used in this program is free while at the same time surpassing the functionality and capability of commmercial software.
+
+<br>
+
+### MSCP Curriculum for Fall 2018
+
+In the first year, students take courses that provide them with a firm foundation in statistical computing, use of R, and also ethics in the conduct of research in psychology and the social and behavioral sciences.  
+
+Students are **not required** to have *any* prerequisite advanced training in statistics or R for admission to the program. The goal of the program is provide students with the capability of conducting research and data science in ways that are not traditionally taught in psychology.
+
+#### Year One 
+
+| Semester	|  Course Name	| 
+|:---:	|:---	| 
+| Fall | Advanced Statistics I: Linear Regression  | 
+| Fall | Exploratory Data Analysis: Data Wrangling and Visualization in R |
+| Fall | Research Ethics	|
+| Spring | Psychometrics & Test Development | 
+| Spring | Program Evaluation & Clinical Trials |
+| Spring | Experimental Methods	|
+
+<br>
+
+#### Year Two
+
+In the second year, students are able to tailor the program to fit their needs in two ways.  First, students can select one of two specialization tracks with either a *quantitative* or *clinical* emphasis.  Second, students have the option of conducting their own research project during the thesis seminar.  In the thesis seminar, students can complete an indepenent, IRB approved, research project or develop a research project most similar to a program evaluation. 
+
+
+
+| Semester  | Course Type | | Course Name
+|:---:	|:----: | :----: | :---- |
+| Fall | Core Course | |Advanced Statistics II: Advanced Regression: HLM  |
+| Fall | **Specialization 1** | `Quantitative` | Introduction to Programming in R |
+| Fall | **Specialization 2** | `Clinical` | Introduction to DBT |
+| Fall | Optional | |Thesis Seminar or Final Research Project  | 
+
+| Semester  | Course Type | | Course Name
+|:---:	|:----: | :----: | :---- |
+| Spring | **Specialization 1** | `Quantitative` | Applied Bayes and Machine Learning |
+| Spring | **Specialization 2** | `Clinical` | Suicide Risk Assessment and Management |
+| Spring | Optional | Comps Students Only | Elective  | 
+| Spring | Optional | | Thesis Units  |
+| Spring | Optional | | Comprehensive Exam  |
 
