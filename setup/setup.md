@@ -8,12 +8,12 @@ permalink: /setup
 
 Each Class installation is unique.  Select your course and follow the instructions for local installation 
 
-| Course |  [R and R Studio](#rsetup) | [OSF](#osf) | [Git/GitHub](#git) | [Slack](#slack) |
-|--- |:-:	|:-: |:-: | :-: |
-| PSY412 | Yes | Yes | No | No |
-| Psyc562 | Yes | Yes | Yes | Yes |
-| Psyc565 | Yes | Yes | No | No |
-| Research Ethics  | Yes | Yes | No | No |
+| Course |  [R and R Studio](#rsetup) | [OSF](#osf) | [Git/GitHub](#git) | [Slack](#slack) | [DataCamp](#datacamp)
+|--- |:-:	|:-: |:-: | :-: | :-: |
+| PSY 412 | Yes | Yes | No | No | Yes |
+| PSYC 562 | Yes | Yes | Yes | Yes |Yes |
+| PSYC 565 | Yes | Yes | No | No |No |
+| Research Ethics  | Yes | Yes | No | No |No |
 
 
 <br>
@@ -66,3 +66,7 @@ You can find specific instructions on how to setup up your OSF page [here](https
 
 [Slack](https://slack.com/) stands for "Searchable Log of All Conversation and Knowledge" but is basically a chat forum for people who like computer programming.  You can join "channels" or create your own group with others that creates a space for conversation about your "work". 
 A benefit of Slack is that it allows for the communication of code across a variety of computer and statistical programming languages. In that sense it's a bit more than other chat applications.  
+
+## DataCamp {#datacamp}
+
+[DataCamp](https://www.datacamp.com/) is an online service that provides interactive tutorials by experts in R and Python.  Please signup with your CLU account.  As part of your coursework, DataCamp has been generous in providing their services for *free* to supplement and enhance what we accomplish in class.  
