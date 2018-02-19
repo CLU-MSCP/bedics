@@ -57,9 +57,7 @@ You can find specific instructions on how to setup up your OSF page [here](https
 <h4 align="center"><strong>Extras</strong></h4>
 
 
-1. Get a <a  href="https://git-scm.com/downloads/guis/">Git Client</a>.  These are GUIs that provide some extra visualization for all your diffs, commits, etc.  I've tried a few but am not sold on any in particular. I would recommend trying the following and explore:
-    * GitKraken
-    * SourceTree
+1. Get a <a  href="https://git-scm.com/downloads/guis/">Git Client</a>.  These are GUIs that provide some extra visualization for all your diffs, commits, etc.  I've tried a few but am not sold on any in particular. I would recommend trying [GitKraken](https://www.gitkraken.com/) and [SourceTree](https://confluence.atlassian.com/get-started-with-sourcetree/install-sourcetree-847359094.html) from Atlassian.  See which you prefer. 
 2. Here's a series of fun videos on Git and Github on Youtube by <a  href="https://www.youtube.com/watch?v=BCQHnlnPusY">The Coding Train</a>.  You'll get a sense of effective workflow with Git and Github. I recommend watching all of these videos and taking notes.
 
 
