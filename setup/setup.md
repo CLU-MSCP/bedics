@@ -56,16 +56,15 @@ You can find specific instructions on how to setup up your OSF page [here](https
 
 <h4 align="center"><strong>Extras</strong></h4>
 
-<p>
-1. Get a <a  href="https://git-scm.com/downloads/guis/">Git Client</a>.  These are GUIs that provide some extra visualization for all your diffs, commits, etc.  I've tried a few but am not sold on any in particular. I would recommend trying the following and explore:</li>
-    
-    * GitKraken
-    * SourceTree</p>
 
+1. Get a <a  href="https://git-scm.com/downloads/guis/">Git Client</a>.  These are GUIs that provide some extra visualization for all your diffs, commits, etc.  I've tried a few but am not sold on any in particular. I would recommend trying the following and explore:
+    * GitKraken
+    * SourceTree
 2. Here's a series of fun videos on Git and Github on Youtube by <a  href="https://www.youtube.com/watch?v=BCQHnlnPusY">The Coding Train</a>.  You'll get a sense of effective workflow with Git and Github. I recommend watching all of these videos and taking notes.
-</p>
+
 
 
 ## Slack Setup {#slack}
 
-[Slack](https://slack.com/) stands for "Searchable Log of All Conversation and Knowledge" but is basically a chat forum for people who like computer programming.  You can join "channels" or create your own group with others that creates a space for conversation about your "work". A major benefit of Slack is that it allows for the communication of code across a variety of computer and statistical programming languages. In that sense it's a bit more than other chat applications.  
+[Slack](https://slack.com/) stands for "Searchable Log of All Conversation and Knowledge" but is basically a chat forum for people who like computer programming.  You can join "channels" or create your own group with others that creates a space for conversation about your "work". 
+A benefit of Slack is that it allows for the communication of code across a variety of computer and statistical programming languages. In that sense it's a bit more than other chat applications.  
