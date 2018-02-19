@@ -16,11 +16,9 @@ The program is committed to the use of the [R language for statistical programmi
 
 <br>
 
-### MSCP Curriculum for Fall 2018
+### Tentative MSCP Curriculum beginning Fall 2018
 
-In the first year, students take courses that provide them with a firm foundation in statistical computing, use of R, and also ethics in the conduct of research in psychology and the social and behavioral sciences.  
-
-Students are **not required** to have *any* prerequisite advanced training in statistics or R for admission to the program. The goal of the program is provide students with the capability of conducting research and data science in ways that are not traditionally taught in psychology.
+In the first year, students take courses that provide them with a firm foundation in statistical computing, use of R, experimental methods and also ethics in the conduct of research in psychology and the social and behavioral sciences.  
 
 #### Year One 
 
@@ -43,16 +41,13 @@ In the second year, students are able to tailor the program to fit their needs i
 
 | Semester  | Course Type | | Course Name
 |:---:	|:----: | :----: | :---- |
-| Fall | Core Course | |Advanced Statistics II: Advanced Regression: HLM  |
+| Fall | Core Course | |Advanced Statistics II: Hiearchical Linear Models  |
 | Fall | **Specialization 1** | `Quantitative` | Introduction to Programming in R |
 | Fall | **Specialization 2** | `Clinical` | Introduction to DBT |
-| Fall | Optional | |Thesis Seminar or Final Research Project  | 
-
-| Semester  | Course Type | | Course Name
-|:---:	|:----: | :----: | :---- |
+| Fall | Optional | | Thesis Seminar or Final Research Project  | 
 | Spring | **Specialization 1** | `Quantitative` | Applied Bayes and Machine Learning |
 | Spring | **Specialization 2** | `Clinical` | Suicide Risk Assessment and Management |
-| Spring | Optional | Comps Students Only | Elective  | 
+| Spring | Elective | Comps Only | Select with Program Director  | 
 | Spring | Optional | | Thesis Units  |
 | Spring | Optional | | Comprehensive Exam  |
 
