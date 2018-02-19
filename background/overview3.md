@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chapter 2 DSUR: The R Environment
-permalink: /background
+permalink: /overview3
 ---
 
 Summary: The chapter covers a lot of diverse material.  Here's how you can make sense of it all.
