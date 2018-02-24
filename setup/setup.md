@@ -33,12 +33,12 @@ You can find specific instructions on how to setup up R and R Studio [here](http
 
 Open Science Framework or [OSF](https://osf.io/) provides strucure and support in organizing your research projects in the cloud. Benefits of OSF including the following:
 
-* Keep all your materials, data, and code in one **central storage repository**.
-* Make your OSF Project **private or public**. You can make your project public to show-off **how** you conduct research that is hidden in simply citations of work.
-* Easily **collaborate** with peers and instructors.  
-* OSF also allows for **version control** so you can work with a single file name while maintaining a clear record of prior revisions.
-* The use of OSF is consistent with values of open and transparent science. 
-* OSF provides a mechanism for **[pre-registering](http://help.osf.io/m/registrations/l/524205-register-your-project)** your study.   
+  * Keep all your materials, data, and code in one **central storage repository**.
+  * Make your OSF Project **private or public**. You can make your project public to show-off **how** you conduct research that is hidden in simply citations of work.
+  * Easily **collaborate** with peers and instructors.  
+  * OSF also allows for **version control** so you can work with a single file name while maintaining a clear record of prior revisions.
+  * The use of OSF is consistent with values of open and transparent science. 
+  * OSF provides a mechanism for **[pre-registering](http://help.osf.io/m/registrations/l/524205-register-your-project)** your study.   
 
 You can find specific instructions on how to setup up your OSF page [here](https://speakerdeck.com/jdbedics/osf-setup-for-class-projects-or-theses). 
 
