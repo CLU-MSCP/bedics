@@ -27,7 +27,9 @@ You can find specific instructions on how to setup up R and R Studio [here](http
 
 ## Open Science Framework {#osf}
 
-[<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cos-400-square.png" alt="DC" align="right" style="width: 15%; height: 15%; margin:8px">](https://osf.io/)
+[<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cos-400-square.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:8px">](https://osf.io/)
+
+
 
 Open Science Framework or [OSF](https://osf.io/) provides strucure and support in organizing your research projects in the cloud. Benefits of OSF including the following:
 
