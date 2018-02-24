@@ -20,7 +20,7 @@ Each Class installation is unique.  Select your course and follow the instructio
 
 ## R and R Studio {#rsetup}
 
-<h4 align="justify"><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/RStudio-Logo-Blue-Gradient.png" alt="DC" align="right" style="width: 25%; height: 25%; margin:8px"></h4>
+<h4 align="right"><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/RStudio-Logo-Blue-Gradient.png" alt="DC" align="right" style="width: 22%; height: 22%; margin:8px"></h4>
 
 
 [R](https://www.r-project.org/) is the statistical programming language that forms the foundation of everything we do in class. For those interested, Roger Peng provides a nice [Overview and History of R](https://www.youtube.com/watch?v=STihTnVSZnI).  [R Studio](https://www.rstudio.com/) is how we work with R. R is run *through* R Studio.  R Studio simply adds a lot more functionality and is also more aesthetically pleasing.  You need *both* R and R Studio and to update them seperately. 
@@ -30,7 +30,7 @@ You can find specific instructions on how to setup up R and R Studio [here](http
 
 ## Open Science Framework {#osf}
 
-<h4 align="justify"><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cos-400-square.png" alt="DC" align="right" style="width: 25%; height: 25%; margin:8px"></h4>
+<h4 align="right"><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cos-400-square.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:8px"></h4>
 
 Open Science Framework or [OSF](https://osf.io/) provides strucure and support in organizing your research projects in the cloud. Benefits of OSF including the following:
 
@@ -43,9 +43,9 @@ Open Science Framework or [OSF](https://osf.io/) provides strucure and support i
 
 You can find specific instructions on how to setup up your OSF page [here](https://speakerdeck.com/jdbedics/osf-setup-for-class-projects-or-theses). 
 
-## Git and GitHub Setup {#git}
+## Git and GitHub Setup {#git} 
 
-<h4 align="justify"><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/Octocat.png" alt="DC" align="right" style="width: 25%; height: 25%; margin:8px"></h4>
+<h4 align="right"><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/Octocat.png" alt="DC" align="right" style="width: 22%; height: 22%; margin:8px"></h4> 
 
 [Git](https://git-scm.com/) and [GitHub](https://github.com/) have a similar relationship as you've been between R and R Stduio.  Git is software for version control that is primarily utilized by computer programmers.  The basic idea is that you have a project and would like others to contribute (usually colleagues, instructors).  You can provide contributors with access to your code but maintain some control over what you allow to modify your core, source, code.  The benefit of Git is controlled collaboration allowing for the modication of files by multiple contributors.  A nice feature of Git is that old versions are *stored* and can be retrieved if you want to go back.  
 
@@ -70,6 +70,8 @@ You can find specific instructions on how to setup up your OSF page [here](https
 
 
 ## Slack Setup {#slack}
+
+<h4 align="justify"><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/slack_rgb.png" alt="DC" align="right" style="width: 25%; height: 25%; margin:8px"></h4>
 
 [Slack](https://slack.com/) stands for "Searchable Log of All Conversation and Knowledge" but is basically a chat forum for people who like computer programming.  You can join "channels" or create your own group with others that creates a space for conversation about your "work". 
 A benefit of Slack is that it allows for the communication of code across a variety of computer and statistical programming languages. In that sense it's a bit more than other chat applications.  
