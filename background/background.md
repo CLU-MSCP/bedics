@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Introduction to R & R Studio
+title: Chapter 2
 permalink: /background
 ---
+

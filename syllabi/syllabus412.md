@@ -36,7 +36,7 @@ PROGRAM COMPETENCIES ASSESSED IN THIS COURSE
 
 ## Required Readings {#reading}
 Texts:
-Field, A., Miles, J., Field, Z. (2012). Discovering statistics using R (DSUR). Sage Press; Thousand Oaks, CA. ISBN-10: 1446200469. 
+Field, A., Miles, J., Field, Z. (2012). *Discovering statistics using R (DSUR)*. Sage Press; Thousand Oaks, CA. ISBN-10: 1446200469. 
 
 Articles:
 See course schedule for complete list of required articles
