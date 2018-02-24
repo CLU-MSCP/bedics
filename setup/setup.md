@@ -44,7 +44,9 @@ You can find specific instructions on how to setup up your OSF page [here](https
 
 ## Git and GitHub Setup {#git}
 
-[<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/Octocat.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:8px">](https://github.com/)<br>
+<h4 align="justify">[<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/Octocat.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:8px">](https://github.com/)</h4>
+
+
 
 [Git](https://git-scm.com/) and [GitHub](https://github.com/) have a similar relationship as you've been between R and R Stduio.  Git is software for version control that is primarily utilized by computer programmers.  The basic idea is that you have a project and would like others to contribute (usually colleagues, instructors).  You can provide contributors with access to your code but maintain some control over what you allow to modify your core, source, code.  The benefit of Git is controlled collaboration allowing for the modication of files by multiple contributors.  A nice feature of Git is that old versions are *stored* and can be retrieved if you want to go back.  
 
