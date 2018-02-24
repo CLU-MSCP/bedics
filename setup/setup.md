@@ -25,9 +25,9 @@ Each Class installation is unique.  Select your course and follow the instructio
 You can find specific instructions on how to setup up R and R Studio [here](https://speakerdeck.com/jdbedics/r-and-r-studio-setup). 
 
 
-## Open Science Framerwork {#osf}
+## Open Science Framework {#osf}
 
-[<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cos-400-square.png" alt="DC" align="right" style="width: 25%; height: 25%; margin:8px">](https://osf.io/)
+[<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cos-400-square.png" alt="DC" align="right" style="width: 15%; height: 15%; margin:8px">](https://osf.io/)
 
 Open Science Framework or [OSF](https://osf.io/) provides strucure and support in organizing your research projects in the cloud. Benefits of OSF including the following:
 
