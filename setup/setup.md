@@ -27,6 +27,8 @@ You can find specific instructions on how to setup up R and R Studio [here](http
 
 ## Open Science Framerwork {#osf}
 
+[<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cos-400-square.png" alt="DC" align="right" style="width: 25%; height: 25%; margin:8px">](https://osf.io/)
+
 Open Science Framework or [OSF](https://osf.io/) provides strucure and support in organizing your research projects in the cloud. Benefits of OSF including the following:
 
 * Keep all your materials, data, and code in one **central storage repository**.
@@ -68,5 +70,7 @@ You can find specific instructions on how to setup up your OSF page [here](https
 A benefit of Slack is that it allows for the communication of code across a variety of computer and statistical programming languages. In that sense it's a bit more than other chat applications.  
 
 ## DataCamp {#datacamp}
+
+[<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/datacamp.png" alt="DC" align="right" style="width: 25%; height: 25%; margin:8px">](https://www.datacamp.com/)
 
 [DataCamp](https://www.datacamp.com/) is an online service that provides interactive tutorials by experts in R and Python.  Please signup with your CLU account.  As part of your coursework, DataCamp has been generous in providing their services for *free* to supplement and enhance what we accomplish in class.  
