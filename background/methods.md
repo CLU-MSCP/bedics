@@ -4,11 +4,11 @@ layout: page
 permalink: /methods
 ---
 
-### Why is my evil lecturer forcing me to learn statistics?
+## Why is my evil lecturer forcing me to learn statistics?
 
 The majority of this chapter should be a review of material from your prior classes on research methods.  
 
-#### 1. Theory, hypothesis, and operational definitions.
+### 1. Theory, hypothesis, and operational definitions.
 
 > *"Theories are nets cast to catch what we call the 'world': to rationalize, to explain, and to master it. We endeavor to make the mesh ever finer and finer."* - Karl Popper
 
@@ -25,7 +25,7 @@ Theory is essentially the story or narrative we tell about how particular phenom
     Wampold, B. E., Davis, B., & Gould, R. H. (1990). Hypothesis validity of clinical research. Journal of Consulting and Clinical Psychology, 58, 360-367
 
 
-#### 2. Measurement Scales
+### 2. Measurement Scales
 
 The distinction between nominal, ordinal, interval, ratio scales in scales of measurement is something you learn quite early.  However, the importance of these scales is rarely made clear.  The reason why these scales are important to understand is that they will have an impact on how you summarize, visualize, and model (run statistics) on your data.  
 
@@ -50,7 +50,7 @@ Questions to Consider:
     
     Baumeister, R. F., Vohs, K. D. & Funder, D. C. (2007).  Psychology as the science of self-reports and finger movements: Whatever happened to actual behavior? Perspectives on Psychological Science, 2, 396-403. 
 
-#### 3. Null Hypothesis Significance Testing (NHST)
+### 3. Null Hypothesis Significance Testing (NHST)
 
 At the very end of this chapter, in section 1.7.4 & 1.7.5, the author begins a discussion of sampling distributions similar to our class discussion using the binomial distribution.  The basic idea being that there are expected frequencies of outcomes and these outcomes can have assigned probabilities.  Many of our variables fall along a normal distribution, many do not.  If we know the distribution of outcomes, then we can guess at the probability of those outcomes.  Every time we have a new outcome, we can see how consistent or inconsistent our data is with the established frequency table (and corresponding probabilities).
 
