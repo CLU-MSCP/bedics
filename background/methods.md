@@ -12,7 +12,7 @@ The majority of this chapter should be a review of material from your prior clas
 
 > *"Theories are nets cast to catch what we call the 'world': to rationalize, to explain, and to master it. We endeavor to make the mesh ever finer and finer."* - Karl Popper
 
-Theory is essentially the story or narrative we tell about how particular phenomenon in the world are associated.  The phenomena we refer to are called *hypothetical constructs*.  The constructs can have an infinite number of specific definitions called *operational definitions*.  For example, depression is a construct and can defined as a DSM diagnosis, through a self-report measure, etc. 
+Theory is essentially the story or narrative we tell about how particular phenomenon in the world are associated.  The phenomena we refer to are called *hypothetical constructs*.  The constructs can have an infinite number of specific definitions called *operational definitions*.  For example, depression is a construct and can be defined as a DSM diagnosis, through a self-report measure, etc. 
 
 **Reliability** speaks to the stability or internal consistency for each operational definition.  **Validity** speaks to how well operational definitions relate to other operational definitions they would be expected or not expected to be associated.  
 
@@ -27,21 +27,17 @@ Theory is essentially the story or narrative we tell about how particular phenom
 
 ### 2. Measurement Scales
 
-The distinction between nominal, ordinal, interval, ratio scales in scales of measurement is something you learn quite early.  However, the importance of these scales is rarely made clear.  The reason why these scales are important to understand is that they will have an impact on how you summarize, visualize, and model (run statistics) on your data.  
+The distinction between nominal, ordinal, interval, ratio scales in scales of measurement is something you learned quite early in your training.  However, the importance of these scales is rarely made clear.  The reason why these scales are important is that they will impact on how you summarize, visualize, and model (run statistics) your data.  
 
-At the same time, the scale of measurement is inherently limiting and can you fix your mind on thinking about a problem or issue in a particular way. A good exercise is to think about the variables in your study and consider how you might assess the same constructs on a different scale.  Consider 
+At the same time, the scale of measurement is inherently limiting.  It will force you to think about a problem or concept in a particular way. A good exercise is to think about the variables in your study and consider how you might assess the same constructs on a different scale.
 
 **2a. Arbitrary Metrics**
 
-You should consider and review the concept of *arbitrary metrics* as another type of measurement. The point here is pretty simply.  To what extent are the variables you are measuring practical and meaningful in a way that anyone could appreciate what you're studying.   
+You should consider and review the concept of *arbitrary metrics*. The point here is pretty simple.  To what extent are the variables you are measuring practical and meaningful in a way that anyone could appreciate what you're studying. Arbitrary metrics have the distinct benefit of speaking more to the concept of *ecological validity*.    
 
-As an example, people don't often appreciate a 5-point change on, for example, a self-report measure of depression.  Instead, they often appreciate fewer days of unemployment, having a job or not having a job, number of social events attended, number of days out of bed, etc.  The difference between these metrics is pretty clear.  Arbitrary metrics have the distinct benefit of speaking more to the concept of *ecological validity*.
+As an example, people don't often appreciate a 5-point change on, for example, a self-report measure of depression.  Instead, they often appreciate fewer days of unemployment, having a job or not having a job, number of social events attended, number of days out of bed, etc.  
 
-In summary, it is best to consider both arbitrary and non-arbitrary metrics.  The point being that hypothetical constructs are inexhaustible entities that can be approached in a variety, infinite number of ways.  If you care about the variables that you are measuring then in makes sense to assess as exhaustively as possible.   
-
-Questions to Consider: 
-
-1. On what scale(s) can you imagine arbitrary metrics being measured on.
+In summary, it is best to consider both arbitrary and non-arbitrary metrics.  The point being that hypothetical constructs are inexhaustible entities that can be defined in a variety, in fact infinite, number of ways.  If you care about the variables that you are measuring then in makes sense to assess them as exhaustively as possible and include both arbitrary and non-arbitrary metrics.
 
 
 <strong><center>Advanced Resources</center></strong>
@@ -52,13 +48,13 @@ Questions to Consider:
 
 ### 3. Null Hypothesis Significance Testing (NHST)
 
-At the very end of this chapter, in section 1.7.4 & 1.7.5, the author begins a discussion of sampling distributions similar to our class discussion using the binomial distribution.  The basic idea being that there are expected frequencies of outcomes and these outcomes can have assigned probabilities.  Many of our variables fall along a normal distribution, many do not.  If we know the distribution of outcomes, then we can guess at the probability of those outcomes.  Every time we have a new outcome, we can see how consistent or inconsistent our data is with the established frequency table (and corresponding probabilities).
+At the very end of this chapter, in section 1.7.4 & 1.7.5, the author begins a discussion of sampling distributions similar to our class discussion using the binomial distribution.  The basic idea being that there are expected frequencies of outcomes and these outcomes can have assigned probabilities.  Many of our variables fall along a normal distribution, many do not.  If we know the distribution of outcomes, then we can guess the probability of those outcomes occuring given all assumptions are met. Every time we have a new outcome, we can see how consistent or inconsistent our data is with the established frequency table and thei corresponding probabilities.
 
-Although perhaps odd to think about, the tables in the back of your statistics textbooks are nothing more than expected outcomes of test statistics (t-test, chi-square, F-test, etc.) for different sample sizes.   You compare *your* results (i.e., test statistic) with the probability of it occurring in the table in the back.  Lastly, the tables are the frequency/probabilities of outcomes when you'd expect no relationship/no effect.  It's called the **null hypothesis distribution**.
+Although perhaps odd to think about, the tables in the back of your statistics textbooks are nothing more than expected outcomes of test statistics (t-test, chi-square, F-test, etc.) for different sample sizes and their corresponding probability of occuring.   You compare *your* results (i.e., test statistic) with the probability of it occurring in the table.  Lastly, the tables are the frequency/probabilities of outcomes when you'd expect no relationship/no effect.  It's called the **null hypothesis distribution**.
 
-We spend *a lot* of time talking about this, its strengths, limits, and solutions to those limits in this class.  There is nothing really inherently bad about NHST, the problem is simply that it's widely misunderstood and misapplied.  As we will see, NHST is more of a ritual that has replaced critical thinking. 
+We spend *a lot* of time talking about NHST.  We discuss its strengths, limits, and possible solutions to those limits.  There is nothing inherently bad about NHST, the problem is simply that it's widely misunderstood and misapplied.  As we will see, NHST, as a procedure for establishing the meaningfulness of our results, as become highly ritualized.  It is mostly used in ways that are inconsistent with how any of the original founders of NHST would have used it in the past.  
 
-**What is NHST?**
+**What is NHST and the P-value?**
 
 Correct definition of a p-value is as follows:
 
