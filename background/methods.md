@@ -18,7 +18,7 @@ Theory is essentially the story or narrative we tell about how particular phenom
 
 
     
-<center>**Advanced Resources**</center>
+<strong><center>Advanced Resources</center></strong>
 
     Meehl, P. E. (1967). Theory-testing in psychology and physics: A methodological paradox. Philosophy of Science, 34, 103-115.
     
@@ -44,7 +44,7 @@ Questions to Consider:
 1. On what scale(s) can you imagine arbitrary metrics being measured on.
 
 
-<center>**Advanced Resources**</center>
+<strong><center>Advanced Resources</center></strong>
 
     Kazdin, A. E. (2006). Arbitrary Metrics: Implications for Identifying Evidence-Based Treatments. American Psychologist,61(1), 42-49. doi:10.1037/0003-066X.61.1.42
     
@@ -76,7 +76,7 @@ Here is what a p value does not tell us:
   * The p value is not the chance of a Type I error (false positive).  The 5% is how often you would be wrong over many studies, given all assumptions are met, including the null. 
 
 
-<center>**Advanced Resources**</center>
+<strong><center>Advanced Resources</center></strong>
 
     Gigerenzer, G. (2004). Mindless statistics. The Journal of Socio-Economics,33(5), 587-606. doi:10.1016/j.socec.2004.09.033
     
