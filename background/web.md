@@ -48,7 +48,7 @@ The data science/analyst community is quite active on social media.  I found thi
 1. Learn Git at <a  href="https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud">Atlassian</a>.  
 2. Learn Git with the <a  href="https://www.youtube.com/watch?v=BCQHnlnPusY">Rainbow Coder</a>.  
 
-<center><h4><strong>Data Science for the Common Good and Just Data</strong></h4></center>
+<center><h3><strong>Data Science for the Common Good and Just Data</strong></h3></center>
 
 
 1. <a  href="https://data.world/">Data World</a>.  
@@ -66,33 +66,27 @@ The data science/analyst community is quite active on social media.  I found thi
 13. <a  href="https://gssdataexplorer.norc.org/">GSS Data</a>.
 14. <a  href="https://www.kaggle.com/">Kaggle</a>.
 
-<center><h4><strong>Data Visualization</strong></h4></center>
+<center><h3><strong>Data Visualization</strong></h3></center>
 
 1. Text Analysis with Twitter at <a  href="https://qz.com/862325/the-great-american-word-mapper/#int/words=dinner_supper&smoothing=3">Quartz</a>.
 2. <a  href="http://flowingdata.com/">Flowing Data</a>.
 3. <a  href="https://www.youtube.com/watch?v=TA_tNh0LMEs">Age of Insight: Telling Stories with Data</a>. 
 <p>
 
-<h4 align="center"><strong>Informed and Opinionated</strong></h4>
+<center><h3><strong>Informed and Opinionated</strong></h3></center>
 
 ### Statistics and Data Science Blogs
 
-1. Andrew Gelman's <a  href="http://andrewgelman.com/">Blog</a>
-
+1. <a  href="http://andrewgelman.com/"> Andrew Gelman's Blog</a>
 2. <a  href="http://datacolada.org/">Data Colada</a>
-
 3. <a href="http://daniellakens.blogspot.com/">The 20% Statistician</a>
-
 4. <a href="http://varianceexplained.org/">Variance Explained</a>
-
 5. <a href="http://www.the100.ci/">The 100% CI</a>
-
 6. <a href="https://simplystatistics.org/">Simply Statistics</a>
-
 7. <a href="https://www.theguardian.com/data">Guardian DataBlog</a>
  
 
-### Statistics and Data Science Podcases 
+### Statistics and Data Science Podcasts 
 
 1. <a href="https://soundcloud.com/nssd-podcast">Not So Standard Deviations</a>
 2. <a href="http://partiallyderivative.com/">Partially Derivative</a>: Car talk for the data community. No longer in production but archived. 
