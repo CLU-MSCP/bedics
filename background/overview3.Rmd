@@ -49,4 +49,9 @@ In reality, statisticians and data scientists spend the bulk of their time (80%+
 
 In order to be fully reproducible, we want to write R code for all our data management.  By doing this we, again, never touch our raw data.  We bring the data in (import), untouched, then manipulate the data. 
 
+```{r}
+summary(mtcars)
+```
+
+
 
