@@ -1,7 +1,7 @@
 ---
-title: Chapter 3
-layout: page
+title: "Chapter 3"
 permalink: /background/overview3
+layout: page
 ---
 
 ## The R Environment
