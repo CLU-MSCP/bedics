@@ -1,7 +1,7 @@
 ---
 title: Chapter 3
 layout: page
-permalink: /overview3
+permalink: /background/overview3
 ---
 
 ## The R Environment
