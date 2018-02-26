@@ -1,8 +1,11 @@
 ---
+title: Chapter 3
 layout: page
-title: The R Environment
 permalink: /overview3
 ---
+
+## The R Environment
+#### **Everything you want to know *and more* from DSUR**
 
 Summary: The chapter covers a lot of diverse material.  Here's how you can make sense of it all.
 
