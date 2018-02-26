@@ -126,8 +126,31 @@ $(document).ready(function () {
 <h2>Everything you want to know about statistics (well, sort of)</h2>
 <div id="everything-you-need-to-know-and-more-from-dsur" class="section level4">
 <h4><strong>Everything you need to know <em>and more</em> from DSUR</strong></h4>
-<p>Testing Revisions of material</p>
+<p>Summary: The chapter covers a lot of diverse material. Here’s how you can make sense of it all.</p>
+<ul>
+<li><p><a href="https://clu-mscp.github.io/bedics/setup">R History and Setup</a></p></li>
+<li><p><a href="#import">Importing Data into R</a></p></li>
+<li><p><a href="#wrangle">Data Wrangling</a></p></li>
+</ul>
+<p><strong>General tip</strong>: Ignore anything and everything to do with R Commander. We will <em>never</em> use that software.</p>
 </div>
+</div>
+<div id="import" class="section level2">
+<h2>Importing Data with R</h2>
+<p>he majority of time when we use R we are working with data that have been entered or created in other software packages such as Excel (.xls, .xlsx), tabular spreadsheets (.csv, .dat), SPSS (.sav), STATA (.dta) and others. In the old days, and still today, we would enter data by hand into Excel or SPSS. Nowadays, it’s more common to use Qualtrics (at CLU) or Survey Monkey to electronically collect data. The data from these services are then easily exported into a tabular file like Excel, .csv (Dr. Bedics’ favorite), or SPSS.</p>
+<p>You’re most likely familiar with Excel and SPSS from your prior training. In this sense, you’ve been to taught that you should be able to visually <em>see</em> and physically <em>touch</em> data. Further, there tends to be some comfort when you have such a direct connection to the data itself. It can be soothing to see the numbers all lined up and, given the size of dataframe, you might also get a could sense of the data itself. In light of this comfort and prior training, it can actually be a unsettling to <em>not</em> see the data so easily as in a framework like R.</p>
+<p>Although comforting, you might not have considered the dangers of having such a close relationship with the data.</p>
+<ol style="list-style-type: decimal">
+<li><p>It’s much easier to slip and make a mistake to original data. Numbers can change accidentally.</p></li>
+<li><p>Researchers often make well-intentioned and thoughtful changes on the spreadsheet itself but not document how the changes were made.</p></li>
+</ol>
+<p>There are likley two outcomes to the above errors. A new researcher will be entirely naive to your research process and fail to replicate and extend the area of research. Money and time is wasted. Alternatively, you do what Dr. Bedics has done and create files such as ‘data.sav’, ‘data2.sav’, ‘final_clean_data.sav’, ‘really_final_data.sav’. Nobody could tell the difference between these files. In fact, Dr. Bedics wouldn’t be able to do after putting the data aside for a month or two. Such a process is not reproducible (nobody else can do it) nor is transparent (it’s all happening in one person’s mind).</p>
+</div>
+<div id="wrangle" class="section level2">
+<h2>Wrangling Data with R</h2>
+<p>Traditionally, statistics courses in psychology are focused 90%+ on data modeling in order to make predictions and inferences. Students learn the family of linear models and learn about statistical significance testing (i.e., p&lt;.05 is good).</p>
+<p>In reality, statisticians and data scientists spend the bulk of their time (80%+ is the popular saying) managing their data. These skills are commonly referred to as <em>data wrangling</em> or <em>data munging</em> (3.5 &amp; 3.9). These include summarizing, transforming, arranging, and any other data manipulation.</p>
+<p>In order to be fully reproducible, we want to write R code for all our data management. By doing this we, again, never touch our raw data. We bring the data in (import), untouched, then manipulate the data.</p>
 </div>
 
 
