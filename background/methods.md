@@ -4,17 +4,18 @@ layout: page
 permalink: /methods
 ---
 
-## Why is my evil lecturer forcing me to learn statistics?
 
-The majority of this chapter should be a review of material from your prior classes on research methods.  
+
+## Why is my evil lecturer forcing me to learn statistics?
+####Everything you want and more from DSUR
 
 ### 1. Theory, hypothesis, and operational definitions.
 
 > *"Theories are nets cast to catch what we call the 'world': to rationalize, to explain, and to master it. We endeavor to make the mesh ever finer and finer."* - Karl Popper
 
-Theory is essentially the story or narrative we tell about how particular phenomenon in the world are associated.  The phenomena we refer to are called *hypothetical constructs*.  The constructs can have an infinite number of specific definitions called *operational definitions*.  For example, depression is a construct and can be defined as a DSM diagnosis, through a self-report measure, etc. 
+Theory is essentially the story or narrative we tell about how particular phenomenon in the world are associated.  The phenomena we refer to are called *hypothetical constructs*.  The constructs can have an infinite number of specific definitions called *operational definitions*.  For example, depression is a construct and can be defined using the DSM, self-report measure, etc. 
 
-**Reliability** speaks to the stability or internal consistency for each operational definition.  **Validity** speaks to how well operational definitions relate to other operational definitions they would be expected or not expected to be associated.  
+**Reliability** speaks to the stability or internal consistency for each operational definition.  **Validity** speaks to how well operational definitions relate to  each other when they are expected, or not expected, to be associated.  
 
 
     
@@ -27,13 +28,13 @@ Theory is essentially the story or narrative we tell about how particular phenom
 
 ### 2. Measurement Scales
 
-The distinction between nominal, ordinal, interval, ratio scales in scales of measurement is something you learned quite early in your training.  However, the importance of these scales is rarely made clear.  The reason why these scales are important is that they will impact on how you summarize, visualize, and model (run statistics) your data.  
+The distinction between nominal, ordinal, interval, ratio scales in scales of measurement is something you learned quite early in your education.  However, the importance of these scales is rarely made clear.  The reason why these scales are important is that they will impact how you summarize, visualize, and model (run statistics) your data.  
 
-At the same time, the scale of measurement is inherently limiting.  It will force you to think about a problem or concept in a particular way. A good exercise is to think about the variables in your study and consider how you might assess the same constructs on a different scale.
+At the same time, the **scale of measurement is inherently limiting**.  It will force you to think about a problem or concept in a particular way. A good exercise is to think about the variables in your study and consider how you might assess the same constructs on a different scale.
 
 **2a. Arbitrary Metrics**
 
-You should consider and review the concept of *arbitrary metrics*. The point here is pretty simple.  To what extent are the variables you are measuring practical and meaningful in a way that anyone could appreciate what you're studying. Arbitrary metrics have the distinct benefit of speaking more to the concept of *ecological validity*.    
+You should consider and review the concept of *arbitrary metrics*. The point here is pretty simple.  To what extent are the variables you are measuring practical and meaningful in a way that anyone could appreciate what you're studying. Arbitrary metrics have the distinct benefit of speaking more to the concept of **ecological validity**.    
 
 As an example, people don't often appreciate a 5-point change on, for example, a self-report measure of depression.  Instead, they often appreciate fewer days of unemployment, having a job or not having a job, number of social events attended, number of days out of bed, etc.  
 
@@ -48,11 +49,11 @@ In summary, it is best to consider both arbitrary and non-arbitrary metrics.  Th
 
 ### 3. Null Hypothesis Significance Testing (NHST)
 
-At the very end of this chapter, in section 1.7.4 & 1.7.5, the author begins a discussion of sampling distributions similar to our class discussion using the binomial distribution.  The basic idea being that there are expected frequencies of outcomes and these outcomes can have assigned probabilities.  Many of our variables fall along a normal distribution, many do not.  If we know the distribution of outcomes, then we can guess the probability of those outcomes occuring given all assumptions are met. Every time we have a new outcome, we can see how consistent or inconsistent our data is with the established frequency table and thei corresponding probabilities.
+At the very end of this chapter, in section 1.7.4 & 1.7.5, the author begins a discussion of sampling distributions similar to our in-class discussion using the binomial distribution.  The basic idea being that there are expected frequencies of outcomes and these outcomes can have assigned probabilities.  Many of our variables fall along a normal distribution, many do not.  If we know the distribution of outcomes, then we can guess the probability of those outcomes occuring given all assumptions are met. Every time we have a new outcome (e.g., test statistic), we can see how consistent or inconsistent our data is with the established frequency table and their corresponding probabilities.
 
-Although perhaps odd to think about, the tables in the back of your statistics textbooks are nothing more than expected outcomes of test statistics (t-test, chi-square, F-test, etc.) for different sample sizes and their corresponding probability of occuring.   You compare *your* results (i.e., test statistic) with the probability of it occurring in the table.  Lastly, the tables are the frequency/probabilities of outcomes when you'd expect no relationship/no effect.  It's called the **null hypothesis distribution**.
+Although perhaps odd to think about, the tables in the back of your statistics textbooks are nothing more than expected outcomes of test statistics (t-test, chi-square, F-test, etc.) for different sample sizes and their corresponding probability of occurring.   You compare *your* results (i.e., test statistic) with the probability of it occurring in the table.  Lastly, the tables are the frequency/probabilities of outcomes when you'd expect no relationship/no effect.  It's called the **null hypothesis distribution**.
 
-We spend *a lot* of time talking about NHST.  We discuss its strengths, limits, and possible solutions to those limits.  There is nothing inherently bad about NHST, the problem is simply that it's widely misunderstood and misapplied.  As we will see, NHST, as a procedure for establishing the meaningfulness of our results, as become highly ritualized.  It is mostly used in ways that are inconsistent with how any of the original founders of NHST would have used it in the past.  
+We spend *a lot* of time talking about NHST.  We discuss its strengths, limits, and possible solutions to those limits.  There is nothing inherently bad about NHST, the problem is that it's widely misunderstood and misapplied.  As we will see, NHST, as a procedure for establishing the meaningfulness of our results, as become highly ritualized.  In fact, this ritual is mostly used in ways that are inconsistent with how the original founders of NHST would have endorsed.  
 
 **What is NHST and the P-value?**
 
