@@ -71,11 +71,11 @@ The data science/analyst community is quite active on social media.  I found thi
 1. Text Analysis with Twitter at <a  href="https://qz.com/862325/the-great-american-word-mapper/#int/words=dinner_supper&smoothing=3">Quartz</a>.
 2. <a  href="http://flowingdata.com/">Flowing Data</a>.
 3. <a  href="https://www.youtube.com/watch?v=TA_tNh0LMEs">Age of Insight: Telling Stories with Data</a>. 
-<p>
+
 
 <center><h3><strong>Informed and Opinionated</strong></h3></center>
 
-### Statistics and Data Science Blogs
+Statistics and Data Science Blogs
 
 1. <a  href="http://andrewgelman.com/"> Andrew Gelman's Blog</a>
 2. <a  href="http://datacolada.org/">Data Colada</a>
@@ -86,7 +86,7 @@ The data science/analyst community is quite active on social media.  I found thi
 7. <a href="https://www.theguardian.com/data">Guardian DataBlog</a>
  
 
-### Statistics and Data Science Podcasts 
+Statistics and Data Science Podcasts 
 
 1. <a href="https://soundcloud.com/nssd-podcast">Not So Standard Deviations</a>
 2. <a href="http://partiallyderivative.com/">Partially Derivative</a>: Car talk for the data community. No longer in production but archived. 
