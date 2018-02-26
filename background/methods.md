@@ -7,7 +7,7 @@ permalink: /methods
 
 
 ## Why is my evil lecturer forcing me to learn statistics?
-####Everything you want and more from DSUR
+#### **Everything you want to know *and more* from DSUR**
 
 ### 1. Theory, hypothesis, and operational definitions.
 
