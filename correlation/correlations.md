@@ -1,0 +1,9 @@
+---
+layout: page
+title: Correlations in R
+permalink: /correlation/correlations
+---
+
+
+Formatting and working with Correlations from the [R BLOG](https://www.r-bloggers.com/formatted-correlation-with-effect-size/) 
+
