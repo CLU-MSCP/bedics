@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Importing data into R
-permalink: /import
+permalink: /background/import
 ---
 
 
