@@ -32,6 +32,9 @@ Although comforting, you might not have considered the dangers of having such a 
 
 There are likley two outcomes to the above errors. A new researcher will be entirely naive to your research process and fail to replicate and extend the area of research.  Money and time is wasted.  Alternatively, you do what Dr. Bedics has done and create files such as 'data.sav', 'data2.sav', 'final_clean_data.sav', 'really_final_data.sav'.  Nobody could tell the difference between these files.  In fact, Dr. Bedics wouldn't be able to do after putting the data aside for a month or two. Such a process is not reproducible (nobody else can do it) nor is transparent (it's all happening in one person's mind).
 
+#### Importing the DSUR Method
+
+
 ## Wrangling Data with R {#wrangle}
 
 Traditionally, statistics courses in psychology are focused 90%+ on data modeling in order to make predictions and inferences.  Students learn the family of linear models and learn about statistical significance testing (i.e., p<.05 is good).  
