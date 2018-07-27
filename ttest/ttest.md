@@ -1,5 +1,5 @@
 ---
-title: "Correlations in R"
+title: "T-Tests"
 permalink: /ttest
 layout: page
 ---
