@@ -27,9 +27,9 @@ Each Class installation is unique.  Select your course and follow the instructio
 
 You can find specific instructions on how to setup up R and R Studio [here](https://speakerdeck.com/jdbedics/r-and-r-studio-setup). 
 
-*****
-
 <a href="#">Go to top</a>
+
+*****
 
 ## Open Science Framework {#osf}
 
@@ -47,9 +47,9 @@ Open Science Framework or [OSF](https://osf.io/institutions/callutheran/) provid
 
 You can find specific instructions on how to setup up your OSF page [here](https://speakerdeck.com/jdbedics/osf-setup-for-class-projects-or-theses). Remember to sign in through the *institution login* which will take you directly to the CLU login page.  
 
-*****
-
 <a href="#">Go to top</a>
+
+*****
 
 ## Git and GitHub Setup {#git} 
 
@@ -71,12 +71,12 @@ You can find specific instructions on how to setup up your OSF page [here](https
 
 <h4 align="center"><strong>Extras</strong></h4>
 
-
 1. Get a <a  href="https://git-scm.com/downloads/guis/">Git Client</a>.  These are GUIs that provide some extra visualization for all your diffs, commits, etc.  I've tried a few but am not sold on any in particular. I would recommend trying [GitKraken](https://www.gitkraken.com/) and [SourceTree](https://confluence.atlassian.com/get-started-with-sourcetree/install-sourcetree-847359094.html) from Atlassian.  See which you prefer. 
 2. Here's a series of fun videos on Git and Github on Youtube by <a  href="https://www.youtube.com/watch?v=BCQHnlnPusY">The Coding Train</a>.  You'll get a sense of effective workflow with Git and Github. I recommend watching all of these videos and taking notes.
 
-*****
 <a href="#">Go to top</a>
+
+*****
 
 ## Slack Setup {#slack}
 
@@ -85,8 +85,9 @@ You can find specific instructions on how to setup up your OSF page [here](https
 [Slack](https://slack.com/) stands for "Searchable Log of All Conversation and Knowledge" but is basically a chat forum for people who like computer programming.  You can join "channels" or create your own group with others that creates a space for conversation about your "work". 
 A benefit of Slack is that it allows for the communication of code across a variety of computer and statistical programming languages. In that sense it's a bit more than other chat applications. You will likely onlu use Slack in PSYC 562. Please remember to use your CLU email for all other electronic correspondence with professors.
 
-*****
 <a href="#">Go to top</a>
+
+*****
 
 ## DataCamp {#datacamp}
 
@@ -94,5 +95,7 @@ A benefit of Slack is that it allows for the communication of code across a vari
 
 [DataCamp](https://www.datacamp.com/) is an online service that provides interactive tutorials by experts in R and Python.  Please signup with your CLU account.  As part of your coursework, DataCamp has been generous in providing their services for *free* to supplement and enhance what we accomplish in class.  
 
-*****
 <a href="#">Go to top</a>
+
+*****
+
