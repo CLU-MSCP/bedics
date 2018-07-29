@@ -36,10 +36,10 @@ In the first year, students take courses that provide them with a firm foundatio
 | Semester	|  Course Name	| 
 |:---:	|:---	| 
 | Fall | Advanced Statistics I: Linear Regression  | 
-| Fall | Exploratory Data Analysis: Data Wrangling and Visualization in R |
-| Fall | Psychopathology or Counseling|
+| Fall | Exploratory Data Analysis or Psychopathology (MFT) |
+| Fall | Exploratory Data Analysis or Counseling (MFT) |
 | Spring | Psychometrics & Test Development | 
-| Spring | Program Evaluation & Clinical Trials or Clinical Option |
+| Spring | Program Evaluation & Clinical Trials |
 | Spring | Experimental Methods	|
 
 <br>
@@ -51,9 +51,9 @@ In the second year, students are able to tailor the program to fit their needs i
 
 | Semester  | Course Type | | Course Name
 |:---:	|:----: | :----: | :---- |
-| Fall | Core Course | |Advanced Statistics II: Hierarchical Linear Models  |
+| Fall | Core Course | |Advanced Statistics II: Hierarchical Linear Models or ABA  |
 | Fall | **Specialization 1** | `QM` | TBD |
-| Fall | **Specialization 2** | `CS` | Introduction to DBT or ACT |
+| Fall | **Specialization 2** | `CS` | Introduction to DBT or ACT or MFT |
 | Fall | Optional | | Thesis Seminar or Final Research Project  | 
 | Spring | **Specialization 1** | `QM` | TBD |
 | Spring | **Specialization 2** | `CS` | Suicide Risk Assessment and Management |
@@ -83,7 +83,7 @@ A benefit of using R to answer your questions is the lively and active community
 
 3. [Use R!](https://www.r-project.org/conferences.html) was recently in [Brisbane, Australia](https://user2018.r-project.org/) and will be in [Toulouse, France in 2019!](http://www.user2019.fr/). Check out the 2018 site for topics covered.
 
-<br>
+*****
 
 ## Blogs
 
@@ -91,23 +91,23 @@ A benefit of using R to answer your questions is the lively and active community
 
 2. [Data Colada](http://datacolada.org/") will make all your false-positive, significance star chasing dreams coming crashing down to terra firma. 
 
-3. [The 20% Statistician](http://daniellakens.blogspot.com/") is by the author of my favorite [coursera course](https://www.coursera.org/learn/statistical-inferences) that is required watching for anyone serioius about statistics. 
+3. [The 20% Statistician](http://daniellakens.blogspot.com/") is by the author of my favorite [coursera](https://www.coursera.org/learn/statistical-inferences) course that is required watching for anyone serious about statistics. 
 
-<br>
+*****
 
 ## Podcasts
 
-I found podcasts very motivational especially of the creators are down to earth and fun.  I found two that count and they're listed below.  
+Podcasts can be very motivating and fun.  It's nice to hear people talk about the things you're learning about especially whe creators are fun, genuine, and down-to-earth.  There are many data science and reproducibility podasts but these two exceed in meeting the above criteria:
 
 1. [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) is fun, light but with enough content to get you excited about the world of statistics and data science.  
 
-2. [Partially Derivative](http://partiallyderivative.com/") is no longer in production but you can't go wrong listening to folks drink their beer and talk about data, R, and statistics.  I'm found of this [episode](http://partiallyderivative.com/news/2015/01/09/episode-9-the-one-that-will-totally-change-your-life) from season one. I love Chris Albon's [flashcards](https://twitter.com/chrisalbon)
+2. [Partially Derivative](http://partiallyderivative.com/") is no longer in production but you can't go wrong listening to folks drink their beer and talk about data, R, and statistics.  I'm found of this [episode](http://partiallyderivative.com/news/2015/01/09/episode-9-the-one-that-will-totally-change-your-life) from season one. I also love Chris Albon's [flashcards](https://twitter.com/chrisalbon); a great way to learn. 
 
-<br>
+*****
 
 ## Open Data is the Best Data
 
-You don't have to collect data from 90 college undegrads to answer your questions.  There might be an open data set that will help answer a question important to you. Check out the following: [Data World](https://data.world/), [Data.Gov](https://www.data.gov/), [Datasets in R](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html), [ROpenSci]("https://ropensci.org/packages/), [Data Science for Social Good](https://dssg.uchicago.edu/">Data Science for Social Good), [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/), [Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/), [City of New York](https://data.cityofnewyork.us/), [ICSPR at Blue](http://www.icpsr.umich.edu/icpsrweb/ICPSR/), [Data Science Central](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets), [538 at Github](https://github.com/fivethirtyeight/data") or anything at GitHub really, [ProPublica Data Store](https://www.propublica.org/datastore/), [GSS Data](https://gssdataexplorer.norc.org/), [Kaggle](https://www.kaggle.com/)
+You don't have to collect data from 90 college undegrads to answer your reseaerch questions.  There might be an open data set that will help you to answer a question important to you. Check out the following: [Data World](https://data.world/), [Data.Gov](https://www.data.gov/), [Datasets in R](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html), [ROpenSci]("https://ropensci.org/packages/), [Data Science for Social Good](https://dssg.uchicago.edu/">Data Science for Social Good), [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/), [Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/), [City of New York](https://data.cityofnewyork.us/), [ICSPR at Blue](http://www.icpsr.umich.edu/icpsrweb/ICPSR/), [Data Science Central](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets), [538 at Github](https://github.com/fivethirtyeight/data") or anything at GitHub really, [ProPublica Data Store](https://www.propublica.org/datastore/), [GSS Data](https://gssdataexplorer.norc.org/), and [Kaggle](https://www.kaggle.com/).
 
 
 <a href="#">Go to top</a>
