@@ -73,25 +73,25 @@ A benefit of using R to answer your questions is the lively and active community
 
 1. [Association for Psychological Science](https://www.psychologicalscience.org/) has been at the forefront of the open science movement.  I strongly encourage you to become a student member and consider submitting to their [conference](https://www.psychologicalscience.org/conventions) to present your work. The APS annual conference is typically at the end May with deadlines to submit in January. [Graduate student affiliation](https://www.psychologicalscience.org/members/membership-categories) is about $80. [Western Psychological Association](https://westernpsych.org/) is our regional group where you can freely present your research findings to a *very, very* friendly and welcoming group of people.  
 
-[WPA's annual convention](https://westernpsych.org/convention/) is held at the end of April and the best place to present your work for the first time.  The poster sessions are, however, sometimes spracely attended and not very active.  [Membership](https://westernpsych.org/members-login-or-join/) is free for one-year.  I recommend going here to present your work. Submission deadline is usually in November or December.  
+2. [WPA's annual convention](https://westernpsych.org/convention/) is held at the end of April and the best place to present your work for the first time.  The poster sessions are, however, sometimes spracely attended and not very active.  [Membership](https://westernpsych.org/members-login-or-join/) is free for one-year.  I recommend going here to present your work. Submission deadline is usually in November or December.  
  
 **Attend, Learn, and Participate**
 
-[Society for the Improvement of Psychological Science](https://improvingpsych.org/) is a conference where ideas around open science are the topic of conversation.  Not your typical conference, at SIPS you are encouraged to join working groups, mingle, and actively participate in projects that further improved psychological science. 
+1. [Society for the Improvement of Psychological Science](https://improvingpsych.org/) is a conference where ideas around open science are the topic of conversation.  Not your typical conference, at SIPS you are encouraged to join working groups, mingle, and actively participate in projects that further improved psychological science. 
 
-[R Studio Conference](https://www.rstudio.com/conference/) is *quite* spendy for both registration and pre-conference workshops.  However, you'll learn from the best and brightest from R Studio covering topics from machine learning to data wrangling in R with R Studio.
+2. [R Studio Conference](https://www.rstudio.com/conference/) is *quite* spendy for both registration and pre-conference workshops.  However, you'll learn from the best and brightest from R Studio covering topics from machine learning to data wrangling in R with R Studio.
 
-[Use R!](https://www.r-project.org/conferences.html) was recently in [Brisbane, Australia](https://user2018.r-project.org/) and will be in [Toulouse, France in 2019!](http://www.user2019.fr/). Check out the 2018 site for topics covered.
+3. [Use R!](https://www.r-project.org/conferences.html) was recently in [Brisbane, Australia](https://user2018.r-project.org/) and will be in [Toulouse, France in 2019!](http://www.user2019.fr/). Check out the 2018 site for topics covered.
 
 <br>
 
 ## Blogs
 
-[Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/) certainly does not sound like the most interesting blog.  However, Andrew Gelman's sass and irreverance make him the #1 [*methodological terrorist*](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) that you should be reading. 
+1. [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/) certainly does not sound like the most interesting blog.  However, Andrew Gelman's sass and irreverance make him the #1 [*methodological terrorist*](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) that you should be reading. 
 
-[Data Colada](http://datacolada.org/") will make all your false-positive, significance star chasing dreams coming crashing down to terra firma. 
+2. [Data Colada](http://datacolada.org/") will make all your false-positive, significance star chasing dreams coming crashing down to terra firma. 
 
-[The 20% Statistician](http://daniellakens.blogspot.com/") is by the author of my favorite [coursera course](https://www.coursera.org/learn/statistical-inferences) that is required watching for anyone serioius about statistics. 
+3. [The 20% Statistician](http://daniellakens.blogspot.com/") is by the author of my favorite [coursera course](https://www.coursera.org/learn/statistical-inferences) that is required watching for anyone serioius about statistics. 
 
 <br>
 
@@ -99,9 +99,9 @@ A benefit of using R to answer your questions is the lively and active community
 
 I found podcasts very motivational especially of the creators are down to earth and fun.  I found two that count and they're listed below.  
 
-[Not So Standard Deviations](https://soundcloud.com/nssd-podcast) is fun, light but with enough content to get you excited about the world of statistics and data science.  
+1. [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) is fun, light but with enough content to get you excited about the world of statistics and data science.  
 
-[Partially Derivative](http://partiallyderivative.com/") is no longer in production but you can't go wrong listening to folks drink their beer and talk about data, R, and statistics.  I'm found of this [episode](http://partiallyderivative.com/news/2015/01/09/episode-9-the-one-that-will-totally-change-your-life) from season one. I love Chris Albon's [flashcards](https://twitter.com/chrisalbon)
+2. [Partially Derivative](http://partiallyderivative.com/") is no longer in production but you can't go wrong listening to folks drink their beer and talk about data, R, and statistics.  I'm found of this [episode](http://partiallyderivative.com/news/2015/01/09/episode-9-the-one-that-will-totally-change-your-life) from season one. I love Chris Albon's [flashcards](https://twitter.com/chrisalbon)
 
 <br>
 
