@@ -55,9 +55,6 @@ In the second year, students are able to tailor the program to fit their needs i
 | Spring | Optional | | Thesis Units  |
 | Spring | Optional | | Comprehensive Exam/Elective  |
 
-<br>
-
-<a href="#">Go to top</a>
 
 ### Resources
 
@@ -119,5 +116,7 @@ You don't have to collect data from 90 college undegrads to answer your question
 [Kaggle](https://www.kaggle.com/)
 
 
+<br>
 
+<a href="#">Go to top</a>
 
