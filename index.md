@@ -23,7 +23,7 @@ These norms counter the arguably dominant cultural norms in psychology of compet
 
 In addition to the values associated with open science, students are taught *how* to best utilize the latest technologies as a method of fulfilling these values.
 
-The program is committed to the use of the [R language for statistical programming](https://www.r-project.org/) and the use of [R Studio](https://www.rstudio.com/) as the primary interface for working with R.  All R software used in this program is free. Along with the increasing popularity of [R](https://stackoverflow.blog/2017/10/10/impressive-growth-r/), R surpasses the functionality and capability of commercial software in a myriad of ways.<br/> 
+The program is committed to the use of the [R language for statistical programming](https://www.r-project.org/) and the use of [R Studio](https://www.rstudio.com/) as the primary interface for working with R.  All R software used in this program is free. Along with the increasing popularity of [R](https://stackoverflow.blog/2017/10/10/impressive-growth-r/), R surpasses the functionality and capability of commercial software in a myriad of ways.  In addition to R, we use the [Open Science Framework](https://osf.io/institutions/callutheran/) at CLU for the management and sharing of our research projects.<br/> 
 
 [<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/datacamp.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:4px">](https://www.datacamp.com/) We are able to supplement our courses with expert trainings courtesy of DataCamp.<br/>
 
@@ -52,7 +52,9 @@ In the first year, students take courses that provide them with a firm foundatio
 
 In the second year, students continue to tailor the program to fit their needs. Students select a two-course (Fall and Spring) sequence of electives that have either a **Quantitative Methods (QM)** or **Clinical Science (CS)** emphasis.
 
-Students also have the option of conducting their own research project during the thesis seminar (PSYC 565).  In the thesis seminar, students can complete an independent, IRB approved, research project for a thesis.  Thesis students will take additional thesis units in the spring.  Students, however, do not have to complete the thesis but can use the thesis seminar to prepare a study for future doctoral work (research project option).  These students will be required to take the comprehensive exams in the Spring of their second year.  
+Students also have the option of conducting their own research project during the thesis seminar (PSYC 565).  In the thesis seminar, students can complete an independent, IRB approved, research project for a thesis.  Thesis students will take additional thesis units in the Spring.  
+
+Students taking PSYC 565 do not, however, have to complete the thesis but can use the thesis seminar to prepare a research project for future doctoral work (research project option).  These students will be required to take the comprehensive exams in the Spring of their second year.  
 
 
 | Semester  | Course Type | | Course Name
@@ -95,7 +97,7 @@ R has a lively and active community of researchers that share their thoughts and
 
 1. [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/) certainly does not sound like the most interesting blog to read.  However, Andrew Gelman's sass and irreverance make him the **#1** [*methodological terrorist*](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) that will keep you reading.  You'll also learn a lot about statistics and, specifically, Bayesian modeling.
 
-2. [Data Colada](http://datacolada.org/") will make all your false-positive and asterisk/significance chasing dreams coming crashing down to terra firma. 
+2. [Data Colada](http://datacolada.org/") will make all your false-positive and asterisk/significance chasing dreams come crashing down to terra firma. It will also simply make you a better researcher.
 
 3. [The 20% Statistician](http://daniellakens.blogspot.com/") is by the author of my favorite [coursera](https://www.coursera.org/learn/statistical-inferences) course that is required watching for all of humanity. 
 
@@ -103,7 +105,7 @@ R has a lively and active community of researchers that share their thoughts and
 
 ## Podcasts
 
-Podcasts can be very motivating and fun.  It's nice to hear people talk about the things you're learning in-class.  It's especially helpful when the podcasts creators are fun, genuine, and down-to-earth.  There are many data science and reproducibility podcasts out there but the following two are my favorites:
+Podcasts can be very motivating and fun.  It's nice to hear people talk about the things you learn in the classroom.  It's especially helpful when the podcasts creators are fun, genuine, and down-to-earth.  There are many data science and reproducibility podcasts but the following are two of my favorites:
 
 1. [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) is fun, light but with enough content to get you excited about the world of statistics and data science.  
 
