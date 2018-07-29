@@ -98,21 +98,7 @@ I found podcasts very motivational especially of the creators are down to earth 
 
 You don't have to collect data from 90 college undegrads to answer your questions.  There might be an open data set that will help answer a question important to you.
 
-[Data World](https://data.world/)
-[Data.Gov](https://www.data.gov/)
-[Datasets in R](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html) 
-[ROpenSci]("https://ropensci.org/packages/)
-[Data Science for Social Good](https://dssg.uchicago.edu/">Data Science for Social Good)
-[Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
-[Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/)
-[City of New York](https://data.cityofnewyork.us/)
-[ICSPR at Blue](http://www.icpsr.umich.edu/icpsrweb/ICPSR/)
-[Data Science Central](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
-[538 at Github](https://github.com/fivethirtyeight/data") or anything at GitHub really.
-[ProPublica Data Store](https://www.propublica.org/datastore/)
-[GSS Data](https://gssdataexplorer.norc.org/)
-
-[Kaggle](https://www.kaggle.com/)
+[Data World](https://data.world/), [Data.Gov](https://www.data.gov/), [Datasets in R](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html), [ROpenSci]("https://ropensci.org/packages/), [Data Science for Social Good](https://dssg.uchicago.edu/">Data Science for Social Good), [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/), [Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/), [City of New York](https://data.cityofnewyork.us/), [ICSPR at Blue](http://www.icpsr.umich.edu/icpsrweb/ICPSR/), [Data Science Central](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets), [538 at Github](https://github.com/fivethirtyeight/data") or anything at GitHub really, [ProPublica Data Store](https://www.propublica.org/datastore/), [GSS Data](https://gssdataexplorer.norc.org/), [Kaggle](https://www.kaggle.com/)
 
 
 <br>
