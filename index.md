@@ -25,26 +25,26 @@ In addition to the values associated with open science, students are taught *how
 
 The program is committed to the use of the [R language for statistical programming](https://www.r-project.org/) and the use of [R Studio](https://www.rstudio.com/) as the primary interface for working with R.  All R software used in this program is free. Along with the increasing popularity of [R](https://stackoverflow.blog/2017/10/10/impressive-growth-r/), R surpasses the functionality and capability of commercial software in a myriad of ways.  In addition to R, we use the [Open Science Framework](https://osf.io/institutions/callutheran/) at CLU for the management and sharing of our research projects.<br/> 
 
-[<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/datacamp.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:4px">](https://www.datacamp.com/) We are able to supplement our courses with expert trainings courtesy of DataCamp.<br/>
+[<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/datacamp.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:4px">](https://www.datacamp.com/) Thanks to DataCamp, many of the courses in the CLU MSCP program can be supplmentted by expert online trainings.<br/>
 
 <br>
 
 # Tentative MSCP Curriculum in Development
 
-In the first year, students take courses that provide them with a firm foundation in statistical computing, use of R, experimental methods and also ethics in the conduct of research in psychology and the social and behavioral sciences.  
+The MSCP program is making the following proposed changes that have yet to be approved by faculty.  In the first year, students take courses that provide them with a firm foundation in statistical computing, use of R, experimental methods and also ethics in the conduct of research in psychology and the social and behavioral sciences.  
 
 ## Year One 
 
 | Semester	|  Course Name	| 
 |:---:	|:---	| 
-| Fall | Advanced Statistics I: Linear Regression  | 
-| Fall | Exploratory Data Analysis or Psychopathology (MFT) |
-| Fall | Exploratory Data Analysis or Counseling (MFT) |
-| Spring | Psychometrics & Test Development | 
-| Spring | Program Evaluation & Clinical Trials |
-| Spring | Experimental Methods	|
-| Summer | Research Ethics or MFT Clinical Ethics	|
-| Summer | DBT Skills Training	|
+| Fall | Advanced Statistics I: Linear Regression (PSYC562)  | 
+| Fall | Exploratory Data Analysis (not yet offered) *or* Psychopathology (MFT) |
+| Fall | Exploratory Data Analysis (not yet offered) *or* Counseling (MFT) |
+| Spring | Psychometrics & Test Development (not yet offered) or Psychological Assessment | 
+| Spring | Program Evaluation & Clinical Trials (not yet offered) or Interviewing |
+| Spring | Experimental Methods (PSYC 564)	|
+| Summer | Research Ethics (not yet offered) *or* MFT Clinical Ethics	|
+| Summer | DBT Skills Training (PSYC 501)	|
 
 *****
 
@@ -59,15 +59,16 @@ Students taking PSYC 565 do not, however, have to complete the thesis but can us
 
 | Semester  | Course Type | | Course Name
 |:---:	|:----: | :----: | :---- |
-| Fall | Core Course | |Advanced Statistics II: Hierarchical Linear Models or ABA  |
-| Fall | **Specialization 1** | `QM` | TBD |
-| Fall | **Specialization 2** | `CS` | Introduction to DBT or ACT or Part I of MFT course options |
-| Fall | Optional | | Thesis Seminar or Final Research Project  | 
-| Spring | **Specialization 1** | `QM` | TBD |
-| Spring | **Specialization 2** | `CS` | Suicide Assessment and Management or Part II of MFT Course Options |
+| Fall | Core Course | |Advanced Statistics II: Hierarchical Linear Models (not yet offered) or ABA  |
+| Fall | Elective | **Specialization Part I** | Choose[^fall] |
+| Fall | Optional | | Thesis Seminar  | 
+| Spring | Elective | **Specialization Part II** | Choose[^spring] |
 | Spring | Elective | Comps Only | Select with Program Director  | 
 | Spring | Optional | | Thesis Units  |
 | Spring | Optional | | Comprehensive Exam/Elective  |
+
+[^fall]: DBT Basics, ACT, Quantitative Methods (TBD), or MFT course options (e.g., trauma, child/adolescent, family mediation)
+[^spring]: Suicide Assessment and Risk Management (Part II for DBT and ACT), Quantitative Methods II (TBD), or part II of the same MFT course options.
 
 *****
 
