@@ -60,15 +60,12 @@ Students taking PSYC 565 do not, however, have to complete the thesis but can us
 | Semester  | Course Type | | Course Name
 |:---:	|:----: | :----: | :---- |
 | Fall | Core Course | |Advanced Statistics II: Hierarchical Linear Models (not yet offered) or ABA  |
-| Fall | Elective | **Specialization Part I** | Choose[^fall] |
+| Fall | Elective | **Specialization Part I** | Choose One[^fall] |
 | Fall | Optional | | Thesis Seminar  | 
-| Spring | Elective | **Specialization Part II** | Choose[^spring] |
+| Spring | Elective | **Specialization Part II** | Choose One[^spring] |
 | Spring | Elective | Comps Only | Select with Program Director  | 
 | Spring | Optional | | Thesis Units  |
 | Spring | Optional | | Comprehensive Exam/Elective  |
-
-[^fall]: DBT Basics, ACT, Quantitative Methods (TBD), or MFT course options (e.g., trauma, child/adolescent, family mediation)
-[^spring]: Suicide Assessment and Risk Management (Part II for DBT and ACT), Quantitative Methods II (TBD), or part II of the same MFT course options.
 
 *****
 
@@ -121,3 +118,10 @@ You don't always have to collect data from 90 college undegraduates to answer yo
 *****
 
 <a href="#">Go to top</a>
+
+
+<br>
+
+
+[^fall]: Fall Course Options (subject to change) include DBT Basics, ACT, Quantitative Methods (TBD), or MFT course options (e.g., trauma, child/adolescent, family mediation)
+[^spring]: Spring Course Options (subject to change) include Suicide Assessment and Risk Management (Part II for DBT and ACT), Quantitative Methods II (TBD), or part II of the same MFT course options.
