@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Dr. Bedics
-permalink: /background/about
+permalink: /about
 ---
 
 
