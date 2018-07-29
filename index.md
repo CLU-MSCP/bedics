@@ -13,11 +13,16 @@ Welcome to Dr. Bedics' Statistics and Research Methods Resource Site for the **M
 The CLU MSCP is a two-year program that balances training in evidence-based clinical psychology wtih advanced training in statistical methods.  This website is meant to supplement the portion of the program devoted to *statistical and quantitative methods*.  
 
 Statistical and quantitative training in the CLU MSCP program emphasizes open science and reproducibility in psychological science.  The values of open science include such principles of:
-+ collaboration
-+ transparency
++ collaboration + transparency
++ transparency + sharing
 + openness
 + reproducibility
 + integrity
+
+ |:---:	|:---	| 
+| Integrity | Collaboration  | 
+| + Tranparency | + Reproducibility |
+| + Openness | |
 
 These norms counter the arguably dominant culture of competitiveness, secrecy, and evaluation of peers' work based on reputation and quantity over quality.  In addition to the values associated with open science, students are taught *how* to best utilize the latest technologies as a method of fulfilling these values.
 
