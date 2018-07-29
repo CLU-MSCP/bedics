@@ -42,7 +42,7 @@ In the first year, students take courses that provide them with a firm foundatio
 | Spring | Program Evaluation & Clinical Trials |
 | Spring | Experimental Methods	|
 
-<br>
+*****
 
 ## Year Two
 
@@ -56,7 +56,7 @@ In the second year, students are able to tailor the program to fit their needs i
 | Fall | **Specialization 2** | `CS` | Introduction to DBT or ACT or MFT |
 | Fall | Optional | | Thesis Seminar or Final Research Project  | 
 | Spring | **Specialization 1** | `QM` | TBD |
-| Spring | **Specialization 2** | `CS` | Suicide Risk Assessment and Management |
+| Spring | **Specialization 2** | `CS` | Suicide Assessment and Management or MFT |
 | Spring | Elective | Comps Only | Select with Program Director  | 
 | Spring | Optional | | Thesis Units  |
 | Spring | Optional | | Comprehensive Exam/Elective  |
@@ -109,7 +109,6 @@ Podcasts can be very motivating and fun.  It's nice to hear people talk about th
 
 You don't have to collect data from 90 college undegrads to answer your reseaerch questions.  There might be an open data set that will help you to answer a question important to you. Check out the following: [Data World](https://data.world/), [Data.Gov](https://www.data.gov/), [Datasets in R](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html), [ROpenSci]("https://ropensci.org/packages/), [Data Science for Social Good](https://dssg.uchicago.edu/">Data Science for Social Good), [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/), [Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/), [City of New York](https://data.cityofnewyork.us/), [ICSPR at Blue](http://www.icpsr.umich.edu/icpsrweb/ICPSR/), [Data Science Central](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets), [538 at Github](https://github.com/fivethirtyeight/data") or anything at GitHub really, [ProPublica Data Store](https://www.propublica.org/datastore/), [GSS Data](https://gssdataexplorer.norc.org/), and [Kaggle](https://www.kaggle.com/).
 
+*****
 
 <a href="#">Go to top</a>
-
-*****
