@@ -32,22 +32,23 @@ You can find specific instructions on how to setup up R and R Studio [here](http
 
 <h4 align="right"><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cos-400-square.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:8px"></h4>
 
-Open Science Framework or [OSF](https://osf.io/) provides strucure and support in organizing your research projects in the cloud. Benefits of OSF including the following:
+Open Science Framework or [OSF](https://osf.io/institutions/callutheran/) provides strucure and support in organizing your research projects in the cloud. Benefits of OSF including the following:
 
   * Keep all your materials, data, and code in one **central storage repository**.
   * Make your OSF Project **private or public**. You can make your project public to show-off **how** you conduct research that is hidden in simply citations of work.
   * Easily **collaborate** with peers and instructors.  
   * OSF also allows for **version control** so you can work with a single file name while maintaining a clear record of prior revisions.
   * The use of OSF is consistent with values of open and transparent science. 
-  * OSF provides a mechanism for **[pre-registering](http://help.osf.io/m/registrations/l/524205-register-your-project)** your study.   
+  * OSF provides a mechanism for **[pre-registering](http://help.osf.io/m/registrations/l/524205-register-your-project)** your study.
+  * Login through CLU Institutions to share and collaborate at CLU.
 
-You can find specific instructions on how to setup up your OSF page [here](https://speakerdeck.com/jdbedics/osf-setup-for-class-projects-or-theses). 
+You can find specific instructions on how to setup up your OSF page [here](https://speakerdeck.com/jdbedics/osf-setup-for-class-projects-or-theses). Remember to sign in through the *institution login* which will take you directly to the CLU login page.  
 
 ## Git and GitHub Setup {#git} 
 
 <h4 align="right"><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/Octocat.png" alt="DC" align="right" style="width: 22%; height: 22%; margin:8px"></h4> 
 
-[Git](https://git-scm.com/) and [GitHub](https://github.com/) have a similar relationship as you've been between R and R Stduio.  Git is software for version control that is primarily utilized by computer programmers.  The basic idea is that you have a project and would like others to contribute (usually colleagues, instructors).  You can provide contributors with access to your code but maintain some control over what you allow to modify your core, source, code.  The benefit of Git is controlled collaboration allowing for the modication of files by multiple contributors.  A nice feature of Git is that old versions are *stored* and can be retrieved if you want to go back.  
+[Git](https://git-scm.com/) and [GitHub](https://github.com/) have a similar relationship as you've seen between R and R Stduio.  Git is software for version control that is primarily utilized by computer programmers.  The basic idea is that you have a project and would like others to contribute (usually peers and instructors).  You can provide contributors with access to your code but maintain some control over what you allow them to modify.  The benefit of Git is controlled collaboration allowing for the modication of files by multiple contributors.  A nice feature of Git is that old versions are *stored* and can be retrieved if you want to go back. GitHub is the social version of the Git that provides a friendly user interface.  It's also a great place to find code and data and share your work. 
 
 <h4 align="center"><strong>Installing Git</strong></h4>
 <p>
@@ -74,7 +75,7 @@ You can find specific instructions on how to setup up your OSF page [here](https
 <h4 align="justify"><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/slack_rgb.png" alt="DC" align="right" style="width: 25%; height: 25%; margin:8px"></h4>
 
 [Slack](https://slack.com/) stands for "Searchable Log of All Conversation and Knowledge" but is basically a chat forum for people who like computer programming.  You can join "channels" or create your own group with others that creates a space for conversation about your "work". 
-A benefit of Slack is that it allows for the communication of code across a variety of computer and statistical programming languages. In that sense it's a bit more than other chat applications.  
+A benefit of Slack is that it allows for the communication of code across a variety of computer and statistical programming languages. In that sense it's a bit more than other chat applications. You will likely onlu use Slack in PSYC 562. Please remember to use your CLU email for all other electronic correspondence with professors.
 
 ## DataCamp {#datacamp}
 
