@@ -12,17 +12,12 @@ Welcome to Dr. Bedics' Statistics and Research Methods Resource Site for the **M
 
 The CLU MSCP is a two-year program that balances training in evidence-based clinical psychology wtih advanced training in statistical methods.  This website is meant to supplement the portion of the program devoted to *statistical and quantitative methods*.  
 
-Statistical and quantitative training in the CLU MSCP program emphasizes open science and reproducibility in psychological science.  The values of open science include such principles of:
-+ collaboration + transparency
-+ transparency + sharing
-+ openness
-+ reproducibility
-+ integrity
-
- |:---:	|:---	| 
-| Integrity | Collaboration  | 
-| + Tranparency | + Reproducibility |
-| + Openness | |
+Statistical and quantitative training in the CLU MSCP program emphasizes open science and reproducibility in psychological science.  The values of open science include such principles as:
++ Collaboration
++ Transparency
++ Openness
++ Reproducibility
++ Integrity
 
 These norms counter the arguably dominant culture of competitiveness, secrecy, and evaluation of peers' work based on reputation and quantity over quality.  In addition to the values associated with open science, students are taught *how* to best utilize the latest technologies as a method of fulfilling these values.
 
@@ -88,7 +83,9 @@ A benefit of using R to answer your questions is the lively and active community
 
 [Use R!](https://www.r-project.org/conferences.html) was recently in [Brisbane, Australia](https://user2018.r-project.org/) and will be in [Toulouse, France in 2019!](http://www.user2019.fr/). Check out the 2018 site for topics covered.
 
-**Blogs**
+<br>
+
+## Blogs
 
 [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/) certainly does not sound like the most interesting blog.  However, Andrew Gelman's sass and irreverance make him the #1 [*methodological terrorist*](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) that you should be reading. 
 
@@ -96,8 +93,9 @@ A benefit of using R to answer your questions is the lively and active community
 
 [The 20% Statistician](http://daniellakens.blogspot.com/") is by the author of my favorite [coursera course](https://www.coursera.org/learn/statistical-inferences) that is required watching for anyone serioius about statistics. 
 
+<br>
 
-**Podcasts**
+## Podcasts
 
 I found podcasts very motivational especially of the creators are down to earth and fun.  I found two that count and they're listed below.  
 
@@ -105,13 +103,12 @@ I found podcasts very motivational especially of the creators are down to earth 
 
 [Partially Derivative](http://partiallyderivative.com/") is no longer in production but you can't go wrong listening to folks drink their beer and talk about data, R, and statistics.  I'm found of this [episode](http://partiallyderivative.com/news/2015/01/09/episode-9-the-one-that-will-totally-change-your-life) from season one. I love Chris Albon's [flashcards](https://twitter.com/chrisalbon)
 
+<br>
 
-**Open Data is the Best Data**
+## Open Data is the Best Data
 
 You don't have to collect data from 90 college undegrads to answer your questions.  There might be an open data set that will help answer a question important to you. Check out the following: [Data World](https://data.world/), [Data.Gov](https://www.data.gov/), [Datasets in R](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html), [ROpenSci]("https://ropensci.org/packages/), [Data Science for Social Good](https://dssg.uchicago.edu/">Data Science for Social Good), [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/), [Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/), [City of New York](https://data.cityofnewyork.us/), [ICSPR at Blue](http://www.icpsr.umich.edu/icpsrweb/ICPSR/), [Data Science Central](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets), [538 at Github](https://github.com/fivethirtyeight/data") or anything at GitHub really, [ProPublica Data Store](https://www.propublica.org/datastore/), [GSS Data](https://gssdataexplorer.norc.org/), [Kaggle](https://www.kaggle.com/)
 
-
-<br>
 
 <a href="#">Go to top</a>
 
