@@ -16,7 +16,6 @@ Each Class installation is unique.  Select your course and follow the instructio
 | Research Ethics  | Yes | Yes | No | No |No |
 
 *****
-<br>
 
 ## R and R Studio {#rsetup}
 
@@ -95,7 +94,6 @@ A benefit of Slack is that it allows for the communication of code across a vari
 
 [DataCamp](https://www.datacamp.com/) is an online service that provides interactive tutorials by experts in R and Python.  Please signup with your CLU account.  As part of your coursework, DataCamp has been generous in providing their services for *free* to supplement and enhance what we accomplish in class.  
 
-<a href="#">Go to top</a>
-
 *****
 
+<a href="#">Go to top</a>
