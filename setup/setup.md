@@ -22,7 +22,9 @@ Each Class installation is unique.  Select your course and follow the instructio
 <h4 align="right"><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/RStudio-Logo-Blue-Gradient.png" alt="DC" align="right" style="width: 22%; height: 22%; margin:8px"></h4>
 
 
-[R](https://www.r-project.org/) is the statistical programming language that forms the foundation of everything we do in class. For those interested, Roger Peng provides a nice [Overview and History of R](https://www.youtube.com/watch?v=STihTnVSZnI).  [R Studio](https://www.rstudio.com/) is how we work with R. R is run *through* R Studio.  R Studio simply adds a lot more functionality and is also more aesthetically pleasing.  You need *both* R and R Studio and to update them seperately. 
+[R](https://www.r-project.org/) is the statistical programming language that forms the foundation of everything we do in class. For those interested, Roger Peng provides a nice [Overview and History of R](https://www.youtube.com/watch?v=STihTnVSZnI).  
+
+[R Studio](https://www.rstudio.com/) is how we work with R. R is run *through* R Studio.  R Studio simply adds a lot more functionality and is also more aesthetically pleasing.  You need *both* R and R Studio and to update them seperately. 
 
 You can find specific instructions on how to setup up R and R Studio [here](https://speakerdeck.com/jdbedics/r-and-r-studio-setup). 
 
