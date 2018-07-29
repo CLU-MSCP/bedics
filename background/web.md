@@ -7,9 +7,9 @@ permalink: /web
 
 ### In the News and Noteworthy
 
-1. News article on <a  href="http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html">R</a>.  
+<li>News article on <a  href="http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html">R</a>.</li>  
 
-2. 80% of Data Analysis is <a  href="https://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0">Janitor work</a>.  
+<li>80% of Data Analysis is <a  href="https://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0">Janitor work</a>.</li>  
 
 *****
 
@@ -49,7 +49,9 @@ permalink: /web
 <li>Learn Git at <a  href="https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud">Atlassian</a>.</li>  
 <li>Learn Git with the <a  href="https://www.youtube.com/watch?v=BCQHnlnPusY">Rainbow Coder</a>.</li>  
 
+*****
 
+<a href="#">Go to top</a>
 
 
 
