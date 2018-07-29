@@ -18,13 +18,13 @@ The program is committed to the use of the [R language for statistical programmi
 
 [<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/datacamp.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:4px">](https://www.datacamp.com/) We are able to supplement our courses with expert trainings courtesy of DataCamp.<br/>
 
-<br><br>
+<br>
 
-->Tentative MSCP Curriculum Proposal<-
+# Tentative MSCP Curriculum Proposal
 
 In the first year, students take courses that provide them with a firm foundation in statistical computing, use of R, experimental methods and also ethics in the conduct of research in psychology and the social and behavioral sciences.  
 
-#### Year One 
+## Year One 
 
 | Semester	|  Course Name	| 
 |:---:	|:---	| 
@@ -37,10 +37,9 @@ In the first year, students take courses that provide them with a firm foundatio
 
 <br>
 
-#### Year Two
+## Year Two
 
 In the second year, students are able to tailor the program to fit their needs in two ways.  First, students can select one of two electives with either a **Quantitative Methods (QM)** or **Clinical Science (CS)** emphasis.  Second, students have the option of conducting their own research project during the thesis seminar.  In the thesis seminar, students can complete an independent, IRB approved, research project or develop a research project most similar to a program evaluation. 
-
 
 
 | Semester  | Course Type | | Course Name
@@ -55,12 +54,13 @@ In the second year, students are able to tailor the program to fit their needs i
 | Spring | Optional | | Thesis Units  |
 | Spring | Optional | | Comprehensive Exam/Elective  |
 
+*****
 
-->**Resources**<-
+# Resources
 
 A benefit of using R to answer your questions is the lively and active community of researchers that share their thoughts and advice on various social media platforms.
 
-#### Professional Organizations and Conferences
+# Professional Organizations and Conferences
 
 Join and Present your Work Here
 
@@ -76,7 +76,7 @@ Join and Present your Work Here
 
 [Use R!](https://www.r-project.org/conferences.html) was recently in [Brisbane, Australia](https://user2018.r-project.org/) and will be in [Toulouse, France in 2019!](http://www.user2019.fr/). Check out the 2018 site for topics covered.
 
-->**Blogs**<-
+**Blogs**
 
 [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/) certainly does not sound like the most interesting blog.  However, Andrew Gelman's sass and irreverance make him the #1 [*methodological terrorist*](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) that you should be reading. 
 
@@ -85,7 +85,7 @@ Join and Present your Work Here
 [The 20% Statistician](http://daniellakens.blogspot.com/") is by the author of my favorite [coursera course](https://www.coursera.org/learn/statistical-inferences) that is required watching for anyone serioius about statistics. 
 
 
-->**Podcasts**<-
+**Podcasts**
 
 I found podcasts very motivational especially of the creators are down to earth and fun.  I found two that count and they're listed below.  
 
@@ -94,7 +94,7 @@ I found podcasts very motivational especially of the creators are down to earth 
 [Partially Derivative](http://partiallyderivative.com/") is no longer in production but you can't go wrong listening to folks drink their beer and talk about data, R, and statistics.  I'm found of this [episode](http://partiallyderivative.com/news/2015/01/09/episode-9-the-one-that-will-totally-change-your-life) from season one. I love Chris Albon's [flashcards](https://twitter.com/chrisalbon)
 
 
-->**Open Data is the Best Data**<-
+**Open Data is the Best Data**
 
 You don't have to collect data from 90 college undegrads to answer your questions.  There might be an open data set that will help answer a question important to you.
 
@@ -105,3 +105,4 @@ You don't have to collect data from 90 college undegrads to answer your question
 
 <a href="#">Go to top</a>
 
+*****
