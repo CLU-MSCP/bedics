@@ -5,7 +5,7 @@ permalink: /web
 ---
 
 
-### In the News and Noteworthy
+### R in the News and Noteworthy
 
 <li>News article on <a  href="http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html">R</a>.</li>  
 
@@ -17,6 +17,12 @@ permalink: /web
 
 <li>Learn R at <a  href="https://www.datacamp.com/">DataCamp</a>. DataCamp has been kind enough to give us access to their materials for most of our courses! For free!</li>
 <li>Learn R at <a  href="https://www.coursera.org/">Coursera</a>.</li>
+
+*****
+
+### R Projects
+
+<li>Tips for setting up <a  href="https://kkulma.github.io/2018-03-18-Prime-Hints-for-Running-a-data-project-in-R/">your R Projects</a>.</li>
 
 *****
 
@@ -51,6 +57,18 @@ permalink: /web
 
 *****
 
+### Research Methods Resources
+
+<li>Teaching Notes on the Legendary <a href="http://psychbrief.com/category/meehl-lectures/">Paul Meehl</a>.</li>  
+
+*****
+
+### Statistics Tips
+
+<li>A R package to output statistical results using tidy principles called <a href="https://github.com/WillemSleegers/tidystats">Tidy Stats</a>.</li>  
+
+
+*****
 <a href="#">Go to top</a>
 
 
