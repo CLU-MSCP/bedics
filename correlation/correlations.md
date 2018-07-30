@@ -6,12 +6,12 @@ permalink: /correlation
 
 
 
-1. [Looking at Relationships](#dsur6.3)
+1. [Looking at Relationships](#dsur6_3)
 
 
 
 
-# Looking at Relationships {#dsur6.3}
+### Looking at Relationships {#dsur6_3}
 
 
 

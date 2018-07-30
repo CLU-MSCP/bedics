@@ -1,5 +1,5 @@
 ---
-title: Web Resources & News for Statistical Methods
+title: Web Resources & News
 layout: page
 permalink: /web
 ---
@@ -14,6 +14,8 @@ permalink: /web
 7. [Research Methods](#web7)
 7. [Statistics](#web8)
 8. [OSF and Reproducibility](#web9)
+
+*****
 
 <br>
 
