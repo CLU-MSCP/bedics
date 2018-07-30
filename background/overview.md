@@ -1,7 +1,7 @@
 ---
 title: Chapter 2
 layout: page
-permalink: /overview2
+permalink: /overview
 ---
 
 ## Everything you want to know about statistics (well, sort of)
