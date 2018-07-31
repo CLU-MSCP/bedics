@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Importing data into R
+title: Chapter 3 The R Environment
 permalink: /import
 ---
 
