@@ -36,17 +36,18 @@ You can find specific instructions on how to setup up R and R Studio [here](http
 
 <h4 align="right"><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cos-400-square.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:8px"></h4>
 
+You can find specific instructions on how to setup up your OSF page [here](https://speakerdeck.com/jdbedics/osf-setup-and-class-project-introduction). Remember to sign in through the *institution login* which will take you directly to the CLU login page.  You **do not** need to create a seperate account.
+
 Open Science Framework or [OSF](https://osf.io/institutions/callutheran/) provides strucure and support in organizing your research projects in the cloud. Benefits of OSF including the following:
 
   * Keep all your materials, data, and code in one **central storage repository**.
-  * Make your OSF Project **private or public**. You can make your project public to show-off **how** you conduct research that is hidden in simply citations of work.
+  * Make your OSF Project **private or public**. You can make your project public to show-off *how* you conduct research that is hidden in citations of work.
   * Easily **collaborate** with peers and instructors.  
   * OSF also allows for **version control** so you can work with a single file name while maintaining a clear record of prior revisions.
   * The use of OSF is consistent with values of open and transparent science. 
   * OSF provides a mechanism for **[pre-registering](http://help.osf.io/m/registrations/l/524205-register-your-project)** your study.
-  * Login through CLU Institutions to share and collaborate at CLU.
+  * Login through CLU Institutions to share and collaborate with people at CLU.
 
-You can find specific instructions on how to setup up your OSF page [here](https://speakerdeck.com/jdbedics/osf-setup-for-class-projects-or-theses). Remember to sign in through the *institution login* which will take you directly to the CLU login page.  
 
 <a href="#">Go to top</a>
 

@@ -5,27 +5,33 @@ permalink: /import
 ---
 
 
-1. [Looking at Relationships](#dsur6_3)
-#. [Importing Data](#import)
+1. [Before you start](#dsur3_2)
+2. [Getting Started](#dsur3_3)
+3. [Using R](#dsur3_4)
+4. [Getting data into R](#dsur3_5)
 
 
 
 
-### Looking at Relationships {#dsur6_3}
+## Before you start {#dsur3_2}
+
+The chapter provides a background and overview of R.  A nice YouTube video can introduce you to both: [Getting Started with R and R Studio](https://www.youtube.com/watch?v=lVKMsaWju8w)
+
+The [setup](https://clu-mscp.github.io/bedics/setup) instructions could be helpful.
 
 
+## Importing Data with R (Sections 3.5 & 3.7) {#dsur3_3}
+
+1. [RStudio Data Import Cheatsheet](https://rawgit.com/rstudio/cheatsheets/master/data-import.pdf)
 
 
-## Importing Data with R (Sections 3.5 & 3.7) {#import}
+2. Get data from GitHub
 
-[RStudio Data Import Cheatsheet](https://rawgit.com/rstudio/cheatsheets/master/data-import.pdf)
+GitHub is a great resource for data analysis projects.  You can certainly download the data and then put it in your R Project folder.   You can also directly import from the web.  The following is an example of how to import the data directly form a website.  
 
+The data here is from the crowdsourcing study on soccer red cards.  Accessible introductions to the data can be found in [Nature](https://www.nature.com/news/crowdsourced-research-many-hands-make-tight-work-1.18508) and in Andrew Gelman's [blog](http://andrewgelman.com/2015/01/27/crowdsourcing-data-analysis-soccer-referees-give-red-cards-dark-skin-toned-players/).
 
-1. Get data from GitHub
-
-The data is here is from the crowdsourcing study on soccer red cards.  Accessible introductions can be found here [Nature](https://www.nature.com/news/crowdsourced-research-many-hands-make-tight-work-1.18508) and in Andrew Gelman's [blog](http://andrewgelman.com/2015/01/27/crowdsourcing-data-analysis-soccer-referees-give-red-cards-dark-skin-toned-players/) can be found here.
-
-A GitHub user has put the data up using a `.csv` file.  Here's the [URL](https://github.com/cgonza12/Soccer/blob/master/data.csv).  However, this is not the URL you need to import.  Click on "View Raw" and the following URL will appear along with some unsightly data 'https://raw.githubusercontent.com/cgonza12/Soccer/master/data.csv'.  This is your link to get the data. Follow the steps
+A GitHub user has put the data up using a `.csv` file.  Here's the [URL](https://github.com/cgonza12/Soccer/blob/master/data.csv) to the user's account.  However, this is not the URL you need to import.  Click on "View Raw" and the following URL will appear along with some unsightly data 'https://raw.githubusercontent.com/cgonza12/Soccer/master/data.csv'.  This is your link to get the data. Follow the steps
 
 
 A) Install and load the required library.
@@ -64,9 +70,9 @@ redcard.tb
 
 ```
 
-2. Get data from Open Science Framework
+3. Get data from Open Science Framework
 
-Here we'll get data used to conduct the P-curve analysis for the Power Poses discussed at [Data Colada](http://datacolada.org/37) by the authors and also in [Slate](http://www.slate.com/articles/health_and_science/science/2016/01/amy_cuddy_s_power_pose_research_is_the_latest_example_of_scientific_overreach.html) article by Andrew Gelman.
+You'll use OSF throughout your time at CLU.   Similar to GitHub, OSF is a great place to find projects and share material.  Just like GitHub, you could easily download the data and place it in an R Project.  In this example, however, I'll provide code showing how you can import *directly* from OSF. Here we'll get data used to conduct the P-curve analysis for the Power Poses discussed at [Data Colada](http://datacolada.org/37) by the authors and also in [Slate](http://www.slate.com/articles/health_and_science/science/2016/01/amy_cuddy_s_power_pose_research_is_the_latest_example_of_scientific_overreach.html) article by Andrew Gelman.
 
 
 A) `httr` package is need for the `GET` command. Install and load.

@@ -5,6 +5,10 @@ permalink: /web
 ---
 
 
+### Table of Contents
+
+The following are more technical resources that you might find helpful in your continued mastery of R.  
+
 1. [R in the News and Noteworthy](#web1)
 2. [General Sites for Learning R](#web2)
 3. [R Projects](#web3)
@@ -31,6 +35,7 @@ permalink: /web
 
 <li>Learn R at <a  href="https://www.datacamp.com/">DataCamp</a>. DataCamp has been kind enough to give us access to their materials for most of our courses! For free!</li>
 <li>Learn R at <a  href="https://www.coursera.org/">Coursera</a>.</li>
+<li>Variety of topics on <a  href="https://www.r-bloggers.com">R-Bloggers</a>.</li>
 
 *****
 

@@ -71,7 +71,7 @@ Students taking PSYC 565 do not, however, have to complete the thesis but can us
 
 # Resources
 
-R has a lively and active community of researchers that share their thoughts and advice on various social media platforms. You are encouraged to engage this community for both knowledge and inspiration.
+Below area list of resources for your own professional developmment.  Believe it or not, there is a lively and active community of researchers that share their thoughts and advice on research, statistics, and the use of R.  You are encouraged to engage this community for both knowledge and inspiration.
 
 ## Professional Organizations and Conferences
 
