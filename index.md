@@ -71,7 +71,7 @@ Students taking PSYC 565 do not, however, have to complete the thesis but can us
 
 # Professional Development Resources
 
-Below are a list of resources for your own professional developmment.  There is a lively and active community of researchers on various social media platforms that share their thoughts and advice on research, statistics, and R.  You are encouraged to engage this community for both knowledge and inspiration.
+Below are a list of resources for your own professional developmment.  There is a lively and fun community of researchers and instructors on various social media platforms including Twitter and Facebook. On these platforms contributors share their thoughts and advice on research, statistics, and R.  You are encouraged to engage this community for both knowledge and inspiration.
 
 ## Professional Organizations and Conferences
 
@@ -79,7 +79,7 @@ Below are a list of resources for your own professional developmment.  There is 
 
 1. [Association for Psychological Science](https://www.psychologicalscience.org/) has been at the forefront of the open science movement.  I strongly encourage you become a student member and consider submitting to their [conference](https://www.psychologicalscience.org/conventions) to present your work. The APS annual conference is typically at the end May with deadlines to submit in January. [Graduate student affiliation](https://www.psychologicalscience.org/members/membership-categories) is about $80. 
 
-2. [Western Psychological Association](https://westernpsych.org/) is our regional group where you can freely present your research findings to a *very, very* friendly and welcoming group of people. [WPA's annual convention](https://westernpsych.org/convention/) is held at the end of April. The poster sessions are, however, sometimes sparcely attended and not very active in giving you feedback.  It might be a good *first* conference. Submission deadline is usually in November or December. [Membership](https://westernpsych.org/members-login-or-join/) is free for one-year.    
+2. [Western Psychological Association](https://westernpsych.org/) is our regional group where you can freely present your research findings to a *very, very* friendly and welcoming group of people. [WPA's annual convention](https://westernpsych.org/convention/) is held at the end of April. The poster sessions are, however, sometimes sparcely attended and not very active in giving you feedback.  WPA is a good *first* conference. Submission deadline is usually in November or December. [Membership](https://westernpsych.org/members-login-or-join/) is free for one-year.    
  
 **Attend, Learn, and Participate**
 
@@ -108,6 +108,8 @@ Podcasts can be very motivating and fun.  It's nice to hear people talk about th
 1. [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) is fun, light but with enough content to get you excited about the world of statistics and data science.  
 
 2. [Partially Derivative](http://partiallyderivative.com/") is no longer in production but you can't go wrong listening to folks drink their beer and talk about data, R, and statistics.  I'm fond of this [episode](http://partiallyderivative.com/news/2015/01/09/episode-9-the-one-that-will-totally-change-your-life) from season one. I also love Chris Albon's [flashcards](https://twitter.com/chrisalbon); a great way to learn. 
+
+3. [DataFramed](https://www.datacamp.com/community/podcast) is a blog on data analysis and data science from the folks at DataCamp.  The podcast can be fairly technical but can be very informative and help you think out of the psychology box. 
 
 *****
 
