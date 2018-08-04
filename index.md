@@ -31,19 +31,19 @@ The program is committed to the use of the [R language for statistical programmi
 
 # Tentative MSCP Curriculum in Development
 
-The MSCP program is making the following proposed changes that have yet to be approved by faculty.  In the first year, students take courses that provide them with a firm foundation in statistical computing, use of R, experimental methods and also ethics in the conduct of research in psychology and the social and behavioral sciences.  
+The MSCP program is making the following proposed changes that have yet to be approved by faculty.  In the first year, students take courses that provide them with a firm foundation in statistical computing, use of R, experimental methods and also ethics in the conduct of research in psychology and the social and behavioral sciences. Please see the [official CLU webpage](https://www.callutheran.edu/academics/graduate/ms-clinical-psychology/curriculum.html) for the offiicial course curriculum.  
 
 ## Year One 
 
 | Semester	|  Course Name	| 
 |:---:	|:---	| 
 | Fall | Advanced Statistics I: Linear Regression (PSYC562)  | 
-| Fall | Exploratory Data Analysis (not yet offered) *or* Psychopathology (MFT) |
-| Fall | Exploratory Data Analysis (not yet offered) *or* Counseling (MFT) |
-| Spring | Psychometrics & Test Development (not yet offered) or Psychological Assessment | 
-| Spring | Program Evaluation & Clinical Trials (not yet offered) or Interviewing |
-| Spring | Experimental Methods (PSYC 564)	|
-| Summer | Research Ethics (not yet offered) *or* MFT Clinical Ethics	|
+| Fall | *Exploratory Data Analysis (not yet offered)* or Psychopathology (MFT; PSYC510) |
+| Fall | *Exploratory Data Analysis (not yet offered)* or Counseling (MFT; PSYC512) |
+| Spring | *Psychometric Theory (not yet offered)* or Survey of Psychological Testing (PSYC550) | 
+| Spring | *Program Evaluation (not yet offered)* or Diagnostic and Therapeutic Interviewing (PSYC530) |
+| Spring | Advanced Research Methods (PSYC 564)	|
+| Summer | *Research Ethics (not yet offered)* or Law & Ethics (MFT; PSYC530)	|
 | Summer | DBT Skills Training (PSYC 501)	|
 
 *****
@@ -59,7 +59,7 @@ Students taking PSYC 565 do not, however, have to complete the thesis but can us
 
 | Semester  | Course Type | | Course Name
 |:---:	|:----: | :----: | :---- |
-| Fall | Core Course | |Advanced Statistics II: Hierarchical Linear Models (not yet offered) or ABA  |
+| Fall | Core Course | | *Advanced Statistics II: Hierarchical Linear Models (not yet offered)* or ABA (PSYC532)  |
 | Fall | Elective | **Specialization Part I** | Choose One[^fall] |
 | Fall | Optional | | Thesis Seminar  | 
 | Spring | Elective | **Specialization Part II** | Choose One[^spring] |
@@ -113,7 +113,7 @@ Podcasts can be very motivating and fun.  It's nice to hear people talk about th
 
 ## Open Data is the Best Data
 
-You don't always have to collect data from 90 college undegraduates to answer your reseaerch questions. There might be an open data set that will help you address a question that is important to you. Explore the following sites at your leisure: [Data World](https://data.world/), [Data.Gov](https://www.data.gov/), [Datasets in R](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html), [ROpenSci]("https://ropensci.org/packages/), [Data Science for Social Good](https://dssg.uchicago.edu/">Data Science for Social Good), [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/), [Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/), [City of New York](https://data.cityofnewyork.us/), [ICSPR at Blue](http://www.icpsr.umich.edu/icpsrweb/ICPSR/), [Data Science Central](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets), [538 at Github](https://github.com/fivethirtyeight/data") or anything at GitHub really, [ProPublica Data Store](https://www.propublica.org/datastore/), [GSS Data](https://gssdataexplorer.norc.org/), and [Kaggle](https://www.kaggle.com/).
+You don't always have to collect data from 90 college undegraduates to answer your reseaerch questions. There might be an open dataset that will help you address a question that is important to you. Explore the following sites at your leisure: [Data World](https://data.world/), [Data.Gov](https://www.data.gov/), [Datasets in R](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html), [ROpenSci]("https://ropensci.org/packages/), [Data Science for Social Good](https://dssg.uchicago.edu/">Data Science for Social Good), [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/), [Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/), [City of New York](https://data.cityofnewyork.us/), [ICSPR at Blue](http://www.icpsr.umich.edu/icpsrweb/ICPSR/), [Data Science Central](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets), [538 at Github](https://github.com/fivethirtyeight/data") or anything at GitHub really, [ProPublica Data Store](https://www.propublica.org/datastore/), [GSS Data](https://gssdataexplorer.norc.org/), and [Kaggle](https://www.kaggle.com/).
 
 *****
 
