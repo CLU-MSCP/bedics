@@ -71,7 +71,7 @@ Students taking PSYC 565 do not, however, have to complete the thesis but can us
 
 # Professional Development Resources
 
-Below are a list of resources for your own professional developmment.  There is a lively and fun community of researchers and instructors on various social media platforms including Twitter and Facebook. On these platforms contributors share their thoughts and advice on research, statistics, and R.  You are encouraged to engage this community for both knowledge and inspiration.
+Below are a list of resources for your own professional developmment.  There is a fun and lively group of researchers and statisticians on various social media platforms including Twitter and Facebook. You are encouraged to engage this community for both knowledge and inspiration.
 
 ## Professional Organizations and Conferences
 
