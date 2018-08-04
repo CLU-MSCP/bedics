@@ -31,19 +31,19 @@ The program is committed to the use of the [R language for statistical programmi
 
 # Tentative MSCP Curriculum in Development
 
-The MSCP program is making the following proposed changes that have yet to be approved by faculty.  In the first year, students take courses that provide them with a firm foundation in statistical computing, use of R, experimental methods and also ethics in the conduct of research in psychology and the social and behavioral sciences. Please see the [official CLU webpage](https://www.callutheran.edu/academics/graduate/ms-clinical-psychology/curriculum.html) for the offiicial course curriculum.  
+The MSCP program is making the following proposed changes that have yet to be approved by faculty.  In the first year, students take courses that provide them with a firm foundation in statistical computing, use of R, experimental methods and also ethics in the conduct of research in psychology and the social and behavioral sciences. Please see the [official CLU webpage](https://www.callutheran.edu/academics/graduate/ms-clinical-psychology/curriculum.html) for the approved course curriculum.  
 
 ## Year One 
 
 | Semester	|  Course Name	| 
 |:---:	|:---	| 
 | Fall | Advanced Statistics I: Linear Regression (PSYC562)  | 
-| Fall | *Exploratory Data Analysis (not yet offered)* or Psychopathology (MFT; PSYC510) |
-| Fall | *Exploratory Data Analysis (not yet offered)* or Counseling (MFT; PSYC512) |
-| Spring | *Psychometric Theory (not yet offered)* or Survey of Psychological Testing (PSYC550) | 
-| Spring | *Program Evaluation (not yet offered)* or Diagnostic and Therapeutic Interviewing (PSYC530) |
+| Fall | Psychopathology (MFT; PSYC510) or *Exploratory Data Analysis (not yet offered)* |
+| Fall | Counseling (MFT; PSYC512) or *Exploratory Data Analysis (not yet offered)* |
+| Spring |Survey of Psychological Testing (PSYC550) or *Psychometric Theory (not yet offered)* | 
+| Spring | Diagnostic and Therapeutic Interviewing (PSYC530) or *Program Evaluation (not yet offered)* |
 | Spring | Advanced Research Methods (PSYC 564)	|
-| Summer | *Research Ethics (not yet offered)* or Law & Ethics (MFT; PSYC530)	|
+| Summer |  Law & Ethics (MFT; PSYC530) or *Research Ethics (not yet offered)*	|
 | Summer | DBT Skills Training (PSYC 501)	|
 
 *****
@@ -59,7 +59,7 @@ Students taking PSYC 565 do not, however, have to complete the thesis but can us
 
 | Semester  | Course Type | | Course Name
 |:---:	|:----: | :----: | :---- |
-| Fall | Core Course | | *Advanced Statistics II: Hierarchical Linear Models (not yet offered)* or ABA (PSYC532)  |
+| Fall | Core Course | | ABA (PSYC532) or *Advanced Statistics II: Hierarchical Linear Models (not yet offered)* |
 | Fall | Elective | **Specialization Part I** | Choose One[^fall] |
 | Fall | Optional | | Thesis Seminar  | 
 | Spring | Elective | **Specialization Part II** | Choose One[^spring] |
