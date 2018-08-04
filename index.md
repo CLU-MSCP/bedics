@@ -97,15 +97,15 @@ Below are a list of resources for your own professional developmment.  There is 
 
 2. [Data Colada](http://datacolada.org/") will make all your false-positive and asterisk/significance chasing dreams come crashing down to terra firma. It will also simply make you a better researcher.
 
-3. [The 20% Statistician](http://daniellakens.blogspot.com/") is by the author of my favorite [coursera](https://www.coursera.org/learn/statistical-inferences) course that is required watching for all of humanity. 
+3. [The 20% Statistician](http://daniellakens.blogspot.com/") is by the author of my favorite [coursera](https://www.coursera.org/learn/statistical-inferences) course that should be required watching for all of humanity. 
 
 *****
 
 ## Podcasts
 
-Podcasts can be very motivating and fun.  It's nice to hear people talk about the things you learn in the classroom.  It's especially helpful when the podcasts creators are fun, genuine, and down-to-earth.  There are many data science and reproducibility podcasts but the following are two of my favorites:
+Podcasts can be very motivating and fun.  It's nice to hear people talk about the things you learn in the classroom.  It's especially helpful when the podcasts creators are fun, genuine, and down-to-earth.  There are many data science and reproducibility podcasts but the following are my favorite:
 
-1. [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) is fun, light but with enough content to get you excited about the world of statistics and data science.  
+1. [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) is fun and light but with enough content to get you excited about the world of statistics and data science.  
 
 2. [Partially Derivative](http://partiallyderivative.com/") is no longer in production but you can't go wrong listening to folks drink their beer and talk about data, R, and statistics.  I'm fond of this [episode](http://partiallyderivative.com/news/2015/01/09/episode-9-the-one-that-will-totally-change-your-life) from season one. I also love Chris Albon's [flashcards](https://twitter.com/chrisalbon); a great way to learn. 
 
