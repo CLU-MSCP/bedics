@@ -37,16 +37,17 @@ Theory can also be exciting as it can be motivational.  It also places an emphas
 
 As a undergraduate and graduate student, I (Jamie) was motivated not only by my advisor but the pursuit of understanding a theory.
 
-<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/HSS.png" alt="HSS" align="right" style="width: 35%; height: 35%; margin:8px">
+<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/HSS.png" alt="HSS" align="right" style="width: 20%; height: 20%; margin:8px">
 
 I spent most of my years walking around campus with the work of Harry Stack Sullivan in my back pocket.  I appreciated is focus on close relationships consistent with object relations and his human approach to schizoprhenia.  However, it wasn't until I read the work of Lorna Smith Benjamin that allowed me to see clear ways of testing concepts related to his theory and specifically those related to personality disorders.
 
-<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/LSB.png" alt="HSS" align="left" style="width: 35%; height: 35%; margin:8px">
+<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/LSB.png" alt="HSS" align="left" style="width: 20%; height: 20%; margin:8px">
 
 I never felt at a loss for questions to answer because I knew the theory well enough to know that many of the branches were unexplored or greatly in need of replication. 
 
 *****
 
+<br>
 <br>
 
 
