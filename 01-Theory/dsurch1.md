@@ -30,10 +30,9 @@ Theory is the story or narrative we apply to better understand the world. Theori
 Researchers often feel pressure to come up with a novel and exciting new idea.  There can be a sense of pressure to be unique and to say something new.  Contrary to this idea, much of science involves the testing of theory which, for the most part, has already been laid out for the researcher.  Simply knowing and caring about theory will provide any researcher with enough questions to study for a lifetime.  For example, there are likely many branches of the theory that are either unexplored or underexplored.  If you know a theory then the hypotheses and your future work will reveal themselves.
 
 
-A great book on the topic of theory was written by Thomas Kuhn called "The Structure of Scientific Revolutions."
 <img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/kuhn.jpg" alt="kuhn" align="right" style="width: 20%; height: 20%; margin:8px">
 
-In this book he reviews the topic of "normal science" as problem solving and how impactful a community can be on our data analytic decisions. 
+A great book on the topic of theory was written by Thomas Kuhn called "The Structure of Scientific Revolutions." In this book he reviews the topic of "normal science" as problem solving and how impactful a community can be on our data analytic decisions. 
 
 <img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/dk.jpg" alt="dk" align="left" style="width: 20%; height: 20%; margin:8px">
 
@@ -41,7 +40,7 @@ In this book he reviews the topic of "normal science" as problem solving and how
 
 *****
 
-<br>
+
 
 
 
