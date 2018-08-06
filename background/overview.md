@@ -19,6 +19,8 @@ Summary: The chapter covers a lot of diverse material.  Here's how you can make 
 
 **General tip**: Ignore anything and everything to do with R Commander.  We will *never* use that software.
 
+******
+
 ## Importing Data with R {#import}
 
 The majority of time when we use R we are working with data that have been entered or created in other software packages such as Excel (.xls, .xlsx), tabular spreadsheets (.csv, .dat), SPSS (.sav), STATA (.dta) and others.  In the old days, and still today, we would enter data by hand into Excel or SPSS.  Nowadays, it's more common to use Qualtrics (at CLU) or Survey Monkey to electronically collect data.  The data from these services are then easily exported into a tabular file like Excel, .csv (Dr. Bedics' favorite), or SPSS.

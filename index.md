@@ -27,6 +27,8 @@ The program is committed to the use of the [R language for statistical programmi
 
 [<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/datacamp.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:4px">](https://www.datacamp.com/) Thanks to DataCamp, many of the courses in the CLU MSCP program can be supplmentted by expert online trainings.<br/>
 
+*****
+
 <br>
 
 # Tentative MSCP Curriculum in Development
