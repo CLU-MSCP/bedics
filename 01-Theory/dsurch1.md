@@ -10,7 +10,7 @@ permalink: /dsurch1
 #### **Everything you need to know *and more* from DSUR**
 
 
-1. [Thoery and Hypotheses](#dsur1_1)
+1. [Theory and Hypotheses](#dsur1_1)
 2. [Measurement Scales](#dsur1_2)
 3. [Null-Hypothesis Statistical Testing](#dsur1_3)
 
@@ -44,16 +44,15 @@ Another book of interest was written by the Nobel Prize winning psychologist Dan
 
 Working with a specific theory can be exciting and motivational.  It's fun to believe in something, identify with it, and attempt to change it by conducting research and contributing to the field.  It also places an emphasis on knowing the *truth* rather than simply looking for, and likely finding, associations that require post-hoc explanations.  The *random* search for findings based on underdeveloped thought has been referred to as [dustbowl empiricism](https://dictionary.apa.org/dustbowl-empiricism).
 
-As a undergraduate and graduate student, I (Jamie) was motivated not only by my advisor but by the pursuit of understanding a theory.
+
 
 <img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/HSS.png" alt="HSS" align="right" style="width: 20%; height: 20%; margin:8px">
 
-I spent most of my years walking around campus with the work of Harry Stack Sullivan in my back pocket.  I appreciated his focus on close relationships and his human approach to schizoprhenia.    
+As a undergraduate and graduate student, I (Jamie) spent most of my years walking around campus with the work of Harry Stack Sullivan in my back pocket.  I appreciated his focus on close relationships and his human approach to schizoprhenia.    
 
 <img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/LSB.png" alt="HSS" align="left" style="width: 20%; height: 20%; margin:8px">
 
-However, it wasn't until I read the work of Lorna Smith Benjamin that I was able see an example of theory testing.  Her work was focused on an understanding of personality disorders through the lens of interpersonal theorists such as Sullivan and Timothy Leary among others.  In studying and reading her work, I never felt at a loss for questions to answer because I knew many branches were unexplored or in need of replication.  There was no pressure to come up with a new idea or be unique.  The focus was on testing the theory and developing good research methods to better understand the development and treatment of personality disorders through an interpersonal lens.  Lastly, by committing early to a theory I was able to find a professional community to join where I could present my work and get valued feedback.   
-
+I became more excited about the theory as I explored a book by Lorna Smith Benjamin that applied Sullivan's theory to the treatment of personality disorders.  Her book made it easy for me to see the many hypotheses that could be tested to better understand the development, maintenance, and treatment of personality disorders through an interpersonal lens.  Even today, there are many unexplored, underdeveloped, and unreplicated branches of her theory that could be tested.
 
 
 *****
