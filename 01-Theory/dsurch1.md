@@ -33,13 +33,17 @@ Researchers often feel pressure to come up with a novel and exciting new idea.  
 A great book on the topic of theory was written by Thomas Kuhn called "The Structure of Scientific Revolutions."
 <img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/kuhn.jpg" alt="kuhn" align="right" style="width: 20%; height: 20%; margin:8px">
 
-In this book he reviews the topic of "normal science" as problem solving and how impactful a community can be on our data analytic decisions.  Another book of interest was written by the Nobel Prize winning psychologist Daniel Kahneman that chronicles his work with Amos Tversky.  In this book Kahneman discusses the importance of our natural thinking styles as they influence how we interpret and collect data. 
+In this book he reviews the topic of "normal science" as problem solving and how impactful a community can be on our data analytic decisions. 
 
-<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/dk.jpg" alt="dk" align="right" style="width: 20%; height: 20%; margin:8px">
+<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/dk.jpg" alt="dk" align="left" style="width: 20%; height: 20%; margin:8px">
 
-
+ Another book of interest was written by the Nobel Prize winning psychologist Daniel Kahneman that chronicles his work with Amos Tversky.  In this book Kahneman discusses the importance of our natural thinking styles as they influence how we interpret and collect data. 
 
 *****
+
+<br>
+
+
 
 **Theory as Motivation**
 
