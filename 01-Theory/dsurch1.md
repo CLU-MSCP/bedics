@@ -27,7 +27,7 @@ Theory is the story or narrative we apply to better understand the world. Theori
 
 **Get to Know a Theory**
 
-Researchers often feel pressure to come up with a novel and exciting new idea. Contrary to this idea, much of science involves the testing of theory which, for the most part, has already been laid out for the researcher.  Simply knowing and caring about theory will provide any researcher with enough questions to study for a lifetime.  There are likely, for example, many branches of any given theory that are either unexplored or underdeveloped.  If you know a theory well then the hypotheses and your future work will reveal themselves.  Lastly, please do not underestimate the importance of replication.  Statistical significance is not a guarantee for replication. 
+Researchers often feel pressure to come up with novel and exciting new ideas. Contrary to this idea, much of science involves the testing of theory which, for the most part, has already been laid out for the researcher.  Simply knowing and caring about theory will provide any researcher with enough questions to study for a lifetime.  There are likely, for example, many branches of any given theory that are either unexplored or underdeveloped.  If you know a theory well then the hypotheses and your future work will reveal themselves.  Lastly, please do not underestimate the importance of replication.  Statistical significance is not a guarantee for replication. 
 
 
 <img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/kuhn.jpg" alt="kuhn" align="right" style="width: 20%; height: 20%; margin:8px">
