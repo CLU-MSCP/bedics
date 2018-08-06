@@ -21,19 +21,29 @@ permalink: /dsurch1
 
 > *"Theories are nets cast to catch what we call the 'world': to rationalize, to explain, and to master it. We endeavor to make the mesh ever finer and finer."* - Karl Popper
 
-Theory is the story or narrative we apply to better understand the world. Theories are a blend of intuition and empirical data.  In popular culture, it is common to hear someone say "Oh, that's just theory" and wave their hand in a dismissing way.  They are suggesting that theory is simply philosophy with no empirical data.  Instead, theory is always a blend of intuition and data.  Data and thought operate have a reciprocal relationship.  Data inform our thoughts and our thoughts inform how we search and interpret our data.  Data can come from all sources including personal experience, case studies, qualitative narrative, field experiments, surveys, or experimentation.  
+Theory is the story or narrative we apply to better understand the world. Theories are a blend of intuition and empirical data.  In popular culture, it is common to hear someone say "Oh, that's just theory" and wave a dismissing hand. In dosing so, they are suggesting that theory is simply philosophy with no empirical data and thus of little value.  Instead, theory is best understood as a blend of intuition and data.  Data and philosophy have a reciprocal relationship.  Data inform our thoughts and our thoughts inform how we search and interpret our data.  Data can come from all sources including personal experience, case studies, qualitative narrative, field experiments, surveys, or experimentation.  
 
 *****
 
 **Get to know a Theory**
 
-Researchers often feel pressure to come up with novel and exciting new findings.  There is a sense of pressure to be unique and to say something new.  Contrary to this idea, much of science involves the testing of theory to evaluate our already developed ideas of the world.  If you know a theory, then all you have to do is examine the evidence in support of the idea. There are likely many branches of the theory and some are strong than the others. If you know a theory then the hypotheses and your future work will reveal itself.  
+Researchers often feel pressure to come up with a novel and exciting new idea.  There can be a sense of pressure to be unique and to say something new.  Contrary to this idea, much of science involves the testing of theory which, for the most part, has already been laid out for the researcher.  Simply knowing and caring about theory will provide any researcher with enough questions to study for a lifetime.  For example, there are likely many branches of the theory that are either unexplored or underexplored.  If you know a theory then the hypotheses and your future work will reveal themselves.
+
+
+A great book on the topic of theory was written by Thomas Kuhn called "The Structure of Scientific Revolutions."
+<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/kuhn.jpg" alt="kuhn" align="right" style="width: 20%; height: 20%; margin:8px">
+
+In this book he reviews the topic of "normal science" as problem solving and how impactful a community can be on our data analytic decisions.  Another book of interest was written by the Nobel Prize winning psychologist Daniel Kahneman that chronicles his work with Amos Tversky.  In this book Kahneman discusses the importance of our natural thinking styles as they influence how we interpret and collect data. 
+
+<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/dk.jpg" alt="dk" align="right" style="width: 20%; height: 20%; margin:8px">
+
+
 
 *****
 
 **Theory as Motivation**
 
-Theory can also be exciting as it can be motivational.  It also places an emphasis on knowing the *truth* rather than simply looking for, and likely finding, associations that require post-hoc explanations.  The *random* search for findings based on underdeveloped thought has been referred to as [dustbowl empiricism](https://dictionary.apa.org/dustbowl-empiricism).
+Working with a specific theory can be exciting and motivational.  It's fun to believe in something, identify with it, and attempt to challenge it by conducting research and contributing to a larger body of knowledge.  It also places an emphasis on knowing the *truth* rather than simply looking for, and likely finding, associations that require post-hoc explanations.  The *random* search for findings based on underdeveloped thought has been referred to as [dustbowl empiricism](https://dictionary.apa.org/dustbowl-empiricism).
 
 As a undergraduate and graduate student, I (Jamie) was motivated not only by my advisor but the pursuit of understanding a theory.
 
