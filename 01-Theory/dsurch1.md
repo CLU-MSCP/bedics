@@ -79,7 +79,7 @@ At the same time, the **scale of measurement is inherently limiting**.  It will 
 
 **2a. Arbitrary Metrics**
 
-> *it is possible that evidence-based treatments with effects demonstrated on arbitrary metrics do not actually help people, that is, reduce their symptoms and improve their functioning.* - Alan Kazdin
+> *...it is possible that evidence-based treatments with effects demonstrated on arbitrary metrics do not actually help people, that is, reduce their symptoms and improve their functioning.* - Alan Kazdin
 
 You should consider and review the concept of *arbitrary metrics* as discussed by Alan Kazdin in the 2006 article cited below.  He raises the point that many of our measurements have no real, pracical, or "non-arbitrary" meaning.  A non-arbitrary **ecological validity**.    
 
@@ -98,22 +98,18 @@ In summary, it is best to consider both arbitrary and non-arbitrary metrics.  Th
 
 ### 3. Null Hypothesis Significance Testing (NHST) {#dsur1_3}
 
-At the very end of this chapter, in section 1.7.4 & 1.7.5, the author begins a discussion of sampling distributions similar to our in-class discussion using the binomial distribution.  The basic idea being that there are expected frequencies of outcomes and these outcomes can have assigned probabilities.  Many of our variables fall along a normal distribution, many do not.  If we know the distribution of outcomes, then we can guess the probability of those outcomes occuring given all assumptions are met. Every time we have a new outcome (e.g., test statistic), we can see how consistent or inconsistent our data is with the established frequency table and their corresponding probabilities.
-
-Although perhaps odd to think about, the tables in the back of your statistics textbooks are nothing more than expected outcomes of test statistics (t-test, chi-square, F-test, etc.) for different sample sizes and their corresponding probability of occurring.   You compare *your* results (i.e., test statistic) with the probability of it occurring in the table.  Lastly, the tables are the frequency/probabilities of outcomes when you'd expect no relationship/no effect.  It's called the **null hypothesis distribution**.
-
-We spend *a lot* of time talking about NHST.  We discuss its strengths, limits, and possible solutions to those limits.  There is nothing inherently bad about NHST, the problem is that it's widely misunderstood and misapplied.  As we will see, NHST, as a procedure for establishing the meaningfulness of our results, as become highly ritualized.  In fact, this ritual is mostly used in ways that are inconsistent with how the original founders of NHST would have endorsed.  
+At the very end of this chapter, in section 1.7.4 & 1.7.5, the author begins a discussion of sampling distributions. We spend a lot of time talking about NHST in class and in Research Ethics.  We discuss its strengths, limits, and possible solutions to those limits.  There is nothing inherently bad about NHST, the problem is that it's widely misunderstood and misapplied.  As we will see, NHST, as a procedure for establishing the meaningfulness of our results, as become highly ritualized.  In fact, this ritual is mostly used in ways that are inconsistent with how the original founders of statistical testing would have endorsed.  
 
 **What is NHST and the P-value?**
 
-Correct definition of a p-value is as follows:
+The correct definition of a p-value is as follows:
 
-> *The probability that the observed data is consistent (or more extreme) than the null hypothesis distribution assuming additional study assumptions are met*
+> *The probability that the observed data is consistent (or more extreme) than the null hypothesis distribution assuming additional study assumptions are met.*
 
 Here is what a p value does not tell us:
 
   * The probability that the null is true
-  * The probability that your hypothesis is true (wouldn't that be nice to say? Go Bayesian stats!)
+  * The probability that your hypothesis is true (wouldn't that be nice to say?)
   * A p value less than .05 does not tell us that the null should be rejected. It just means your results are odd. We do not know why it's odd. It could not fit the null distribution or some other study assumption could've been violated
   * A p value greater than .05 does not tell us that the null should be accepted (same as above but other direction)
   * A p value less than .05 does not mean that what we found is important.
