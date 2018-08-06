@@ -23,9 +23,13 @@ permalink: /dsurch1
 
 Theory is the story or narrative we apply to better understand the world. Theories are a blend of intuition and empirical data.  In popular culture, it is common to hear someone say "Oh, that's just theory" and wave their hand in a dismissing way.  They are suggesting that theory is simply philosophy with no empirical data.  Instead, theory is always a blend of intuition and data.  Data and thought operate have a reciprocal relationship.  Data inform our thoughts and our thoughts inform how we search and interpret our data.  Data can come from all sources including personal experience, case studies, qualitative narrative, field experiments, surveys, or experimentation.  
 
+*****
+
 **Get to know a Theory**
 
 Researchers often feel pressure to come up with novel and exciting new findings.  There is a sense of pressure to be unique and to say something new.  Contrary to this idea, much of science involves the testing of theory to evaluate our already developed ideas of the world.  If you know a theory, then all you have to do is examine the evidence in support of the idea. There are likely many branches of the theory and some are strong than the others. If you know a theory then the hypotheses and your future work will reveal itself.  
+
+*****
 
 **Theory as Motivation**
 
@@ -33,14 +37,17 @@ Theory can also be exciting as it can be motivational.  It also places an emphas
 
 As a undergraduate and graduate student, I (Jamie) was motivated not only by my advisor but the pursuit of understanding a theory.
 
-<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/HSS.png" alt="HSS" align="right" style="width: 42%; height: 42%; margin:8px">
+<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/HSS.png" alt="HSS" align="right" style="width: 35%; height: 35%; margin:8px">
 
 I spent most of my years walking around campus with the work of Harry Stack Sullivan in my back pocket.  I appreciated is focus on close relationships consistent with object relations and his human approach to schizoprhenia.  However, it wasn't until I read the work of Lorna Smith Benjamin that allowed me to see clear ways of testing concepts related to his theory and specifically those related to personality disorders.
 
-<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/LSB.png" alt="HSS" align="left" style="width: 42%; height: 42%; margin:8px">
+<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/LSB.png" alt="HSS" align="left" style="width: 35%; height: 35%; margin:8px">
 
+I never felt at a loss for questions to answer because I knew the theory well enough to know that many of the branches were unexplored or greatly in need of replication. 
 
+*****
 
+<br>
 
 
 
