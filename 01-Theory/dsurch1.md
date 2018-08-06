@@ -43,7 +43,7 @@ I spent most of my years walking around campus with the work of Harry Stack Sull
 
 <img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/LSB.png" alt="HSS" align="left" style="width: 20%; height: 20%; margin:8px">
 
-I never felt at a loss for questions to answer because I knew the theory well enough to know that many of the branches were unexplored or greatly in need of replication.  There was no pressure to come up with a new idea or be unique.  The focus was on the truth of the theory more than anything else.  In addition, such a commitment to one theory also provided me an immediate community to join which was motivating.  
+I never felt at a loss for questions to answer because I knew the theory well enough to know that many of the branches were unexplored or greatly in need of replication.  There was no pressure to come up with a new idea or be unique.  The focus was on the truth of the theory more than anything else.  In addition, such a commitment also connected me with a professional community filled with people to share my ideas and present my work. 
 
 
 <br>
