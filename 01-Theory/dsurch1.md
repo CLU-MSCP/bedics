@@ -36,7 +36,7 @@ A great book on the topic of theory itself was written by Thomas Kuhn called "Th
 
 <img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/dk.jpg" alt="dk" align="left" style="width: 20%; height: 20%; margin:8px">
 
-Another book of interest was written by the Nobel Prize winning psychologist Daniel Kahneman that chronicles his work with Amos Tversky.  In this book Kahneman discusses the importance of our natural thinking styles as they influence how we interpret and collect data. 
+Another book of interest was written by the Nobel Prize winning psychologist Daniel Kahneman that chronicles his work with Amos Tversky.  In this book, Kahneman discusses the importance of our natural thinking styles as they influence how we interpret and collect data. 
 
 *****
 
@@ -48,11 +48,11 @@ As a undergraduate and graduate student, I (Jamie) was motivated not only by my 
 
 <img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/HSS.png" alt="HSS" align="right" style="width: 20%; height: 20%; margin:8px">
 
-I spent most of my years walking around campus with the work of Harry Stack Sullivan in my back pocket.  I appreciated his focus on close relationships and his human approach to schizoprhenia.  However, it wasn't until I read the work of Lorna Smith Benjamin that I was able to see clear methods of testing the application of interpersonal theory to personality disorders.
+I spent most of my years walking around campus with the work of Harry Stack Sullivan in my back pocket.  I appreciated his focus on close relationships and his human approach to schizoprhenia.    
 
 <img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/LSB.png" alt="HSS" align="left" style="width: 20%; height: 20%; margin:8px">
 
-In study interpersonal theory, I never felt at a loss for questions to answer because I knew the theory well enough to know that many of the branches were unexplored or greatly in need of replication.  There was no pressure to come up with a new idea or be unique.  The focus was on the truth and developing good research methods.  Lastly, by committing early to a theory I was able to find a professional community filled with people to share my ideas with and present my work to at conferences and in journals.  
+However, it wasn't until I read the work of Lorna Smith Benjamin that I was able see an example of theory testing.  Her work was focused on an understanding of personality disorders through the the lens of Sullivan and Timothy Leary.  In study interpersonal theory, I never felt at a loss for questions to answer because I knew the theory well enough to know that many of the branches were unexplored or greatly in need of replication.  There was no pressure to come up with a new idea or be unique.  The focus was on the truth and developing good research methods to better develope the theory.  Lastly, by committing early to a theory I was able to find a professional community filled with people to share my ideas with and present my work to at conferences and in journals.  
 
 
 <br>
