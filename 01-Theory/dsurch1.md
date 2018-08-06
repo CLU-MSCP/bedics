@@ -45,12 +45,12 @@ I spent most of my years walking around campus with the work of Harry Stack Sull
 
 I never felt at a loss for questions to answer because I knew the theory well enough to know that many of the branches were unexplored or greatly in need of replication. 
 
+
+<br>
+<br>
+<br>
+
 *****
-
-<br>
-<br>
-
-
 
 **The components of a theory**
 
