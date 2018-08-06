@@ -56,8 +56,6 @@ However, it wasn't until I read the work of Lorna Smith Benjamin that I was able
 
 
 <br>
-<br>
-<br>
 
 *****
 
