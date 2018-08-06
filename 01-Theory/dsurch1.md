@@ -79,6 +79,8 @@ At the same time, the **scale of measurement is inherently limiting**.  It will 
 
 **2a. Arbitrary Metrics**
 
+> *it is possible that evidence-based treatments with effects demonstrated on arbitrary metrics do not actually help people, that is, reduce their symptoms and improve their functioning.* - Alan Kazdin
+
 You should consider and review the concept of *arbitrary metrics* as discussed by Alan Kazdin in the 2006 article cited below.  He raises the point that many of our measurements have no real, pracical, or "non-arbitrary" meaning.  A non-arbitrary **ecological validity**.    
 
 As an example, people don't often appreciate a 5-point change on, for example, a self-report measure of depression.  Instead, they often appreciate fewer days of unemployment, having a job or not having a job, number of social events attended, number of days out of bed, etc.  
