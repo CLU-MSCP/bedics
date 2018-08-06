@@ -55,7 +55,6 @@ I spent most of my years walking around campus with the work of Harry Stack Sull
 However, it wasn't until I read the work of Lorna Smith Benjamin that I was able see an example of theory testing.  Her work was focused on an understanding of personality disorders through the lens of interpersonal theorists such as Sullivan and Timothy Leary among others.  In studying and reading her work, I never felt at a loss for questions to answer because I knew many branches were unexplored or in need of replication.  There was no pressure to come up with a new idea or be unique.  The focus was on testing the theory and developing good research methods to better understand the development and treatment of personality disorders through an interpersonal lens.  Lastly, by committing early to a theory I was able to find a professional community to join where I could present my work and get valued feedback.   
 
 
-<br>
 
 *****
 
