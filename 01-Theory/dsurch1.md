@@ -51,18 +51,18 @@ As a undergraduate and graduate student, I (Jamie) spent most of my years walkin
 
 <img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/LSB.png" alt="HSS" align="left" style="width: 20%; height: 20%; margin:8px">
 
-I became more excited about the theory as I explored a book by Lorna Smith Benjamin that applied Sullivan's theory to the treatment of personality disorders.  Her book made it easy for me to see the many hypotheses that could be tested to better understand the development, maintenance, and treatment of personality disorders through an interpersonal lens.  Even today, there are many unexplored, underdeveloped, and unreplicated branches of her theory that could be tested.
+I became more excited about the theory as I explored a book by Lorna Smith Benjamin that applied Sullivan's theory to the treatment of personality disorders.  Her book made it easy for me to see the many hypotheses that could be tested examining the development, maintenance, and treatment of personality disorders through an interpersonal lens.  Even today, there are many unexplored, underdeveloped, and unreplicated branches of her theory that could be tested by interested researchers. 
 
 
 *****
 
 **The components of a theory**
 
-The phenomena we refer to are called *hypothetical constructs*.  The constructs can have an infinite number of specific definitions called *operational definitions*.  For example, depression is a construct and can be defined using the DSM, self-report measure, etc. 
+The phenomena we refer to are called *hypothetical constructs*.  The constructs can have an infinite number of specific definitions called *operational definitions*.  For example, depression is a construct and can be operationally defined using the DSM, a self-report measure, etc. Our hypotheses make specific predictions between two, or more, constructs.  General rules for developing a good hypothesis are outlined in the Wampold article cited below.  
 
 *Reliability* speaks to the stability or internal consistency for each operational definition.  *Validity* speaks to how well operational definitions relate to  each other when they are expected, or not expected, to be associated.  
 
-<strong><center>Advanced Resources</center></strong>
+<center>Resources</center>
 
     Meehl, P. E. (1967). Theory-testing in psychology and physics: A methodological paradox. Philosophy of Science, 34, 103-115.
     
@@ -74,7 +74,7 @@ The phenomena we refer to are called *hypothetical constructs*.  The constructs 
 
 ### 2. Measurement Scales {#dsur1_2}
 
-The distinction between nominal, ordinal, interval, ratio scales in scales of measurement is something you learned quite early in your education.  However, the importance of these scales is rarely made clear.  The reason why these scales are important is that they will impact how you summarize, visualize, and model (run statistics) your data. For example, you can't calculate a mean for gender or ethnicity.  You might consider non-parametric statistics for ordinal ranked data (Spearman's Rho). 
+In order to run statistics on your constructs, you need to make them into a number.  That's where scales of measurment come in.  The distinction between nominal, ordinal, interval, ratio scales is something you learned quite early in your education.  However, the importance of these scales is rarely made clear.  The reason why these scales are important is that they will impact how you summarize, visualize, model (run statistics), and generally think about your data. For example, you can't calculate a mean for gender or ethnicity and you might consider non-parametric statistics for ordinal data (e.g., Spearman's Rho). 
 
 At the same time, the **scale of measurement is inherently limiting**.  It will force you to think about a problem or concept in a particular way. A good exercise is to think about the variables in your study and consider how you might assess the same constructs on a different scale. For example, depression might be measured using a self-report measure which is likely on the interval scale.  Consider the other ways that depression might be measured (i.e., number of pleasant events attended, hours slept, occurrence of negative thoughts)
 
@@ -83,24 +83,20 @@ At the same time, the **scale of measurement is inherently limiting**.  It will 
 |:---:	|:---	| | |
 | Nominal | When a number is used like a name   | 0 = Male; 1 = Female | Identity |   
 | Ordinal | Numbers represent ranking but difference between 1 and 2 can be smaller than difference between 3 & 4 | College Football Rankings| Magnitude|
-| Interval | Same as ordinal by equal differences between numbers  | a ton of psych self-report, like personality and intelligence | Equal Intervals |
-| Ratio | Similar to interval but as a real zero | distance rode on bicylce, number of beers | True Zero | 
-
-
+| Interval | Same as ordinal but equal differences between numbers  | Most self-report in psychology such as personality and intelligence | Equal Intervals |
+| Ratio | Similar to interval but has a real zero | Distance rode on a bicylce, number of beers in one night | True Zero | 
 
 
 **2a. Arbitrary Metrics**
 
 > *...it is possible that evidence-based treatments with effects demonstrated on arbitrary metrics do not actually help people, that is, reduce their symptoms and improve their functioning.* - Alan Kazdin
 
-You should consider and review the concept of *arbitrary metrics* as discussed by Alan Kazdin in the 2006 article cited below.  He raises the point that many of our measurements have no real, pracical, or "non-arbitrary" meaning.  A non-arbitrary **ecological validity**.    
+You should consider and review the concept of *arbitrary metrics* as discussed by Alan Kazdin in the 2006 article cited below.  He raises the point that many of our measurements have no real, practical, or "non-arbitrary" meaning.   As an example, people don't often appreciate a 5-point change on, for example, a self-report measure of depression.  Instead, it is often easier for people to appreciate fewer days of unemployment, having a job or not having a job, number of social events attended, number of days out of bed, etc.  
 
-As an example, people don't often appreciate a 5-point change on, for example, a self-report measure of depression.  Instead, they often appreciate fewer days of unemployment, having a job or not having a job, number of social events attended, number of days out of bed, etc.  
-
-In summary, it is best to consider both arbitrary and non-arbitrary metrics.  The point being that hypothetical constructs are inexhaustible entities that can be defined in a variety, in fact infinite, number of ways.  If you care about the variables that you are measuring then in makes sense to assess them as exhaustively as possible and include both arbitrary and non-arbitrary metrics.
+Generally speaking, the more ways of measuring an outcome the better.  It is best to consider both arbitrary and non-arbitrary metrics.  The point being that hypothetical constructs are inexhaustible entities that can be defined in a variety, in fact infinite, number of ways.  If you care about the variables that you are measuring then in makes sense to assess them as exhaustively as possible and include both arbitrary and non-arbitrary metrics.  You are likely to increase your sensitivity in finding a result and will have improved **ecological validity** in your study.    
 
 
-<strong><center>Advanced Resources</center></strong>
+<center>Resources</center>
 
     Kazdin, A. E. (2006). Arbitrary Metrics: Implications for Identifying Evidence-Based Treatments. American Psychologist,61(1), 42-49. doi:10.1037/0003-066X.61.1.42
     
@@ -108,5 +104,19 @@ In summary, it is best to consider both arbitrary and non-arbitrary metrics.  Th
 
 *****
 
- 
+<br>
+
+### 3. Analysing Data {#dsur1_3}
+
+Section 1.7 of your text teaches you about methods of summarizing your data without actually showing you how to do so in R.  It's ironic, I guess.  He comes back and teaches you later on, just to reinforce your learning I guess.  Here you can spend time learning the definition of the concepts which cover finding out if your data is normally distributed (overrated) and how to calculate the overall average (central tendency) and variance (disperion) in your data.  Important concepts.  
+
+1. Histogram
+2. Summarize Data
+
+
+
+
+
+
+
     
