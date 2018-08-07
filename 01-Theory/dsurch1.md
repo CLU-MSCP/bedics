@@ -70,11 +70,24 @@ The phenomena we refer to are called *hypothetical constructs*.  The constructs 
 
 *****
 
+<br>
+
 ### 2. Measurement Scales {#dsur1_2}
 
-The distinction between nominal, ordinal, interval, ratio scales in scales of measurement is something you learned quite early in your education.  However, the importance of these scales is rarely made clear.  The reason why these scales are important is that they will impact how you summarize, visualize, and model (run statistics) your data.  
+The distinction between nominal, ordinal, interval, ratio scales in scales of measurement is something you learned quite early in your education.  However, the importance of these scales is rarely made clear.  The reason why these scales are important is that they will impact how you summarize, visualize, and model (run statistics) your data. For example, you can't calculate a mean for gender or ethnicity.  You might consider non-parametric statistics for ordinal ranked data (Spearman's Rho). 
 
-At the same time, the **scale of measurement is inherently limiting**.  It will force you to think about a problem or concept in a particular way. A good exercise is to think about the variables in your study and consider how you might assess the same constructs on a different scale.
+At the same time, the **scale of measurement is inherently limiting**.  It will force you to think about a problem or concept in a particular way. A good exercise is to think about the variables in your study and consider how you might assess the same constructs on a different scale. For example, depression might be measured using a self-report measure which is likely on the interval scale.  Consider the other ways that depression might be measured (i.e., number of pleasant events attended, hours slept, occurrence of negative thoughts)
+
+
+| Scale	|  Definition	| Example | Abstract Number System |
+|:---:	|:---	| | |
+| Nominal | When a number is used like a name   | 0 = Male; 1 = Female | Identity |   
+| Ordinal | Numbers represent ranking but difference between 1 and 2 can be smaller than difference between 3 & 4 | College Football Rankings| Magnitude|
+| Interval | Same as ordinal by equal differences between numbers  | a ton of psych self-report, like personality and intelligence | Equal Intervals |
+| Ratio | Similar to interval but as a real zero | distance rode on bicylce, number of beers | True Zero | 
+
+
+
 
 **2a. Arbitrary Metrics**
 
