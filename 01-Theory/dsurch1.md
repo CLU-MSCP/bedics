@@ -84,23 +84,23 @@ At the same time, the **scale of measurement is inherently limiting**.  It will 
 | Nominal | When a number is used like a name   | 0 = Male; 1 = Female | Identity |   
 | Ordinal | Numbers represent ranking but difference between 1 and 2 can be smaller than difference between 3 & 4 | College Football Rankings| Magnitude|
 | Interval | Same as ordinal but equal differences between numbers  | Most self-report in psychology such as personality and intelligence | Equal Intervals |
-| Ratio | Similar to interval but has a real zero | Distance rode on a bicylce, number of beers in one night | True Zero | 
+| Ratio | Similar to interval but has a real zero | Distance rode on a bicycle, number of beers in one night | True Zero | 
 
 
 **2a. Arbitrary Metrics**
 
 > *...it is possible that evidence-based treatments with effects demonstrated on arbitrary metrics do not actually help people, that is, reduce their symptoms and improve their functioning.* - Alan Kazdin
 
-You should consider and review the concept of *arbitrary metrics* as discussed by Alan Kazdin in the 2006 article cited below.  He raises the point that many of our measurements have no real, practical, or "non-arbitrary" meaning.   As an example, people don't often appreciate a 5-point change on, for example, a self-report measure of depression.  Instead, it is often easier for people to appreciate fewer days of unemployment, having a job or not having a job, number of social events attended, number of days out of bed, etc.  
+You should consider and review the concept of *arbitrary metrics* as discussed by Alan Kazdin in the 2006 article cited below.  He raises the point that many of our measurements have no real, practical, or "non-arbitrary" meaning.   As an example, people don't often appreciate a 5-point change on, for example, a self-report measure of depression. Such a measure is considered arbitrary because it has no real-world, practical meaning.   Example of non-arbitrary metrics include fewer days of unemployment, having a job or not having a job, number of social events attended, number of days out of bed, etc.  It's much easier for most people to appreciate non-arbitrary metrics because their practical significance.  
 
-Generally speaking, the more ways of measuring an outcome the better.  It is best to consider both arbitrary and non-arbitrary metrics.  The point being that hypothetical constructs are inexhaustible entities that can be defined in a variety, in fact infinite, number of ways.  If you care about the variables that you are measuring then in makes sense to assess them as exhaustively as possible and include both arbitrary and non-arbitrary metrics.  You are likely to increase your sensitivity in finding a result and will have improved **ecological validity** in your study.    
+Generally speaking, the more ways of measuring an outcome the better and it would best to include both arbitrary and non-arbitrary metrics in your study design.  By doing so you'll have a better chance of capturing the breadth of the [nomological network](http://www.socialresearchmethods.net/kb/nomonet.php) and improving the **ecological validity** of your study.  
 
 
 <center>Resources</center>
 
-    Kazdin, A. E. (2006). Arbitrary Metrics: Implications for Identifying Evidence-Based Treatments. American Psychologist,61(1), 42-49. doi:10.1037/0003-066X.61.1.42
+    Kazdin, A. E. (2006). Arbitrary Metrics: Implications for Identifying Evidence-Based Treatments. American Psychologist, 61(1), 42-49. doi:10.1037/0003-066X.61.1.42
     
-    Baumeister, R. F., Vohs, K. D. & Funder, D. C. (2007).  Psychology as the science of self-reports and finger movements: Whatever happened to actual behavior? Perspectives on Psychological Science, 2, 396-403. 
+    Baumeister, R. F., Vohs, K. D. & Funder, D. C. (2007). Psychology as the science of self-reports and finger movements: Whatever happened to actual behavior? Perspectives on Psychological Science, 2, 396-403. 
 
 *****
 
