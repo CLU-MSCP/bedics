@@ -25,7 +25,7 @@ In addition to the values associated with open science, students are taught *how
 
 The program is committed to the use of the [R language for statistical programming](https://www.r-project.org/) and the use of [R Studio](https://www.rstudio.com/) as the primary interface for working with R.  All R software used in this program is free. Along with the increasing popularity of [R](https://stackoverflow.blog/2017/10/10/impressive-growth-r/), R surpasses the functionality and capability of commercial software in a myriad of ways.  In addition to R, we use the [Open Science Framework](https://osf.io/institutions/callutheran/) at CLU for the management and sharing of our research projects.<br/> 
 
-[<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/datacamp.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:4px">](https://www.datacamp.com/) Thanks to DataCamp, many of the courses in the CLU MSCP program can be supplmentted by expert online trainings.<br/>
+[<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/datacamp.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:4px">](https://www.datacamp.com/) Thanks to DataCamp, many of the courses in the CLU MSCP program can be supplemented by expert online trainings.<br/>
 
 *****
 
@@ -33,7 +33,7 @@ The program is committed to the use of the [R language for statistical programmi
 
 # Tentative MSCP Curriculum in Development
 
-The MSCP program is making the following proposed changes that have yet to be approved by faculty.  In the first year, students take courses that provide them with a firm foundation in statistical computing, use of R, experimental methods and also ethics in the conduct of research in psychology and the social and behavioral sciences. Please see the [official CLU webpage](https://www.callutheran.edu/academics/graduate/ms-clinical-psychology/curriculum.html) for the approved course curriculum.  
+ In the first year, students coursework provides them with an introduction to the use of R in basic statistical computing and research methods. The MSCP program is making the following proposed changes that have yet to be approved by faculty. Please see the [official CLU webpage](https://www.callutheran.edu/academics/graduate/ms-clinical-psychology/curriculum.html) for the approved course curriculum.  
 
 ## Year One 
 
@@ -73,7 +73,7 @@ Students taking PSYC 565 do not, however, have to complete the thesis but can us
 
 # Professional Development Resources
 
-Below are a list of resources for your own professional developmment.  There is a fun and lively group of researchers and statisticians on various social media platforms including Twitter and Facebook. You are encouraged to engage this community for both knowledge and inspiration.
+Below are a list of resources for your own professional developmment.  These inlcude professional organization to join as well as other outlets to learn about statistics and research.  You are encouraged to engage these communities for both knowledge and inspiration.
 
 ## Professional Organizations and Conferences
 
@@ -87,7 +87,7 @@ Below are a list of resources for your own professional developmment.  There is 
 
 1. [Society for the Improvement of Psychological Science](https://improvingpsych.org/) is a conference where open science *is* the topic of conversation.  It's not your typical conference.  At SIPS you are encouraged to join working groups, mingle, and actively participate in projects that further the advancement of psychological science. 
 
-2. [R Studio Conference](https://www.rstudio.com/conference/) is *quite* spendy for both registration and pre-conference workshops.  However, you'll learn from the best and brightest from R Studio covering topics from machine learning to data wrangling in R with R Studio.
+2. [R Studio Conference](https://www.rstudio.com/conference/) is *quite* spendy for both registration and pre-conference workshops.  However, you'll learn from the best and brightest from R Studio covering topics from data wrangling to machine learning in R using R Studio.
 
 3. [Use R!](https://www.r-project.org/conferences.html) was recently in [Brisbane, Australia (2018)](https://user2018.r-project.org/) and will be in [Toulouse, France in 2019!](http://www.user2019.fr/). Check out the 2018 site for topics covered.
 
@@ -105,19 +105,46 @@ Below are a list of resources for your own professional developmment.  There is 
 
 ## Podcasts
 
-Podcasts can be very motivating and fun.  It's nice to hear people talk about the things you learn in the classroom.  It's especially helpful when the podcasts creators are fun, genuine, and down-to-earth.  There are many data science and reproducibility podcasts but the following are my favorite:
+Podcasts can be very motivating and fun.  It's nice to hear people talk about the things you learn in class so you know you're not alone and what you're learning in meaningful.  It's especially helpful when the podcast creators are fun, genuine, and down-to-earth.  There are many data science and reproducibility podcasts but the following are my favorite:
 
 1. [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) is fun and light but with enough content to get you excited about the world of statistics and data science.  
 
 2. [Partially Derivative](http://partiallyderivative.com/") is no longer in production but you can't go wrong listening to folks drink their beer and talk about data, R, and statistics.  I'm fond of this [episode](http://partiallyderivative.com/news/2015/01/09/episode-9-the-one-that-will-totally-change-your-life) from season one. I also love Chris Albon's [flashcards](https://twitter.com/chrisalbon); a great way to learn. 
 
-3. [DataFramed](https://www.datacamp.com/community/podcast) is a blog on data analysis and data science from the folks at DataCamp.  The podcast can be fairly technical but can be very informative and help you think out of the psychology box. 
+3. [DataFramed](https://www.datacamp.com/community/podcast) is a blog on data analysis and data science from the folks at DataCamp.  The podcast can be fairly technical but can be very informative and help you think outside the "psychology box." 
 
 *****
 
 ## Open Data is the Best Data
 
-You don't always have to collect data from 90 college undegraduates to answer your reseaerch questions. There might be an open dataset that will help you address a question that is important to you. Explore the following sites at your leisure: [Data World](https://data.world/), [Data.Gov](https://www.data.gov/), [Datasets in R](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html), [ROpenSci]("https://ropensci.org/packages/), [Data Science for Social Good](https://dssg.uchicago.edu/">Data Science for Social Good), [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/), [Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/), [City of New York](https://data.cityofnewyork.us/), [ICSPR at Blue](http://www.icpsr.umich.edu/icpsrweb/ICPSR/), [Data Science Central](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets), [538 at Github](https://github.com/fivethirtyeight/data") or anything at GitHub really, [ProPublica Data Store](https://www.propublica.org/datastore/), [GSS Data](https://gssdataexplorer.norc.org/), and [Kaggle](https://www.kaggle.com/).
+You don't always have to collect data from 90 college undegraduates to answer your research questions. There might be an open dataset that will help you address a question that is important to you. Explore the following sites at your leisure: 
+
+
+**Data From and For "Do-Gooders"**
+* [Data World](https://data.world/) 
+* [Data Science for Social Good](https://dssg.uchicago.edu/)
+* [ProPublica Data Store](https://www.propublica.org/datastore/)
+
+**Public Data to Practice**
+* [Datasets in R](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html) - These datasets are, mostly if not all, already preloaded into R or come with particular R packages. No need to import. 
+* [ROpenSci](https://ropensci.org/packages/)
+* [Data Science Central](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets), 
+* [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
+* [Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/), 
+* [ICSPR at Blue](http://www.icpsr.umich.edu/icpsrweb/ICPSR/)
+* [GitHub](http://www.github.com) - GitHub is the main storage site for data scientists. Generally underutilized in psychology.
+* [Kaggle](https://www.kaggle.com/)
+
+
+** Data from the Government and Cities**
+* [Data.Gov](https://www.data.gov/)
+* [City of New York](https://data.cityofnewyork.us/)
+* [City of Los Angeles Open Data](https://data.lacity.org/)
+* [The City of San Diego Open Data](https://www.sandiego.gov/opendata)
+* [GSS Data](https://gssdataexplorer.norc.org/) - A popular database site for the social sciences. 
+
+**Data in the News**  
+[538 at Github](https://github.com/fivethirtyeight/data) - 538 is a web news sources that covers politics, social science, and sports.
 
 *****
 
