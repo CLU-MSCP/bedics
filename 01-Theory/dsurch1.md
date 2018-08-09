@@ -58,13 +58,13 @@ I became more excited about the theory as I explored a book by Lorna Smith Benja
 
 **The components of a theory**
 
-The phenomena we refer to are called *hypothetical constructs*.  The constructs can have an infinite number of specific definitions called *operational definitions*.  For example, depression is a construct and can be operationally defined using the DSM, a self-report measure, etc. Our hypotheses make specific predictions between two, or more, constructs.  General rules for developing a good hypothesis are outlined in the Wampold article cited below.  
+The phenomena that make up a theory are called *hypothetical constructs*.  These are the concepts important to our theory of which we make predictions and causal associations.  The constructs can have an infinite number of specific definitions called *operational definitions*.  The distinction between hypothetical constructs and their measurement was discussed in a seminal work by MacCorquodale and Meehl (link below). For example, depression is a construct and can be operationally defined using the DSM, a self-report measure, etc. Our hypotheses make specific predictions between two, or more, constructs.  General rules for developing a good hypothesis are outlined in the Wampold article cited below.  
 
-*Reliability* speaks to the stability or internal consistency for each operational definition.  *Validity* speaks to how well operational definitions relate to  each other when they are expected, or not expected, to be associated.  
+As an undegraduate, the work of Meehl and his ilk were likely kept from your vision. Instead you were introduced to the more familiar topics of reliability and validity. *Reliability* speaks to the stability or internal consistency for each operational definition.  *Validity* speaks to how well operational definitions relate to  each other when they are expected, or not expected, to be associated.  You will revisit these topics in your research methods and assessment/psychometric courses. 
 
 <center>Resources</center>
 
-    Meehl, P. E. (1967). Theory-testing in psychology and physics: A methodological paradox. Philosophy of Science, 34, 103-115.
+    [MacCorquodale, K., & Meehl, P. E. (1948). On a distinction between hypothetical constructs and intervening variables. Psychological Review, 55, 95-107.Reprinted: 1991, in Meehl, Selected philosophical and methodological papers (pp. 249-264; C. A. Anderson and K. Gunderson, Eds.). Minneapolis: University of Minnesota Press.](http://meehl.umn.edu/sites/g/files/pua1696/f/013hypotheticalcconstructs.pdf)
     
     Wampold, B. E., Davis, B., & Gould, R. H. (1990). Hypothesis validity of clinical research. Journal of Consulting and Clinical Psychology, 58, 360-367
 
