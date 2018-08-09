@@ -136,7 +136,7 @@ You don't always have to collect data from 90 college undegraduates to answer yo
 * [Kaggle](https://www.kaggle.com/)
 
 
-** Data from the Government and Cities **
+** Open Data from US Cities and the Government **
 * [Data.Gov](https://www.data.gov/)
 * [City of New York](https://data.cityofnewyork.us/)
 * [City of Los Angeles Open Data](https://data.lacity.org/)
