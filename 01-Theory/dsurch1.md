@@ -104,19 +104,3 @@ Generally speaking, the more ways of measuring an outcome the better and it woul
 
 *****
 
-<br>
-
-### 3. Analysing Data {#dsur1_3}
-
-Section 1.7 of your text teaches you about methods of summarizing your data without actually showing you how to do so in R.  It's ironic, I guess.  He comes back and teaches you later on, just to reinforce your learning I guess.  Here you can spend time learning the definition of the concepts which cover finding out if your data is normally distributed (overrated) and how to calculate the overall average (central tendency) and variance (disperion) in your data.  Important concepts.  
-
-1. Histogram
-2. Summarize Data
-
-
-
-
-
-
-
-    
