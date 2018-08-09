@@ -128,15 +128,15 @@ You don't always have to collect data from 90 college undegraduates to answer yo
 **Public Data to Practice**
 * [Datasets in R](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html) - These datasets are, mostly if not all, already preloaded into R or come with particular R packages. No need to import. 
 * [ROpenSci](https://ropensci.org/packages/)
-* [Data Science Central](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets), 
+* [Data Science Central](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets) 
 * [Springboard](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
-* [Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/), 
+* [Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/)
 * [ICSPR at Blue](http://www.icpsr.umich.edu/icpsrweb/ICPSR/)
 * [GitHub](http://www.github.com) - GitHub is the main storage site for data scientists. Generally underutilized in psychology.
 * [Kaggle](https://www.kaggle.com/)
 
 
-** Data from the Government and Cities**
+** Data from the Government and Cities **
 * [Data.Gov](https://www.data.gov/)
 * [City of New York](https://data.cityofnewyork.us/)
 * [City of Los Angeles Open Data](https://data.lacity.org/)
@@ -144,7 +144,7 @@ You don't always have to collect data from 90 college undegraduates to answer yo
 * [GSS Data](https://gssdataexplorer.norc.org/) - A popular database site for the social sciences. 
 
 **Data in the News**  
-[538 at Github](https://github.com/fivethirtyeight/data) - 538 is a web news sources that covers politics, social science, and sports.
+* [538 at Github](https://github.com/fivethirtyeight/data) - 538 is a web news sources that covers politics, social science, and sports.
 
 *****
 
