@@ -57,13 +57,12 @@ pcor.test(pc, 1, 103)
 ## [1] 0.01244581
 ```
 
-|  	|  Exam and Anxiety Controlling for Revise 	| 
+|  	|  Exam and Anxiety Controlling for Revisions 	| 
 |---	|:-:	|
-|  Partial Correlation 	|  # 	| 
-|  R^2 	|   #	|  
-| p value |   #	| 
-|  Correlation w/o Controlling for Revise 	|  # 	|  
-|   	|   	|  
+|  Partial Correlation 	|  &#x2753; 	| 
+|  R^2 	|   &#x2753;	|  
+| p value |   &#x2753;	| 
+|  Correlation w/o Controlling for Revise 	|  &#x2753; 	|  
 
 <a href="#">Go to top</a>
 
@@ -73,32 +72,86 @@ pcor.test(pc, 1, 103)
 
 Formatting and working with Correlations from the [R BLOG](https://www.r-bloggers.com/formatted-correlation-with-effect-size/) 
 
-Example is as follows: 
+a. Import the data 
 ```r
-df <- iris  # Load the iris dataset
+df <- as.tibble(iris)  # Load the iris dataset
+df
+
+# A tibble: 150 x 5
+   Sepal.Length Sepal.Width Petal.Length Petal.Width Species
+          <dbl>       <dbl>        <dbl>       <dbl> <fct>  
+ 1          5.1         3.5          1.4         0.2 setosa 
+ 2          4.9         3            1.4         0.2 setosa 
+ 3          4.7         3.2          1.3         0.2 setosa 
+ 4          4.6         3.1          1.5         0.2 setosa 
+ 5          5           3.6          1.4         0.2 setosa 
+ 6          5.4         3.9          1.7         0.4 setosa 
+ 7          4.6         3.4          1.4         0.3 setosa 
+ 8          5           3.4          1.5         0.2 setosa 
+ 9          4.4         2.9          1.4         0.2 setosa 
+10          4.9         3.1          1.5         0.1 setosa 
+# ... with 140 more rows
 ```
-1. Compute and Store the Results
+
+b. Compute and Store the Results
 ```r
-cor_results <- cor.test(df$Sepal.Length, df$Petal.Length)  # Compute a correlation and store its result
+cor_results <- cor.test(df$Sepal.Length, df$Petal.Length)
+cor_results
+
+
+	Pearson's product-moment correlation
+
+data:  df$Sepal.Length and df$Petal.Length
+t = 21.646, df = 148, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.8270363 0.9055080
+sample estimates:
+      cor 
+0.8717538 
+
 ```
-2. Install the formatting package from GitHub.
+
+c. Install and load the formatting package from GitHub.
 ```r
-devtools::install_github("neuropsychology/psycho.R")
+devtools::install_github("neuropsychology/psycho.R") # only once!
 ```
-3. Load the package
+Load the package
 ```r
 library(psycho)  
 ```
-4. Examine the result. Nice that is provides a 95% CI. 
+
+d. Examine the result. Nice that is provides a 95% CI. 
 ```r
 psycho::analyze(cor_results)
 ```
-5. Produce as a table
+
+e. Produce as a table
 ```r
 results <- analyze(cor_results)
 summary(results)
+
+     effect statistic  df            p  CI_lower CI_higher
+1 0.8717538  21.64602 148 1.038667e-47 0.8270363  0.905508
+
+```
+
+Use `kable` from `library(knitr)`
+```r
 knitr::kable(summary((results)))
 ```
+
+and get:
+```r
+|    effect| statistic|  df|  p|  CI_lower| CI_higher|
+|---------:|---------:|---:|--:|---------:|---------:|
+| 0.8717538|  21.64602| 148|  0| 0.8270363|  0.905508|
+```
+
+which looks this when rendered in Markdown:
+|    effect| statistic|  df|  p|  CI_lower| CI_higher|
+|---------:|---------:|---:|--:|---------:|---------:|
+| 0.8717538|  21.64602| 148|  0| 0.8270363|  0.905508|
 
 ******
 
