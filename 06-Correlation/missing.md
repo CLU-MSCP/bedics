@@ -24,7 +24,7 @@ permalink: /missing
 Create the data with the planned missing data. 
 
 ```r
-library(tidyversy)
+library(tidyverse)
 ```
 
 ```r
@@ -75,7 +75,12 @@ What happened?
 ### 3. The "all.obs" method. {#allobs}
 
 ```r
-#cor(advertNA, use = "all.obs",  method = "pearson")
+cor(advertNA, use = "all.obs",  method = "pearson")
+```
+
+```
+Error in cor(advertNA, use = "all.obs", method = "pearson") : 
+  missing observations in cov/cor
 ```
 What happened?: 
 
@@ -123,11 +128,10 @@ What happened?:
 
 |  	|  Packets and Advertisements 	|  Packets and Age  	|  Age and Advertisement |
 |---	|:-:	|:-:	|:-:	|
-|  everthing 	|  # 	| #  	| #  	| #  	|
-|  all.obs 	|   #	|   #	| #  	|  # 	|
-| complete.obs |   #	|   #	| #  	|  # 	|
-| pairwise.complete.obs  |   #	|   #	| #  	|  # 	|
-|   	|   	|   	|   	|   	|
+|  everthing 	|   	|   	|   	|
+|  all.obs 	|   	|   	|   	|  
+| complete.obs |   	|   	|   	| 
+| pairwise.complete.obs  |   	|   	|   	|  
 
 *****
 
