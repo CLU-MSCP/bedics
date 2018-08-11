@@ -156,6 +156,8 @@ and get this in R:
 
 Nice!
 
+You can learn more at this site that introduces you to [kableExtra](https://docs.google.com/presentation/d/e/2PACX-1vS6tmEHjBAKrw6T2QyLMqNzsMR71P4cnp8O0OqxaX9lDC0ob5AY897sWqrirWckLX-Bjq3dMBw_-Nk1/pub?start=false&loop=false&delayms=3000&slide=id.g3dbb35b63d_0_221) by Hao Zhu
+
 ******
 
 <a href="#">Go to top</a>
