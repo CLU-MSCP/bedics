@@ -141,17 +141,20 @@ Use `kable` from `library(knitr)`
 knitr::kable(summary((results)))
 ```
 
-and get:
+and get this in R:
 ```r
 |    effect| statistic|  df|  p|  CI_lower| CI_higher|
 |---------:|---------:|---:|--:|---------:|---------:|
 | 0.8717538|  21.64602| 148|  0| 0.8270363|  0.905508|
 ```
 
-which looks this when rendered in Markdown:
+...which looks this when rendered in Markdown:
+
 |    effect| statistic|  df|  p|  CI_lower| CI_higher|
 |---------:|---------:|---:|--:|---------:|---------:|
 | 0.8717538|  21.64602| 148|  0| 0.8270363|  0.905508|
+
+Nice!
 
 ******
 
