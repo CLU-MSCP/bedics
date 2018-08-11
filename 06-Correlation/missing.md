@@ -72,7 +72,7 @@ What happened?
 
 *****
 
-### 3. The "all.obs" method. {#allobs}
+### 3. The "all.obs" method {#allobs}
 
 ```r
 cor(advertNA, use = "all.obs",  method = "pearson")
@@ -88,7 +88,7 @@ What happened?:
 
 *****
 
-### 4. The "complete.obs" method.  {#completeobs}
+### 4. The "complete.obs" method  {#completeobs}
 
 ```r
 cor(advertNA, use = "complete.obs",  method = "pearson") 
@@ -106,7 +106,7 @@ What happened?:
 
 *****
 
-5. The "pairwise.complete.obs". {#pairwise}
+### The "pairwise.complete.obs"  {#pairwise}
 
 ```r
 cor(advertNA, use = "pairwise.complete.obs",  method = "pearson")
