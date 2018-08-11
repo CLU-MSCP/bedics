@@ -128,7 +128,7 @@ What happened?:
 
 |  	|  Packets and Advertisements 	|  Packets and Age  	|  Age and Advertisement |
 |---	|:-:	|:-:	|:-:	|
-|  everthing 	|   	|   	|   	|
+|  everything 	|   	|   	|   	|
 |  all.obs 	|   	|   	|   	|  
 | complete.obs |   	|   	|   	| 
 | pairwise.complete.obs  |   	|   	|   	|  
