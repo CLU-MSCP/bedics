@@ -5,24 +5,28 @@ permalink: /correlation
 ---
 
 
+*****
 
-1. [Looking at Relationships](#coroverview)
+## Table of Contents
+
+1. [Correlations in R](#coroverview)
 2. [Practice with cor()](#cor)
 3. [Practice with cor.test()](#cor_test)
 4. [Practice with rcorr()](#rcorr)
 5. [The Effect of Missing Data in Correlations](#missing)
-6. [Spearman's Rho](#spearman)
-7. [Kendall's Tau](#kendall)
-8. [Bootstrapping](#bootstrap)
-9. [Partial Correlation Coefficient](#partial)
+6. [Spearman's Rho Section 6.5.5](#spearman)
+7. [Kendall's Tau (Section 6.5.6)](#kendall)
+8. [Bootstrapping (Section 6.5.7)](#bootstrap)
+9. [Partial Correlation Coefficient (Section 6.6)](#partial)
 10. [Extra Resources](#extra)
 
 *****
 
-### Correlations in R {#coroverview}
+### 1. Correlations in R (Sections 6.1-6.4) {#coroverview}
 
 The textbook example examines the association between exam score (Exam), test anxiety (Anxiety) and hours revising (Revise) using the `ExamAnxiety.dat` data.  We also use the Big Liar data (`liar.dat`) to practice non-parametric correlations. 
 
+As always, ignore anything related to R Commander. 
 
 1. Import the data
 ```r
@@ -30,6 +34,16 @@ library(tidyverse)
 examdata <- as.tibble(read.delim("ExamAnxiety.dat"))
 names(examdata) <- casefold(names(examdata))
 ```
+
+**Correlations in R**
+
+Table 6.2 is helpful
+
+| Function 	|  Pearson 	|  Spearman  	|  Kendall | p-value | CI | Multiple Correlations |
+|---	|:-:	|:-:	|:-:	| :-: | :-: | :-: |	
+|  cor() 	|  &#x2705 	|   	|   	|   |  |   |
+| cor.test()	|  &#x2705 	|   	|   	|   |  |   |
+| rcorr()  	| &#x2705;  	|   	|   	| 
 
 <a href="#">Go to top</a>
 
@@ -40,7 +54,7 @@ Here is the function for `cor`: cor(x,y, use = "everything", method = "correlati
 The default is a Pearson correlation.  Use `cor()` to fill in the table below.  Replace the `#` values with your statistics in the tables that follow.
 
 
-1. Anxiety and # of Revisions
+a. Anxiety and # of Revisions
 ```r
 cor(examdata$anxiety, examdata$revise)
 ```
@@ -49,7 +63,7 @@ cor(examdata$anxiety, examdata$revise)
 [1] -0.7092493
 ```
 
-2. Anxiety and Exam Score
+b. Anxiety and Exam Score
 ```r
 cor(examdata$anxiety, examdata$exam)
 ```
@@ -58,7 +72,7 @@ cor(examdata$anxiety, examdata$exam)
 [1] -0.4409934
 ```
 
-3. Exam Score and # of Revisions
+c. Exam Score and # of Revisions
 ```r
 cor(examdata$revise, examdata$exam)
 ```
@@ -104,11 +118,11 @@ cor(examdata2)
 *****
 
 
-### Practice with cor.test() {#cor_test}
+### 2. Practice with cor.test() {#cor_test}
 Let's test the significance using `cor.test`: cor.test(x,y, alternative = "string", method = "correlation type", conf.level = 0.95).  Report the exact p values and the confidence intervals (95%) for each of the pairs.  You can copy the first two rows from above into the first two rows below since they'll be the same. 
 
 
-1. Anxiety and # of Revisions
+a. Anxiety and # of Revisions
 ```r
 cor.test(examdata$anxiety, examdata$revise)
 ```
@@ -128,7 +142,7 @@ cor.test(examdata$anxiety, examdata$revise)
 ```
 
 
-2. Anxiety and Exam Score
+b. Anxiety and Exam Score
 ```r
 cor.test(examdata$anxiety, examdata$exam)
 ```
@@ -147,7 +161,7 @@ cor.test(examdata$anxiety, examdata$exam)
 ## -0.4409934
 ```
 
-3. Exam Score and # of Revisions
+c. Exam Score and # of Revisions
 ```r
 cor.test(examdata$revise, examdata$exam)
 ```
@@ -177,7 +191,7 @@ cor.test(examdata$revise, examdata$exam)
 
 *****
 
-### Practice with rcorr() {#rcorr}
+### 3. Practice with rcorr() {#rcorr}
 The data needs to be in a matrix format and requires the `Hmisc` package which you might need to install.
 
 Load `Hmisc` assuming you already installed it. 
@@ -210,7 +224,7 @@ rcorr(exammatrix)
 
 ******
 
-### Missing Data {#missing}
+### 4. Missing Data {#missing}
 
 
 Create the data with the planned missing data. 
@@ -237,7 +251,7 @@ advertNA
 ## 5      8.       15.   14.
 ```
 
-1. The everything method.
+a. The everything method.
 
 ```r
 cor(advertNA, use = "everything",  method = "pearson")
@@ -251,14 +265,14 @@ cor(advertNA, use = "everything",  method = "pearson")
 ```
 What happened?
 
-2. The "all.obs" method. What happened?
+b. The "all.obs" method. What happened?
 
 ```r
 #cor(advertNA, use = "all.obs",  method = "pearson")
 ```
-Answer: If there's anything missing at all; won't run at all 
+Answer: 
 
-3. The "complete.obs" method.  What happened?
+c. The "complete.obs" method.  What happened?
 
 ```r
 cor(advertNA, use = "complete.obs",  method = "pearson") 
@@ -270,9 +284,9 @@ cor(advertNA, use = "complete.obs",  method = "pearson")
 ## packetsNA 0.87786648 1.0000000 0.54869466
 ## age       0.08276409 0.5486947 1.00000000
 ```
-Answer: Case is dropped from all
+Answer: 
 
-4. The "pairwise.complete.obs".  What happened?
+d. The "pairwise.complete.obs".  What happened?
 
 ```r
 cor(advertNA, use = "pairwise.complete.obs",  method = "pearson")
@@ -299,13 +313,13 @@ Answer:
 
 *****
 
-### Spearman's Rho {#spearman}
+### 5. Spearman's Rho {#spearman}
 
 Spearman Rho and Kendall Tau are nonparametric procedures when data violates assumptions of normality or in the case of small sample data.  The formulas are calculated based on rankings in the data.
 
 We use the text example to look at the "Big Liar" data.  The data are taken from a contest testing who can lie the best.  The data examines the association between your "Position" or the place you scored (i.e., 1st, 2nd, 3rd, etc) and your score on creativity.  Is there an association between your level of creativity and place in the contest?  "Position" is an ordinal variable.  
 
-1. Import the data set called `liar.dat`
+a. Import the data set called `liar.dat`
 
 ```r
 liardata = read.delim("liar.dat",  header = TRUE)
@@ -342,7 +356,7 @@ cor.test(liardata$position, liardata$creativity, alternative = "less", method = 
 
 *****
 
-### Kendall's tau {#kendall}
+### 6. Kendall's tau {#kendall}
 
 Run the Kendall's tau for the positiion and creativity.
 
@@ -383,7 +397,7 @@ cor.test(liardata$position, liardata$creativity, alternative = "less", method = 
 
 *****
 
-### Bootstrap {#bootstrap}
+### 7. Bootstrap {#bootstrap}
 
 
 ```r
@@ -459,7 +473,7 @@ boot.ci(boot_kendall, 0.99)
 
 *****
 
-### Partial Correlation {#partial}
+### 9. Partial Correlation {#partial}
 
 Partial Correlation can be used when we want to look at the association between two variables while controlling for scores on another, related, variable.  We can ask: what's the association between a person's exam score and anxiety, regardless the number of hours revising?
 
@@ -514,7 +528,7 @@ pcor.test(pc, 1, 103)
 
 *****
 
-### Extra Resources {#extra}
+### 10. Extra Resources {#extra}
 
 Formatting and working with Correlations from the [R BLOG](https://www.r-bloggers.com/formatted-correlation-with-effect-size/) 
 
