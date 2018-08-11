@@ -106,7 +106,7 @@ What happened?:
 
 *****
 
-### The "pairwise.complete.obs"  {#pairwise}
+### 5. The "pairwise.complete.obs"  {#pairwise}
 
 ```r
 cor(advertNA, use = "pairwise.complete.obs",  method = "pearson")
