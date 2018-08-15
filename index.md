@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home Page
+title: CLU MSCP Home Page
 ---
 
 
@@ -12,6 +12,8 @@ Welcome to Dr. Bedics' Statistics and Research Methods Resource Site for the **M
 
 The CLU MSCP is a two-year program that balances training in evidence-based clinical psychology wtih advanced training in statistical methods.  This website is meant to supplement the portion of the program devoted to *statistical and quantitative methods*.  
 
+## Scientific Values *Matter*
+
 Statistical and quantitative training in the CLU MSCP program emphasizes open science and reproducibility in psychological science.  The values of open science include principles such as:
 + Collaboration
 + Transparency
@@ -20,6 +22,8 @@ Statistical and quantitative training in the CLU MSCP program emphasizes open sc
 + Integrity
 
 These norms counter the arguably dominant cultural norms in psychology of competitiveness, secrecy, and evaluation of peers' work based on reputation and quantity over quality.  
+
+## Advanced Technology for Quantitative Methods 
 
 In addition to the values associated with open science, students are taught *how* to best utilize the latest technologies as a method of fulfilling these values.
 
@@ -31,11 +35,11 @@ The program is committed to the use of the [R language for statistical programmi
 
 <br>
 
-# Tentative MSCP Curriculum in Development
+## MSCP Curriculum in Development
 
  In the first year, students coursework provides them with an introduction to the use of R in basic statistical computing and research methods. The MSCP program is making the following proposed changes that have yet to be approved by faculty. Please see the [official CLU webpage](https://www.callutheran.edu/academics/graduate/ms-clinical-psychology/curriculum.html) for the approved course curriculum.  
 
-## Year One 
+### Year One 
 
 | Semester	|  Course Name	| 
 |:---:	|:---	| 
@@ -50,7 +54,7 @@ The program is committed to the use of the [R language for statistical programmi
 
 *****
 
-## Year Two
+### Year Two
 
 In the second year, students continue to tailor the program to fit their needs. Students select a two-course (Fall and Spring) sequence of electives that have either a **Quantitative Methods (QM)** or **Clinical Science (CS)** emphasis.
 
@@ -71,10 +75,9 @@ Students taking PSYC 565 do not, however, have to complete the thesis but can us
 
 *****
 
-<a href="#">Go to top</a>
-
 <br>
-
 
 [^fall]: Fall Course Options (subject to change) include DBT Basics, ACT, Quantitative Methods (TBD), or MFT course options (e.g., trauma, child/adolescent, family mediation)
 [^spring]: Spring Course Options (subject to change) include Suicide Assessment and Risk Management (Part II for DBT and ACT), Quantitative Methods II (TBD), or part II of the same MFT course options.
+
+<a href="#">Go to top</a>
