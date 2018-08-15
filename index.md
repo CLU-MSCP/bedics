@@ -12,6 +12,8 @@ Welcome to Dr. Bedics' Statistics and Research Methods Resource Site for the **M
 
 The CLU MSCP is a two-year program that balances training in evidence-based clinical psychology wtih advanced training in statistical methods.  This website is meant to supplement the portion of the program devoted to *statistical and quantitative methods*.  
 
+*****
+
 ## Scientific Values *Matter*
 
 Statistical and quantitative training in the CLU MSCP program emphasizes open science and reproducibility in psychological science.  The values of open science include principles such as:
@@ -23,6 +25,8 @@ Statistical and quantitative training in the CLU MSCP program emphasizes open sc
 
 These norms counter the arguably dominant cultural norms in psychology of competitiveness, secrecy, and evaluation of peers' work based on reputation and quantity over quality.  
 
+*****
+
 ## Advanced Technology for Quantitative Methods 
 
 In addition to the values associated with open science, students are taught *how* to best utilize the latest technologies as a method of fulfilling these values.
@@ -32,8 +36,6 @@ The program is committed to the use of the [R language for statistical programmi
 [<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/datacamp.png" alt="DC" align="right" style="width: 20%; height: 20%; margin:4px">](https://www.datacamp.com/) Thanks to DataCamp, many of the courses in the CLU MSCP program can be supplemented by expert online trainings.<br/>
 
 *****
-
-<br>
 
 ## MSCP Curriculum in Development
 
@@ -74,8 +76,6 @@ Students taking PSYC 565 do not, however, have to complete the thesis but can us
 | Spring | Optional | | Comprehensive Exam/Elective  |
 
 *****
-
-<br>
 
 [^fall]: Fall Course Options (subject to change) include DBT Basics, ACT, Quantitative Methods (TBD), or MFT course options (e.g., trauma, child/adolescent, family mediation)
 [^spring]: Spring Course Options (subject to change) include Suicide Assessment and Risk Management (Part II for DBT and ACT), Quantitative Methods II (TBD), or part II of the same MFT course options.
