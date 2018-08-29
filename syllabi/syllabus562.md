@@ -4,9 +4,12 @@ title: Psyc 562 Advanced Statistics
 permalink: /syllabus562
 ---
 
+*****
 
 * [Course Description & Objectives](#course)
 * [Class Material](#material)
+
+*****
 
 ## COURSE DESCRIPTION {#course}
 
@@ -32,8 +35,13 @@ PROGRAM COMPETENCIES ASSESSED IN THIS COURSE
 
     * Scientific Mindedness (2)
  
+***** 
+ 
 ## Class Material {#reading}
 	
 
 Please see the [class website for updates](https://clu-psy562.github.io/CLUPSY562/index.html)
 
+*****
+
+<a href="#">Go to top</a>
