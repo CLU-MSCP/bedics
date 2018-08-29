@@ -37,7 +37,7 @@ PROGRAM COMPETENCIES ASSESSED IN THIS COURSE
  
 ***** 
  
-## Class Material {#reading}
+## Class Material {#material}
 	
 
 Please see the [class website for updates](https://clu-psy562.github.io/CLUPSY562/index.html)
