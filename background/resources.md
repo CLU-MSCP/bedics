@@ -40,7 +40,7 @@ Below are a list of resources for your own professional developmment.  These inl
 
 Podcasts can be very motivating and fun.  It's nice to hear people talk about the things you learn in class so you know you're not alone and what you're learning in meaningful.  It's especially helpful when the podcast creators are fun, genuine, and down-to-earth.  There are many data science and reproducibility podcasts but the following are my favorite:
 
-1. [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) is fun and light but with enough content to get you excited about the world of statistics and data science.  
+1. [Not So Standard Deviations](http://nssdeviations.com) is fun and light but with enough content to get you excited about the world of statistics and data science.  
 
 2. [Partially Derivative](http://partiallyderivative.com/") is no longer in production but you can't go wrong listening to folks drink their beer and talk about data, R, and statistics.  I'm fond of this [episode](http://partiallyderivative.com/news/2015/01/09/episode-9-the-one-that-will-totally-change-your-life) from season one. I also love Chris Albon's [flashcards](https://twitter.com/chrisalbon); a great way to learn. 
 
