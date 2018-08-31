@@ -25,6 +25,9 @@ Course Goals: The main purpose of this course is for you to develop an independe
   
   * Pre-register a research project consistent with the scientific values of openness, transparency, and integrity.
 
+
+The [Thesis Handbook](https://jdbedics.github.io/clu-mscp-thesis-handbook/) provides guidelines for completing the thesis.
+
 **PROGRAM COMPETENCIES ASSESSED IN THIS COURSE**
 
   * Research Skills
