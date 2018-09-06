@@ -50,13 +50,30 @@ library(readxl) # for *.xlsx and *.xls files
 Here are examples:
 ```{r}
 data.tb <- readr::read_csv("dsur.csv")
+```
+```{r}
 data.tb <- read_csv("03-data/data.csv") # this one is embedded in a subfolder
+```
+```{r}
 data.tb <- read.csv("data.csv", header=T) # base R version
+```
+```{r}
 data.tb <- read_excel("data.xlsx") # requires library(readxl)
+```
+```{r}
 data.tb <- read_sav("data.sav") # requires library(haven)
+```
+```{r}
 data.tb <- haven::read_sav("data.sav") # same as above without loading `haven`
+```
+```{r}
 data.tb <- readr::read_delim("data.dat", delim="\t")
+```
+```{r}
 data.tb <- read.delim("data.dat") # non Tidyverse way
+```
+
+```{r}
 data.tb <- haven::read_dta("data.dta") # Stata data requires `haven`
 ```
 
@@ -64,6 +81,7 @@ _Notice:_
 1. All these require that R is going to the correct working directory (i.e., where you data lives).  If you're working in an R Project then you're good to go unless you have a subfolder like in the second example.
 2. You can use the `::` to designate the library to be loaded.  In this case you don't have to do `library()`
 
+*****
 
 ## 3.  Get data from GitHub {#dsur3_3}
 
@@ -109,6 +127,8 @@ redcard.tb
 #   nExp <int>, seExp <dbl>
 
 ```
+
+*****
 
 ## 4. Get data from Open Science Framework {#dsur3_4}
 
