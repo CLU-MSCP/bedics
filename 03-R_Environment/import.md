@@ -40,8 +40,10 @@ Go the source and check out the [RStudio Data Import Cheatsheet](https://rawgit.
 
 ## Importing Data in R {#dsur3_2}
 
-Below are commonly used functions for importing data that rely on the following libraries all of which are contained with in the `library(tidyverse` but you could load seperately:
+Below are commonly used functions for importing data that rely on the following libraries all of which are contained with in the `library(tidyverse)` but you could load the three major libraries seperately such as below:
+
 ```{r}
+# Load Libraries for Import
 library(readr) # for *.csv and *.dat in class
 library(haven) # for *.sav (spss files) and *.dta (stata files)
 library(readxl) # for *.xlsx and *.xls files
@@ -49,51 +51,53 @@ library(readxl) # for *.xlsx and *.xls files
 
 Here are examples:
 
-*CSV loading the readr library*
+1. **CSV loading the readr library:**
 ```{r}
 data.tb <- readr::read_csv("dsur.csv")
 ```
-*CSV in Subfolder*
+2. **CSV in Subfolder:**
 ```{r}
 data.tb <- read_csv("03-data/data.csv")
 ```
 
-*CSV in Base R*
+3. **CSV in Base R:**
 ```{r}
 data.tb <- read.csv("data.csv", header=T) 
 ```
 
-*Excel Required library(readxl)*
+4. **Excel Required library(readxl):**
 ```{r}
 data.tb <- read_excel("data.xlsx")
 ```
-*SPSS data using `haven`*
+5. **SPSS data using `haven`:**
 ```{r}
 data.tb <- read_sav("data.sav") 
 ```
 
-*SPSS data using `haven` but loading inline*
+6. **SPSS data using `haven` but loading inline:**
 ```{r}
 data.tb <- haven::read_sav("data.sav") 
 ```
-*Data File*
+7. **Data File Format:**
 ```{r}
 data.tb <- readr::read_delim("data.dat", delim="\t")
 ```
 
-*Data File in Base R*
+8. **Data File in Base R:**
 ```{r}
 data.tb <- read.delim("data.dat") # non Tidyverse way
 ```
 
-*Stata data using `haven`*
+9. **Stata data using `haven`:**
 ```{r}
 data.tb <- haven::read_dta("data.dta") 
 ```
 
-_Notice:_
-1. All these require that R is going to the correct working directory (i.e., where you data lives).  If you're working in an R Project then you're good to go unless you have a subfolder like in the second example.
-2. You can use the `::` to designate the library to be loaded.  In this case you don't have to do `library()`
+**Notice**:
+
+1. All these require that R is going to the correct working directory (i.e., where your data lives).  If you're working in an R Project then you're good to go unless you have a subfolder like in the second example where we direct it to the subfolder.
+
+2. You can use the `::` to designate the library to be loaded.  In this case you don't have to do `library()` in an early chunk.
 
 *****
 
@@ -121,7 +125,7 @@ C. Make it a tibble for accessibility
 redcard.tb <- tibble::as.tibble(redcard)
 redcard.tb
 
-# A tibble: 146,028 x 27
+ A tibble: 146,028 x 27
    playerShort player club  leagueCountry birthday height weight position games
    <fct>       <fct>  <fct> <fct>         <fct>     <int>  <int> <fct>    <int>
  1 lucas-wilc… Lucas… Real… Spain         31.08.1…    177     72 Attacki…     1
@@ -134,13 +138,13 @@ redcard.tb
  8 alexander-… Alexa… Norw… England       04.04.1…    180     68 Defensi…     1
  9 anders-lin… Ander… Manc… England       13.04.1…    193     80 Goalkee…     1
 10 andreas-be… Andre… 1899… Germany       13.03.1…    180     70 Right F…     1
-# ... with 146,018 more rows, and 18 more variables: victories <int>, ties <int>,
-#   defeats <int>, goals <int>, yellowCards <int>, yellowReds <int>,
-#   redCards <int>, photoID <fct>, rater1 <int>, rater2 <int>, refNum <int>,
-#   refCountry <int>, meanIAT <dbl>, nIAT <int>, seIAT <dbl>, meanExp <dbl>,
-#   nExp <int>, seExp <dbl>
-
+ ... with 146,018 more rows, and 18 more variables: victories <int>, ties <int>,
+   defeats <int>, goals <int>, yellowCards <int>, yellowReds <int>,
+   redCards <int>, photoID <fct>, rater1 <int>, rater2 <int>, refNum <int>,
+   refCountry <int>, meanIAT <dbl>, nIAT <int>, seIAT <dbl>, meanExp <dbl>,
+   nExp <int>, seExp <dbl>
 ```
+
 
 *****
 
@@ -150,7 +154,7 @@ You'll use OSF throughout your time at CLU.   Similar to GitHub, OSF is a great 
 
 
 A) `httr` package is need for the `GET` command. Install and load.
-```{r}
+```r
 library(httr) 
 ```
 
@@ -164,11 +168,12 @@ if (!file.exists('p-curve disclosure table for Power Posing review - 2016 09 26.
 ```
 
 C) Using the `readxl` package you can open the saved file.
-```{r}
+
+```r
 pp.tb <- readxl::read_excel('pp.xlsx')
 pp.tb
 
-# A tibble: 33 x 13
+ A tibble: 33 x 13
    Study `Categorize d.v… `dependent vari… `Quoted Predict…
    <chr> <chr>            <chr>            <chr>           
  1 Alle… 3                number of pretz… We hypothesized…
@@ -181,12 +186,12 @@ pp.tb
  8 Cesa… 3                gambling         If embodied eff…
  9 Cesa… 3                gambling         Study 2 manipul…
 10 Cudd… 3                Evaluated perfo… Specifically, t…
-# ... with 23 more rows, and 9 more variables: `Study
-#   Design` <chr>, `Key Statistical Result` <chr>, `Quoted
-#   Results` <chr>, Results <chr>, `Quoted Robustness
-#   Results` <chr>, `Robustness Results` <chr>, X__1 <chr>,
-#   `Quoted Feelings Of Power` <chr>, `Feelings Of Power
-#   Results` <chr>
+ ... with 23 more rows, and 9 more variables: `Study
+   Design` <chr>, `Key Statistical Result` <chr>, `Quoted
+   Results` <chr>, Results <chr>, `Quoted Robustness
+   Results` <chr>, `Robustness Results` <chr>, X__1 <chr>,
+   `Quoted Feelings Of Power` <chr>, `Feelings Of Power
+   Results` <chr>
 ```
 
 
