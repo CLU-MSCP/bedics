@@ -40,8 +40,9 @@ Go the source and check out the [RStudio Data Import Cheatsheet](https://rawgit.
 
 ## 2. Importing Data in R {#dsur3_2}
 
-Below are commonly used functions for importing data that rely on the following libraries all of which are contained with in the `library(tidyverse)` but you could load the three major libraries seperately such as below:
+Below are commonly used functions for importing data. They rely on the following three packages all of which are contained within the [`tidyverse`](https://www.tidyverse.org/packages/).  However, you could load them seperately:
 
+**Step 1. Load Libaries**
 ```{r}
 # Load Libraries for Import
 library(readr) # for *.csv and *.dat in class
@@ -49,11 +50,16 @@ library(haven) # for *.sav (spss files) and *.dta (stata files)
 library(readxl) # for *.xlsx and *.xls files
 ```
 
-Here are examples:
+Or more simply:
+```{r}
+library(tidyverse)
+```
+
+**Step 2. Import the Data: Examples**
 
 1. **CSV loading the readr library:**
 ```{r}
-data.tb <- readr::read_csv("dsur.csv")
+data.tb <- read_csv("dsur.csv")
 ```
 2. **CSV in Subfolder:**
 ```{r}
@@ -76,11 +82,11 @@ data.tb <- read_sav("data.sav")
 
 6. **SPSS data using `haven` but loading inline:**
 ```{r}
-data.tb <- haven::read_sav("data.sav") 
+data.tb <- read_sav("data.sav") 
 ```
 7. **Data File Format:**
 ```{r}
-data.tb <- readr::read_delim("data.dat", delim="\t")
+data.tb <- read_delim("data.dat", delim="\t")
 ```
 
 8. **Data File in Base R:**
@@ -97,7 +103,7 @@ data.tb <- haven::read_dta("data.dta")
 
 1. All these require that R is going to the correct working directory (i.e., where your data lives).  If you're working in an R Project then you're good to go unless you have a subfolder like in the second example where we direct it to the subfolder.
 
-2. You can use the `::` to designate the library to be loaded.  In this case you don't have to do `library()` in an early chunk.
+2. You can use the `::` to designate the library to be loaded.  In this case you don't have to do `library()` in an earlier chunk. An example can be seen in #9 where the `haven` library is loaded inline.
 
 <a href="#">Go to top</a>
 
