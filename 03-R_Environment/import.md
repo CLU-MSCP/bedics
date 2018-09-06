@@ -40,19 +40,15 @@ Go the source and check out the [RStudio Data Import Cheatsheet](https://rawgit.
 
 ## Importing Data in R {#dsur3_2}
 
-Below are commonly used functions for importing data that rely on the following libraries:
-```r
-library(readr)
-library(haven)
-library(readxl)
+Below are commonly used functions for importing data that rely on the following libraries all of which are contained with in the `library(tidyverse` but you could load seperately:
+```{r}
+library(readr) # for *.csv and *.dat in class
+library(haven) # for *.sav (spss files) and *.dta (stata files)
+library(readxl) # for *.xlsx and *.xls files
 ```
-The above three are contained within the `tidyverse`
 
-
-Example import functions
-
-Directly bring in data that is in your working directory.
-```r
+Here are examples:
+```{r}
 data.tb <- readr::read_csv("dsur.csv")
 data.tb <- read_csv("03-data/data.csv") # this one is embedded in a subfolder
 data.tb <- read.csv("data.csv", header=T) # base R version
@@ -63,6 +59,11 @@ data.tb <- readr::read_delim("data.dat", delim="\t")
 data.tb <- read.delim("data.dat") # non Tidyverse way
 data.tb <- haven::read_dta("data.dta") # Stata data requires `haven`
 ```
+
+_Notice:_
+1. All these require that R is going to the correct working directory (i.e., where you data lives).  If you're working in an R Project then you're good to go unless you have a subfolder like in the second example.
+2. You can use the `::` to designate the library to be loaded.  In this case you don't have to do `library()`
+
 
 ## 3.  Get data from GitHub {#dsur3_3}
 
