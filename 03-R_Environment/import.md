@@ -5,23 +5,23 @@ permalink: /import
 ---
 
 
-1. [Before you start](#dsur3_2)
-2. [Getting Started](#dsur3_3)
-3. [Using R](#dsur3_4)
-4. [Getting data into R](#dsur3_5)
+1. [Before you start](#dsur3_1)
+2. [Tidyverse Import](#dsur3_2)
+3. [GitHub Import](#dsur3_3)
+4. [OSF Import](#dsur3_4)
 
 
+*****
 
-
-## Before you start {#dsur3_2}
+## Before you start {#dsur3_1}
 
 The chapter provides a background and overview of R.  A nice YouTube video can introduce you to both: [Getting Started with R and R Studio](https://www.youtube.com/watch?v=lVKMsaWju8w)
 
-The [setup](https://clu-mscp.github.io/bedics/setup) instructions could be helpful.
+The [setup](https://clu-mscp.github.io/bedics/setup) instructions could be helpful if you have not done so already.
 
+*****
 
-## Importing Data with R (Sections 3.5 & 3.7) {#dsur3_3}
-
+#### The Working Directory
 Prior to pulling in data, you'll need to make sure that you're "pointing" R in the right direction to find the file.  To figure where R is pointing send this or, more realistically, type this in the console:
 
 ```r
@@ -30,75 +30,41 @@ getwd()
 
 The file path is where R will look to get your file.   If you are working in a R Project, which you should always be doing, it will go to the main folder for that project.  If you have a subfolder in that R Project then you can direct the import to that folder as noted below in the first, *.csv, example.  You can, although you really shouldn't have to, set your file path using by using the command `setwd(FILE PATH)` or using the dropdown menu in R Studion under `Session`.
 
+******
 
-1. [RStudio Data Import Cheatsheet](https://rawgit.com/rstudio/cheatsheets/master/data-import.pdf)
+#### R Studio Cheatsheat
 
+Go the source and check out the [RStudio Data Import Cheatsheet](https://rawgit.com/rstudio/cheatsheets/master/data-import.pdf). 
+
+*****
+
+## Importing Data in R {#dsur3_2}
+
+Below are commonly used functions for importing data that rely on the following libraries:
 ```r
-library(tidyverse) # will load the necessary packages which include reader and haven
+library(readr)
+library(haven)
+library(readxl)
 ```
+The above three are contained within the `tidyverse`
 
-1a. Table (*.csv)
+
+Example import functions
 
 Directly bring in data that is in your working directory.
 ```r
-data.tb <- read_csv("data.csv")
-```
-The `.tb` indicates it's a tibble
-
-Here is a way to use `read_csv` without loading the full `tidyverse`.  The package is called `readr`.
-```r
 data.tb <- readr::read_csv("dsur.csv")
-```
-
-If you put your data in a subfolder of your R Project.  In this case the subfolder is `03-data`.
-```r
-data.tb <- read_csv("03-data/data.csv")
-```
-
-Lastly, you can import data from the base import package
-```r
-data.tb <- read.csv("data.csv", header=T)
-```
-
-1b. Excel (.xlsx, .xls) is imported from the `readxl` library
-```{r}
-library(readxl)
-```
-
-```{r}
-data.tb <- read_excel("data.xlsx")
-```
-
-
-1c. SPSS (*.sav) is imported using the `haven` package which is embedded in the `Tidyverse`
-```{r}
-library(haven)
-```
-
-```{r}
-data <- read_sav("data.sav")
-```
-
-1d. Data file (*.dat)
-
-```{r}
+data.tb <- read_csv("03-data/data.csv") # this one is embedded in a subfolder
+data.tb <- read.csv("data.csv", header=T) # base R version
+data.tb <- read_excel("data.xlsx") # requires library(readxl)
+data.tb <- read_sav("data.sav") # requires library(haven)
+data.tb <- haven::read_sav("data.sav") # same as above without loading `haven`
 data.tb <- readr::read_delim("data.dat", delim="\t")
+data.tb <- read.delim("data.dat") # non Tidyverse way
+data.tb <- haven::read_dta("data.dta") # Stata data requires `haven`
 ```
 
-No Tidyverse way:
-```{r}
-data.tb <- read.delim("data.dat")
-```
-
-
-1e. Stat data (*.dta)
-
-Get the Stata data using the `read_dta` function from `haven`. Call it `kdata`.
-```{r}
-kdata <- haven::read_dta("kidiq.dta")
-```
-
-2.  Get data from GitHub
+## 3.  Get data from GitHub {#dsur3_3}
 
 GitHub is a great resource for data analysis projects.  You can certainly download the data and then put it in your R Project folder.   You can also directly import from the web.  The following is an example of how to import the data directly form a website.  
 
@@ -143,7 +109,7 @@ redcard.tb
 
 ```
 
-3. Get data from Open Science Framework
+## 4. Get data from Open Science Framework {#dsur3_4}
 
 You'll use OSF throughout your time at CLU.   Similar to GitHub, OSF is a great place to find projects and share material.  Just like GitHub, you could easily download the data and place it in an R Project.  In this example, however, I'll provide code showing how you can import *directly* from OSF. Here we'll get data used to conduct the P-curve analysis for the Power Poses discussed at [Data Colada](http://datacolada.org/37) by the authors and also in [Slate](http://www.slate.com/articles/health_and_science/science/2016/01/amy_cuddy_s_power_pose_research_is_the_latest_example_of_scientific_overreach.html) article by Andrew Gelman.
 
