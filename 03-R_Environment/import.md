@@ -48,33 +48,47 @@ library(readxl) # for *.xlsx and *.xls files
 ```
 
 Here are examples:
+
+*CSV loading the readr library*
 ```{r}
 data.tb <- readr::read_csv("dsur.csv")
 ```
+*CSV in Subfolder*
 ```{r}
-data.tb <- read_csv("03-data/data.csv") # this one is embedded in a subfolder
+data.tb <- read_csv("03-data/data.csv")
 ```
+
+*CSV in Base R*
 ```{r}
-data.tb <- read.csv("data.csv", header=T) # base R version
+data.tb <- read.csv("data.csv", header=T) 
 ```
+
+*Excel Required library(readxl)*
 ```{r}
-data.tb <- read_excel("data.xlsx") # requires library(readxl)
+data.tb <- read_excel("data.xlsx")
 ```
+*SPSS data using `haven`*
 ```{r}
-data.tb <- read_sav("data.sav") # requires library(haven)
+data.tb <- read_sav("data.sav") 
 ```
+
+*SPSS data using `haven` but loading inline*
 ```{r}
-data.tb <- haven::read_sav("data.sav") # same as above without loading `haven`
+data.tb <- haven::read_sav("data.sav") 
 ```
+*Data File*
 ```{r}
 data.tb <- readr::read_delim("data.dat", delim="\t")
 ```
+
+*Data File in Base R*
 ```{r}
 data.tb <- read.delim("data.dat") # non Tidyverse way
 ```
 
+*Stata data using `haven`*
 ```{r}
-data.tb <- haven::read_dta("data.dta") # Stata data requires `haven`
+data.tb <- haven::read_dta("data.dta") 
 ```
 
 _Notice:_
