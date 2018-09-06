@@ -22,10 +22,51 @@ The [setup](https://clu-mscp.github.io/bedics/setup) instructions could be helpf
 
 ## Importing Data with R (Sections 3.5 & 3.7) {#dsur3_3}
 
+Prior to pulling in data, you'll need to make sure that you're "pointing" R in the right direction to find the file.  To figure where R is pointing send this or, more realistically, type this in the console:
+
+```r
+getwd()
+```
+
+The file path is where R will look to get your file.   If you are working in a R Project, which you should always be doing, it will go to the main folder for that project.  If you have a subfolder in that R Project then you can direct the import to that folder as noted below in the first, *.csv, example.  You can, although you really shouldn't have to, set your file path using by using the command `setwd(FILE PATH)` or using the dropdown menu in R Studion under `Session`.
+
+
 1. [RStudio Data Import Cheatsheet](https://rawgit.com/rstudio/cheatsheets/master/data-import.pdf)
 
+```r
+library(tidyverse) # will load the necessary packages which include reader and haven
+```
 
-2. Get data from GitHub
+1a. Table (*.csv)
+
+Directly bring in data that is in your working directory.
+```r
+data.tb <- read_csv("data.csv")
+```
+The `.tb` indicates it's a tibble
+
+Here is a way to use `read_csv` without loading the full `tidyverse`.  The package is called `readr`.
+```r
+data.tb <- readr::read_csv("dsur.csv")
+```
+
+If you put your data in a subfolder of your R Project.  In this case the subfolder is `03-data`.
+```r
+data.tb <- read_csv("03-data/data.csv")
+```
+You can add the extra path and it will go there without reseting your working directory using `setwd()`
+
+
+
+1b. Excel (.xlsx, .xls)
+
+1c. SPSS (*.sav)
+
+1d. Text file (*.dat)
+
+
+
+2.  Get data from GitHub
 
 GitHub is a great resource for data analysis projects.  You can certainly download the data and then put it in your R Project folder.   You can also directly import from the web.  The following is an example of how to import the data directly form a website.  
 

@@ -6,18 +6,18 @@ permalink: /dsurch2
 
 
 
-## Why is my evil lecturer forcing me to learn statistics?
+## Everything you ever wanted to know about statistics (well, sort of)
 #### **Everything you need to know *and more* from DSUR**
 
 
-1. [##](#dsur2_1)
-2. [##](#dsur2_2)
-3. [##](#dsur2_3)
+#. [##](#dsur2_1)
+#. [##](#dsur2_2)
+#. [##](#dsur2_6_1)
 
 *****
 
 
-### 3. Null Hypothesis Significance Testing (NHST) {#dsur1_3}
+### #. Null Hypothesis Significance Testing (NHST) {#dsur2_6_1}
 
 At the very end of this chapter, in section 1.7.4 & 1.7.5, the author begins a discussion of sampling distributions. We spend a lot of time talking about NHST in class and in Research Ethics.  We discuss its strengths, limits, and possible solutions to those limits.  There is nothing inherently bad about NHST, the problem is that it's widely misunderstood and misapplied.  As we will see, NHST, as a procedure for establishing the meaningfulness of our results, as become highly ritualized.  In fact, this ritual is mostly used in ways that are inconsistent with how the original founders of statistical testing would have endorsed.  
 
