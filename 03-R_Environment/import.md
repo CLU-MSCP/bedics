@@ -54,17 +54,49 @@ If you put your data in a subfolder of your R Project.  In this case the subfold
 ```r
 data.tb <- read_csv("03-data/data.csv")
 ```
-You can add the extra path and it will go there without reseting your working directory using `setwd()`
+
+Lastly, you can import data from the base import package
+```r
+data.tb <- read.csv("data.csv", header=T)
+```
+
+1b. Excel (.xlsx, .xls) is imported from the `readxl` library
+```{r}
+library(readxl)
+```
+
+```{r}
+data.tb <- read_excel("data.xlsx")
+```
 
 
+1c. SPSS (*.sav) is imported using the `haven` package which is embedded in the `Tidyverse`
+```{r}
+library(haven)
+```
 
-1b. Excel (.xlsx, .xls)
+```{r}
+data <- read_sav("data.sav")
+```
 
-1c. SPSS (*.sav)
+1d. Data file (*.dat)
 
-1d. Text file (*.dat)
+```{r}
+data.tb <- readr::read_delim("data.dat", delim="\t")
+```
+
+No Tidyverse way:
+```{r}
+data.tb <- read.delim("data.dat")
+```
 
 
+1e. Stat data (*.dta)
+
+Get the Stata data using the `read_dta` function from `haven`. Call it `kdata`.
+```{r}
+kdata <- haven::read_dta("kidiq.dta")
+```
 
 2.  Get data from GitHub
 
@@ -117,13 +149,13 @@ You'll use OSF throughout your time at CLU.   Similar to GitHub, OSF is a great 
 
 
 A) `httr` package is need for the `GET` command. Install and load.
-```r
+```{r}
 library(httr) 
 ```
 
 B) Here you need: 1) The name of the file and in this case it's an `.xlsx` file. 2) The URL followed by `/?action=download` and saved as `data` 3) Our file is in `data` and we'll call it `pp.xlsx` to preserve the original extension.  The names `data` and `pp` are irrelevant.
 
-```
+```{r}
 if (!file.exists('p-curve disclosure table for Power Posing review - 2016 09 26.xlsx')) {
     data <- GET('osf.io/2fq9c//?action=download',
                 write_disk('pp.xlsx', overwrite = TRUE))
@@ -131,8 +163,8 @@ if (!file.exists('p-curve disclosure table for Power Posing review - 2016 09 26.
 ```
 
 C) Using the `readxl` package you can open the saved file.
-```r
-pp.tb <- read_excel('pp.xlsx')
+```{r}
+pp.tb <- readxl::read_excel('pp.xlsx')
 pp.tb
 
 # A tibble: 33 x 13
