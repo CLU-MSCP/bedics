@@ -13,7 +13,7 @@ permalink: /import
 
 *****
 
-## Before you start {#dsur3_1}
+## 1. Before you start {#dsur3_1}
 
 The chapter provides a background and overview of R.  A nice YouTube video can introduce you to both: [Getting Started with R and R Studio](https://www.youtube.com/watch?v=lVKMsaWju8w)
 
@@ -38,7 +38,7 @@ Go the source and check out the [RStudio Data Import Cheatsheet](https://rawgit.
 
 *****
 
-## Importing Data in R {#dsur3_2}
+## 2. Importing Data in R {#dsur3_2}
 
 Below are commonly used functions for importing data that rely on the following libraries all of which are contained with in the `library(tidyverse)` but you could load the three major libraries seperately such as below:
 
@@ -99,6 +99,8 @@ data.tb <- haven::read_dta("data.dta")
 
 2. You can use the `::` to designate the library to be loaded.  In this case you don't have to do `library()` in an early chunk.
 
+<a href="#">Go to top</a>
+
 *****
 
 ## 3.  Get data from GitHub {#dsur3_3}
@@ -145,6 +147,7 @@ redcard.tb
    nExp <int>, seExp <dbl>
 ```
 
+<a href="#">Go to top</a>
 
 *****
 
@@ -194,6 +197,6 @@ pp.tb
    Results` <chr>
 ```
 
+*****
 
-
-
+<a href="#">Go to top</a>
