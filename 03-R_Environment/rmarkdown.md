@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Chapter 3 The R Environment: R Markdown
+title: Chapter 3 The R Environment
 permalink: /rmarkdown
 ---
 
+
+# R Mardown
 
 *****
 
