@@ -27,9 +27,9 @@ a. Control the options for every chunk all at once
 {r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 ```
-This chunk pops up for _every_ `.Rmd` you open.  It will control the options that appear in from **all** of the chunks in your document. If you want to set rules for all the chunks, then you can modify the controls in this section.  
+If you want to set rules for all the chunks, then you can modify the controls in this section. This chunk pops up for _every_ `.Rmd` you open which is convenient.  It's always labeled as `setup` but that's irrelevant.  The key is what function the chunk contains.  
 
-In this particular setup chunk, it's call the `opts_chunk$set` function from the `knitr` library. In this example, I'll never see warnings or messages but I _will_ see code because `echo = True`.  I will also see results if I do any data analysis.   
+In this particular chunk, the function here, `opts_chunk$set`, is from the `knitr` library. In this example, I'll never see warnings or messages but I _will_ see code because `echo = True`.  I will also see results if I do any data analysis.   
 
 - Notice `include=FALSE` will including _nothing_ from the chunk in the output rendering that chunk invisible in your output.  
 
@@ -78,7 +78,20 @@ The steps can be broken down as follows:
 4. In the YAML  (the code at the very top with you name), remove the `default` and add the following under word_document: 
   reference_docx: rmarkdown_template.docx
 
-Notice the number formmating comes out nicely above but we can use bullets too:
+Notice in the above section that the number formating comes out nicely.  However, you can create bullets too:
+
+```{r}
+- Render a word doc and save is as something like "rmarkdown_template.docx" and save in the **same** folder as your code.
+
+- Open the new word file and change the style template as noted on the website.  There are several steps.
+
+- Save the template.
+
+- In the YAML  (the code at the very top with you name), remove the `default` and add the following under     
+    - word_document: 
+        
+        reference_docx: rmarkdown_template.docx
+```
 
 - Render a word doc and save is as something like "rmarkdown_template.docx" and save in the **same** folder as your code.
 
@@ -91,13 +104,22 @@ Notice the number formmating comes out nicely above but we can use bullets too:
         
         reference_docx: rmarkdown_template.docx
 
+
 *****
+
 
 ### 3. Equations {#equations}
 
 You can get fancy with equations:
 
 ```r
+$$\begin{array}{ccc}
+x_{11} & x_{12} & x_{13} \\
+x_{21} & x_{22} & x_{23}
+\end{array}$$
+```
+
+```
 $$\begin{array}{ccc}
 x_{11} & x_{12} & x_{13} \\
 x_{21} & x_{22} & x_{23}
@@ -127,13 +149,29 @@ Sometimes in describing your results you might want to quote a famous person for
 
 *****
 
-### 5. Table of Contents {#toc}
+### 5. Table of Contents (TOC) {#toc}
 
-Notice in the YAML, that under `.html` there is a `toc=true` and there is no `default` statement like there is for word and pdf.  Knit html and .doc and compare.
+```
+---
+title: "R Markdown Tips"
+author: "Jamie Bedics"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    toc: true
+  pdf_document: default
+  word_document: default
+---
+```
 
-What's the difference?
+a. You can add a TOC for all rendered output.
 
-Change to the `toc=` to `toc_float = true` under html. What happens?  This only works for `html`.
+Notice in the above YAML, that under `.html` there is a `toc: true` and there is no `default` statement like there is for word and pdf.  
+
+The TOC YAML option is a nice feature for your documents especially when they're lengthy. 
+b. TOC Float
+
+The floating TOC is a nice option when rendering to HTML.  Add `toc_float = true` under `toc: true` and under the `html_doucment` heading in your YAML. 
 
 Additional tips on `html` can be found **[here](https://rmarkdown.rstudio.com/html_document_format)** at R Studio.
 
