@@ -55,7 +55,7 @@ Further chunk options can be found at the following **[site](https://yihui.name/
 
 You can use the following functions when you want to create a new page for a new section in your document.  These work for PDF and WORD documents.  It's the same as adding a "page break" in word when, for example, you want to start your method section on a new page when writing a research paper.  Othertimes, it's simply more aesthetically pleasing to start on a new page.  The following instructions tell you how to do this in R Studio for PDF and WORD outputs.
 
-a. Create a page break when you render using `.pdf`
+**a. Create a page break when you render using `.pdf`**
 
 You can add a line break, a new separate page on a .pdf if you add the `\break` command.  This does not work for .html or for .docx.  Add it to any part of the document _outside_ of a chunk
 
@@ -63,7 +63,7 @@ You can add a line break, a new separate page on a .pdf if you add the `\break` 
 \break
 ```
 
-b. Create a page break when you render using `.docx` 
+**b. Create a page break when you render using `.docx`.**
 If you want to do so for .docx the instructions are pretty straightforward and can be found at this website:
 [https://datascienceplus.com/r-markdown-how-to-insert-page-breaks-in-a-ms-word-document/](https://datascienceplus.com/r-markdown-how-to-insert-page-breaks-in-a-ms-word-document/)
 
@@ -112,13 +112,6 @@ Notice in the above section that the number formating comes out nicely.  However
 
 You can get fancy with equations:
 
-```r
-$$\begin{array}{ccc}
-x_{11} & x_{12} & x_{13} \\
-x_{21} & x_{22} & x_{23}
-\end{array}$$
-```
-
 ```
 $$\begin{array}{ccc}
 x_{11} & x_{12} & x_{13} \\
@@ -164,12 +157,12 @@ output:
 ---
 ```
 
-a. You can add a TOC for all rendered output.
+**a. You can add a TOC for all rendered output.**
 
 Notice in the above YAML, that under `.html` there is a `toc: true` and there is no `default` statement like there is for word and pdf.  
 
 The TOC YAML option is a nice feature for your documents especially when they're lengthy. 
-b. TOC Float
+**b. Floating TOC**
 
 The floating TOC is a nice option when rendering to HTML.  Add `toc_float = true` under `toc: true` and under the `html_doucment` heading in your YAML. 
 
