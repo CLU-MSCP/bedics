@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chapter 3 The R Environment
+title: Chapter 3 The R Environment: R Markdown
 permalink: /rmarkdown
 ---
 
@@ -24,9 +24,8 @@ permalink: /rmarkdown
 This chunk pops up for _every_ `.Rmd` you open.  It will controls the options that appear in from **every** chunk in your document.
 
 ```{r}
-```{r setup, include=FALSE}
+{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
-```
 ```
 
 In this particular setup chunk, it's call the `opts_chunk$set` function from the `knitr` library. I'll never see warnings or messages but I _will_ see code because `echo = True` and the results.  Notice `include=FALSE` will including _nothing_ from the chunk in the output.
@@ -36,15 +35,16 @@ In this particular setup chunk, it's call the `opts_chunk$set` function from the
 ### Hide code using `echo=FALSE` {#hidecode}
 
 Here you see code when you render:
-```{r code}
+```{r}
+{r code}
 library(tidyverse)
 ```
 
 Here you don't:
-```{r no code, echo=FALSE}
+```{r}
+{r no code, echo=FALSE}
 library(tidyverse)
 ```
-Sneaky, sneaky.
 
 *****
 
