@@ -23,8 +23,10 @@ permalink: /rmarkdown
 
 This chunk pops up for _every_ `.Rmd` you open.  It will controls the options that appear in from **every** chunk in your document.
 
+```{r}
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
 ```
 
 In this particular setup chunk, it's call the `opts_chunk$set` function from the `knitr` library. I'll never see warnings or messages but I _will_ see code because `echo = True` and the results.  Notice `include=FALSE` will including _nothing_ from the chunk in the output.
@@ -103,18 +105,25 @@ Notice the number formmating comes out nicely above but we can use bullets too:
 
 You can get fancy with equations:
 
+```r
 $$\begin{array}{ccc}
 x_{11} & x_{12} & x_{13} \\
 x_{21} & x_{22} & x_{23}
 \end{array}$$
+```
 
-\break
 
 *****
 
 ### Quotations {#quotations}
 
 Sometimes in describing your results you might want to quote a famous person for inspiration:
+
+```r
+> "Today is only one day in all the days that will ever be. But what will happen in all the other days that ever come can depend on what you do today."
+>
+> --- Ernest Hemingway, _From Whom the Bell Tolls_
+```
 
 > "Today is only one day in all the days that will ever be. But what will happen in all the other days that ever come can depend on what you do today."
 >
