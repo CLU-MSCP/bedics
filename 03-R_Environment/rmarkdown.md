@@ -10,10 +10,12 @@ permalink: /rmarkdown
 ## Table of Contents
 
 1. [Setup](#setup)
-2. [Tidyverse Import](#dsur3_2)
-3. [GitHub Import](#dsur3_3)
-4. [OSF Import](#dsur3_4)
-
+2. [Hide Code](#hidecode)
+3. [Hide Results](#hideresults)
+4. [Break Line](#break)
+5. [Equations](#equations)
+6. [Quotations](#quotations)
+7. [Table of Contents](#toc)
 
 *****
 
@@ -29,7 +31,7 @@ In this particular setup chunk, it's call the `opts_chunk$set` function from the
 
 *****
 
-### Hide code using `echo=FALSE`
+### Hide code using `echo=FALSE` {#hidecode}
 
 Here you see code when you render:
 ```{r code}
@@ -44,7 +46,7 @@ Sneaky, sneaky.
 
 *****
 
-### Hide Results
+### Hide Results {#hideresults}
 
 The only thing we haven't covered is how to hide the results which you can with `results='hide'`
 
@@ -64,7 +66,7 @@ Further chunk options can be found at the following **[site](https://yihui.name/
 
 *****
 
-### Break line
+### Break line {#break}
 
 You can add a break line and create a separate page on pdf if you add the `\break` command.  This does not work for .html or for .docx.
 
@@ -97,7 +99,7 @@ Notice the number formmating comes out nicely above but we can use bullets too:
 
 *****
 
-### Equations
+### Equations {#equations}
 
 You can get fancy with equations:
 
@@ -110,7 +112,7 @@ x_{21} & x_{22} & x_{23}
 
 *****
 
-### Quotations
+### Quotations {#quotations}
 
 Sometimes in describing your results you might want to quote a famous person for inspiration:
 
@@ -120,7 +122,7 @@ Sometimes in describing your results you might want to quote a famous person for
 
 *****
 
-### Table of Contents
+### Table of Contents {#toc}
 
 Notice in the YAML, that under `.html` there is a `toc=true` and there is no `default` statement like there is for word and pdf.  Knit html and .doc and compare.
 
@@ -130,6 +132,6 @@ Change to the `toc=` to `toc_float = true` under html. What happens?  This only 
 
 Additional tips on `html` can be found **[here](https://rmarkdown.rstudio.com/html_document_format)** at R Studio.
 
-
+*****
 
 <a href="#">Go to top</a>
