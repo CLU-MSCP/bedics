@@ -5,7 +5,7 @@ permalink: /rmarkdown
 ---
 
 
-# R Mardown
+# R Markdown
 
 *****
 

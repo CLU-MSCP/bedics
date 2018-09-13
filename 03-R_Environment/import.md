@@ -4,6 +4,7 @@ title: Chapter 3 The R Environment
 permalink: /import
 ---
 
+# Import you Data
 
 1. [Before you start](#dsur3_1)
 2. [Tidyverse Import](#dsur3_2)
