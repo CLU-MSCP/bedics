@@ -12,69 +12,58 @@ permalink: /rmarkdown
 ## Table of Contents
 
 1. [Setup](#setup)
-2. [Hide Code](#hidecode)
-3. [Hide Results](#hideresults)
-4. [Break Line](#break)
-5. [Equations](#equations)
-6. [Quotations](#quotations)
-7. [Table of Contents](#toc)
+2. [Page Break](#break)
+3. [Equations](#equations)
+4. [Quotations](#quotations)
+5. [Table of Contents](#toc)
 
 *****
 
-### Setup {#setup}
+### 1. Setup {#setup}
 
-This chunk pops up for _every_ `.Rmd` you open.  It will controls the options that appear in from **every** chunk in your document.
+a. Control the options for every chunk all at once 
 
 ```{r}
 {r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 ```
+This chunk pops up for _every_ `.Rmd` you open.  It will control the options that appear in from **all** of the chunks in your document. If you want to set rules for all the chunks, then you can modify the controls in this section.  
 
-In this particular setup chunk, it's call the `opts_chunk$set` function from the `knitr` library. I'll never see warnings or messages but I _will_ see code because `echo = True` and the results.  Notice `include=FALSE` will including _nothing_ from the chunk in the output.
+In this particular setup chunk, it's call the `opts_chunk$set` function from the `knitr` library. In this example, I'll never see warnings or messages but I _will_ see code because `echo = True`.  I will also see results if I do any data analysis.   
 
-*****
+- Notice `include=FALSE` will including _nothing_ from the chunk in the output rendering that chunk invisible in your output.  
 
-### Hide code using `echo=FALSE` {#hidecode}
+b. Control the options for a single chunk
 
-Here you see code when you render:
+The key options for our work include:
+1. `message = FALSE`
+2. `warning = FALSE`
+3. `echo = FALSE`
+
+In this chunk, for example, I will not see any messages, warning, or code:
+
 ```{r}
-{r code}
-library(tidyverse)
-```
-
-Here you don't:
-```{r}
-{r no code, echo=FALSE}
-library(tidyverse)
-```
-
-*****
-
-### Hide Results {#hideresults}
-
-The only thing we haven't covered is how to hide the results which you can with `results='hide'`
-
-Results appear:
-```{r}
-a <- 1+1
-a
-```
-
-Results do not appear:
-```{r}
-{r, results='hide'}
-a <- 1+1
-a
+{r, message = FALSE, warning = FALSE, echo=FALSE}
+plot(mpg)
 ```
 
 Further chunk options can be found at the following **[site](https://yihui.name/knitr/options)**.
 
 *****
 
-### Break line {#break}
+### 2. Page Break {#break}
 
-You can add a break line and create a separate page on pdf if you add the `\break` command.  This does not work for .html or for .docx.
+You can use the following functions when you want to create a new page for a new section in your document.  These work for PDF and WORD documents.  It's the same as adding a "page break" in word when, for example, you want to start your method section on a new page when writing a research paper.  Othertimes, it's simply more aesthetically pleasing to start on a new page.  The following instructions tell you how to do this in R Studio for PDF and WORD outputs.
 
+a. Create a page break when you render using `.pdf`
+
+You can add a line break, a new separate page on a .pdf if you add the `\break` command.  This does not work for .html or for .docx.  Add it to any part of the document _outside_ of a chunk
+
+```{r}
+\break
+```
+
+b. Create a page break when you render using `.docx` 
 If you want to do so for .docx the instructions are pretty straightforward and can be found at this website:
 [https://datascienceplus.com/r-markdown-how-to-insert-page-breaks-in-a-ms-word-document/](https://datascienceplus.com/r-markdown-how-to-insert-page-breaks-in-a-ms-word-document/)
 
@@ -104,7 +93,7 @@ Notice the number formmating comes out nicely above but we can use bullets too:
 
 *****
 
-### Equations {#equations}
+### 3. Equations {#equations}
 
 You can get fancy with equations:
 
@@ -115,10 +104,14 @@ x_{21} & x_{22} & x_{23}
 \end{array}$$
 ```
 
+$$\begin{array}{ccc}
+x_{11} & x_{12} & x_{13} \\
+x_{21} & x_{22} & x_{23}
+\end{array}$$
 
 *****
 
-### Quotations {#quotations}
+### 4. Quotations {#quotations}
 
 Sometimes in describing your results you might want to quote a famous person for inspiration:
 
@@ -134,7 +127,7 @@ Sometimes in describing your results you might want to quote a famous person for
 
 *****
 
-### Table of Contents {#toc}
+### 5. Table of Contents {#toc}
 
 Notice in the YAML, that under `.html` there is a `toc=true` and there is no `default` statement like there is for word and pdf.  Knit html and .doc and compare.
 
