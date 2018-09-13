@@ -61,7 +61,8 @@ a
 ```
 
 Results do not appear:
-```{r, results='hide'}
+```{r}
+{r, results='hide'}
 a <- 1+1
 a
 ```
