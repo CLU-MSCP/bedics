@@ -130,7 +130,7 @@ x_{21} & x_{22} & x_{23}
 
 Sometimes in describing your results you might want to quote a famous person for inspiration:
 
-```r
+```
 > "Today is only one day in all the days that will ever be. But what will happen in all the other days that ever come can depend on what you do today."
 >
 > --- Ernest Hemingway, _From Whom the Bell Tolls_
