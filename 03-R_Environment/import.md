@@ -40,9 +40,11 @@ Go the source and check out the [RStudio Data Import Cheatsheet](https://rawgit.
 
 ## 2. Importing Data in R {#dsur3_2}
 
-Below are commonly used functions for importing data. They rely on the following three packages all of which are contained within the [`tidyverse`](https://www.tidyverse.org/packages/).  However, you could load them seperately:
+Below are commonly used functions for importing data in several CLU classes. A more exhaustive list can be found in Wickham's [R4DS](http://r4ds.had.co.nz/data-import.html). 
 
 **Step 1. Load Libaries**
+
+The functions we use rely on the following three packages all of which are contained within the [`tidyverse`](https://www.tidyverse.org/packages/).  However, you could load them seperately such as:
 ```{r}
 # Load Libraries for Import
 library(readr) # for *.csv and *.dat in class
@@ -50,7 +52,7 @@ library(haven) # for *.sav (spss files) and *.dta (stata files)
 library(readxl) # for *.xlsx and *.xls files
 ```
 
-Or more simply:
+Or more simply as a collective pacakage:
 ```{r}
 library(tidyverse)
 ```
@@ -71,9 +73,10 @@ data.tb <- read_csv("03-data/data.csv")
 data.tb <- read.csv("data.csv", header=T) 
 ```
 
-4. **Excel Required library(readxl):**
+4. **Excel Required [library(readxl)](https://readxl.tidyverse.org/):**
 ```{r}
 data.tb <- read_excel("data.xlsx")
+data1.tb <- read_excel("data.xlsx", sheet = "Name" or #) # if you have multiple sheets
 ```
 5. **SPSS data using `haven`:**
 ```{r}
