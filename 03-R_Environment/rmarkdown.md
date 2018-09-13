@@ -161,7 +161,8 @@ output:
 
 Notice in the above YAML, that under `.html` there is a `toc: true` and there is no `default` statement like there is for word and pdf.  
 
-The TOC YAML option is a nice feature for your documents especially when they're lengthy. 
+The TOC YAML option is a nice feature for your documents especially when they're lengthy.
+
 **b. Floating TOC**
 
 The floating TOC is a nice option when rendering to HTML.  Add `toc_float = true` under `toc: true` and under the `html_doucment` heading in your YAML. 
