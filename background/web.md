@@ -65,7 +65,9 @@ The following are more technical resources that you might find helpful in your c
 
 <li>Text Analysis with Twitter at <a  href="https://qz.com/862325/the-great-american-word-mapper/#int/words=dinner_supper&smoothing=3">Quartz</a>.</li>
 <li><a  href="http://flowingdata.com/">Flowing Data</a>.</li>
+<li><a  href="https://www.r-graph-gallery.com/>The R Graph Gallery</a>.</li>
 <li><a  href="https://www.youtube.com/watch?v=TA_tNh0LMEs">Age of Insight: Telling Stories with Data</a>.</li> 
+<li><a  href="http://tylervigen.com/spurious-correlations>Spurious Correlations</a>.</li>
 
 *****
 
