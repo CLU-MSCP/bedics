@@ -57,7 +57,7 @@ You should also consider programs outside of clinical psychology PHD or PSYD. Ex
   * PHD in Social work or MFT
   * Public Health
 
-They programs will likely have greater odds of admission while at the same time providing some funding if you stick to large state schools.  Many students perceive these programs as "less than" PHD Clinical Psychology programs and that's just not true.  It's about fit.  I do recommend, however, trying your best to only include universities that traditional colleges and universities rather than free standing programs. 
+These programs will likely have greater odds of admission while at the same time providing some funding if you stick to large state schools.  Many students perceive these programs as "less than" PHD Clinical Psychology programs and that's just not true.  It's about fit.  I do recommend, however, trying your best to only include universities that traditional colleges and universities rather than free standing programs. 
 
 *****
 
