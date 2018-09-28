@@ -48,7 +48,7 @@ The best thing you can do to improve your chances of admission is to apply broad
   * School Mission Fit (PSYD Programs)  
   * Funding Available (Full or Partial Tuition Remission and/or Stipends)
 
-Do what you can do quantify the above factors and fit them into your Excel. You can then do your best to assess the diversity of your options. Try to assign them to tiers based on your own personal sorting.  Lastly, make sure you have representation in all tiers.  In my experience, students either severely overestimate or underestimate themselves. Such a ranking can help see where you might have holes.
+Do what you can to quantify the above factors and fit them into your Excel. You can then do your best to assess the diversity of your options. Try to assign them to tiers based on your own personal sorting.  Lastly, make sure you have representation in all tiers.  In my experience, students either severely overestimate or underestimate themselves. Such a ranking can help see where you might have holes.
 
 You should also consider programs outside of clinical psychology PHD or PSYD. Examine programs in the following areas:
 
