@@ -29,9 +29,9 @@ You could add more information to share with me such as the admission ratio, ave
 
 **Electronic Submissions (Doctoral)** – The best and easiest way for me to submit letters is through an online web portal that is sent to me via email from the university. Students can sometimes lack clarity on how to submit for each school. Please do your research. Related:
 
-    a. **No Snail Mail** – I do not send enveloped mail to universities. Check to see if any of your schools require actual physical letters. You will need to provide me with a stamped, addressed envelope with no return address. Please discuss with me.
+  * **No Snail Mail** – I do not send enveloped mail to universities. Check to see if any of your schools require actual physical letters. You will need to provide me with a stamped, addressed envelope with no return address. Please discuss with me.
   
-    b.	**LOR to Student** – I do not send letters directly for you to disperse at your choosing. That does not happen. You’ll have to drop the school or me. You pick. 
+  * **LOR to Student** – I do not send letters directly for you to disperse at your choosing. That does not happen. You’ll have to drop the school or me. You pick. 
 
 <a href="#">Go to top</a>
 
