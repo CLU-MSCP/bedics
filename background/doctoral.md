@@ -3,8 +3,7 @@ layout: page
 permalink: /doctoral
 ---
 
-## Applying to Doctoral Programs
-#### **Letters of Recommendation**
+## Letters of Recommendation
 
 These guidelines help me to help you.  Please let me know if you need any accommodations to the below preferences.  
 
@@ -20,8 +19,9 @@ You could add more information to share with me like application: admission rati
 
 3. **Electronic Submissions (Doctoral)** – The best and easiest way for me to submit letters is through an online web portal.  Students can sometimes lack clarity on how to submit for each school.  Please do your research. Related:
 
-  a. **No Snail Mail** – I do not send enveloped mail to universities. Check to see if any of your schools require actual physical letters. You will need to provide me with a stamped, addressed envelope with no return address. Please discuss with me.
-  b.	**LOR to Student** – I do not send letters directly for you to disperse at your choosing. That does not happen.  You’ll have to drop the school or me.  You pick. 
+    a. **No Snail Mail** – I do not send enveloped mail to universities. Check to see if any of your schools require actual physical letters. You will need to provide me with a stamped, addressed envelope with no return address. Please discuss with me.
+  
+    b.	**LOR to Student** – I do not send letters directly for you to disperse at your choosing. That does not happen.  You’ll have to drop the school or me.  You pick. 
 
 4.	**Material (Doctoral/Internship)** – Feel free to share with me your personal statement, CVs, or other material on a Google Drive preferably where you shared your Google Sheet.  I provided example CVs and an excellent personal statement for doctoral programs in my MS Clinical Folder. 
 
