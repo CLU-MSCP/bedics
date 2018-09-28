@@ -65,6 +65,8 @@ These programs will likely have greater odds of admission while at the same time
 
 Feel free to share with me your personal statement, CVs, or other material on a Google Drive preferably where you shared your Google Sheet.  I provided example CVs and an excellent personal statement for doctoral programs in the MS Clinical folder. You can access the folder through Blackboard.  My general rule is that I provide feedback **once** on all material.  
 
+<a href="#">Go to top</a>
+
 *****
 
 <a href="#">Go to top</a>
