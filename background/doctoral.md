@@ -10,7 +10,7 @@ These guidelines help me to help you.  Please let me know if you need any accomm
 1. **Get Organized (Doctoral/Internship)** – The application process requires a great deal of organization.  An ideal situation is for you to share with me a Google Sheet that lists all your schools, their deadlines, and whether or not you received a confirmation that I sent the LOR. I could then see what I’m missing. Here’s a doctoral example:
 
 <center>
-<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/excel.png" alt="Cover" align="center" style="width: 60%; height: 60%; margin:8px">
+<img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/excel.png" alt="Cover" align="center" style="width: 80%; height: 80%; margin:8px">
 </center> 
  
 You could add more information to share with me like application: admission ratio, average GREs for admission, or other tasks that help you keep track of what you need (i.e., submitted transcripts etc.). Revise this to fit your needs.
