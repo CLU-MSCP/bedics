@@ -59,13 +59,11 @@ You should also consider programs outside of clinical psychology PHD or PSYD. Ex
 
 They programs will likely have greater odds of admission while at the same time providing some funding if you stick to large state schools.  Many students perceive these programs as "less than" PHD Clinical Psychology programs and that's just not true.  It's about fit.  I do recommend, however, trying your best to only include universities that traditional colleges and universities rather than free standing programs. 
 
-<a href="#">Go to top</a>
-
 *****
 
 ### Professional Material {#material}
 
-Feel free to share with me your personal statement, CVs, or other material on a Google Drive preferably where you shared your Google Sheet.  I provided example CVs and an excellent personal statement for doctoral programs in the MS Clinical folder. You can access the folder through Blackboard.
+Feel free to share with me your personal statement, CVs, or other material on a Google Drive preferably where you shared your Google Sheet.  I provided example CVs and an excellent personal statement for doctoral programs in the MS Clinical folder. You can access the folder through Blackboard.  My general rule is that I provide feedback **once** on all material.  
 
 *****
 
