@@ -37,11 +37,15 @@ Notice `include=FALSE` will including _nothing_ from this first chunk in the out
 
 b. You can override chunk options by adjusting the individual chunk options.  In this example, `echo=FALSE` will result in the code not showing:
 
-```{r, echo=FALSE}
-ggplot2::mpg
+```{r, echo=FALSE, figure.align = 'center', fig.width = 6, fig.length = 4}
+hist(mtcars$mpg)
 ```
 
+In the above chunk, we also centered the figure and we set the width and length of the figure.  You can add these figure modifications to _all_ chunks in `opts_chunk$set` code. 
+
+
 Further chunk options can be found at the following **[site](https://yihui.name/knitr/options)**.
+
 
 *****
 
