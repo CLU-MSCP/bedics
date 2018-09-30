@@ -43,9 +43,7 @@ hist(mtcars$mpg)
 
 In the above chunk, we also centered the figure and we set the width and length of the figure.  You can add these figure modifications to _all_ chunks in `opts_chunk$set` code. 
 
-
 Further chunk options can be found at the following **[site](https://yihui.name/knitr/options)**.
-
 
 *****
 
