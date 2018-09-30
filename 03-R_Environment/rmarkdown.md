@@ -21,30 +21,24 @@ permalink: /rmarkdown
 
 ### 1. Setup {#setup}
 
-a. Control the options for every chunk all at once 
+a. Control the options for every chunk all at once in the setup chunk that appears in _every_ new R Markdown File.
 
 ```{r}
 {r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+knitr::opts_knit$set(root.dir=normalizePath('../'))
 ```
-If you want to set rules for all the chunks, then you can modify the controls in this section. This chunk pops up for _every_ `.Rmd` you open which is convenient.  It's always labeled as `setup` but that's irrelevant.  The key is what function the chunk contains.  
 
-In this particular chunk, the function here, `opts_chunk$set`, is from the `knitr` library. In this example, I'll never see warnings or messages but I _will_ see code because `echo = True`.  I will also see results if I do any data analysis.   
+  * `knitr::opts_chunk$set`, in the above example, will always show code in the rendered file (echo) and will not show messages or warnings. 
+ 
+  * `knitr::opts_knit$set(root.dir=normalizePath('../'))` - If you put your R Markdown file into a sub-folder then it immediately sets the working directory as being in that folder.  This option will set the working directory to the root project director. 
+  
+  * Notice `include=FALSE` will including _nothing_ from the chunk in the output rendering that chunk invisible in your output.  
 
-- Notice `include=FALSE` will including _nothing_ from the chunk in the output rendering that chunk invisible in your output.  
+b. You can override chunk options by adjusting the chunk options.  Here, `echo=FALSE` will results in the code not showing:
 
-b. Control the options for a single chunk
-
-The key options for our work include:
-1. `message = FALSE`
-2. `warning = FALSE`
-3. `echo = FALSE`
-
-In this chunk, for example, I will not see any messages, warning, or code:
-
-```{r}
-{r, message = FALSE, warning = FALSE, echo=FALSE}
-plot(mpg)
+```{r, echo=FALSE}
+ggplot2::mpg
 ```
 
 Further chunk options can be found at the following **[site](https://yihui.name/knitr/options)**.
@@ -53,7 +47,7 @@ Further chunk options can be found at the following **[site](https://yihui.name/
 
 ### 2. Page Break {#break}
 
-You can use the following functions when you want to create a new page for a new section in your document.  These work for PDF and WORD documents.  It's the same as adding a "page break" in word when, for example, you want to start your method section on a new page when writing a research paper.  Othertimes, it's simply more aesthetically pleasing to start on a new page.  The following instructions tell you how to do this in R Studio for PDF and WORD outputs.
+You can use the following functions when you want to create a new page for a new section in your document.  These work for PDF and WORD documents.  It's the same as adding a "page break" in word when, for example, you want to start your method section on a new page when writing a research paper.  Other times, it's simply more aesthetically pleasing to start on a new page.  The following instructions tell you how to do this in R Studio for PDF and WORD outputs.
 
 **a. Create a page break when you render using `.pdf`**
 
@@ -78,7 +72,7 @@ The steps can be broken down as follows:
 4. In the YAML  (the code at the very top with you name), remove the `default` and add the following under word_document: 
   reference_docx: rmarkdown_template.docx
 
-Notice in the above section that the number formating comes out nicely.  However, you can create bullets too:
+Notice in the above section that the number formatting comes out nicely.  However, you can create bullets too:
 
 ```{r}
 - Render a word doc and save is as something like "rmarkdown_template.docx" and save in the **same** folder as your code.
