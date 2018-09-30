@@ -37,7 +37,8 @@ Notice `include=FALSE` will including _nothing_ from this first chunk in the out
 
 b. You can override chunk options by adjusting the individual chunk options.  In this example, `echo=FALSE` will result in the code not showing:
 
-```{r, echo=FALSE, figure.align = 'center', fig.width = 6, fig.length = 4}
+```{r}
+{r setup, echo=FALSE, figure.align = 'center', fig.width = 6, fig.length = 4}
 hist(mtcars$mpg)
 ```
 
