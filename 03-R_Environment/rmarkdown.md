@@ -29,13 +29,13 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 knitr::opts_knit$set(root.dir=normalizePath('../'))
 ```
 
-  * `knitr::opts_chunk$set`, in the above example, will always show code in the rendered file (echo) and will not show messages or warnings. 
+  * `knitr::opts_chunk$set`, in the above example the code will show for every chunk but there will be no messages or warnings. 
  
-  * `knitr::opts_knit$set(root.dir=normalizePath('../'))` - If you put your R Markdown file into a sub-folder then it immediately sets the working directory as being in that folder.  This option will set the working directory to the root project director. 
+  * `knitr::opts_knit$set(root.dir=normalizePath('../'))` - If you put your R Markdown file into a sub-folder then it immediately sets the working directory to that folder.  This option will set the working directory to the root project directory. 
   
-  * Notice `include=FALSE` will including _nothing_ from the chunk in the output rendering that chunk invisible in your output.  
+Notice `include=FALSE` will including _nothing_ from this first chunk in the output of your rendered document (HTML, .docx, .pdf).  
 
-b. You can override chunk options by adjusting the chunk options.  Here, `echo=FALSE` will results in the code not showing:
+b. You can override chunk options by adjusting the individual chunk options.  In this example, `echo=FALSE` will result in the code not showing:
 
 ```{r, echo=FALSE}
 ggplot2::mpg
