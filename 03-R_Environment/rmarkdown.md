@@ -130,12 +130,12 @@ Sometimes in describing your results you might want to quote a famous person for
 ```
 > "Today is only one day in all the days that will ever be. But what will happen in all the other days that ever come can depend on what you do today."
 >
-> --- Ernest Hemingway, _From Whom the Bell Tolls_
+> --- Ernest Hemingway, _For Whom the Bell Tolls_
 ```
 
 > "Today is only one day in all the days that will ever be. But what will happen in all the other days that ever come can depend on what you do today."
 >
-> --- Ernest Hemingway, _From Whom the Bell Tolls_
+> --- Ernest Hemingway, _For Whom the Bell Tolls_
 
 *****
 
