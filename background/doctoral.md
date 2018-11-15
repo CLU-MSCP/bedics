@@ -7,7 +7,7 @@ permalink: /doctoral
 
 ### Table of Contents
 
-These guidelines help me to help you in taking the next step in your career.  Please let me know if you need any accommodations to the below preferences. 
+These guidelines are meant to help you in taking the next step in your career.  The steps outlined below require a great deal of organization and advanced planning. Your faculty and recommenders want to help you reach your goals.  Deviation from the steps below can hurt that process.   
 
 1. [Letters of Recommendation](#lor)
 2. [Prospective Programs](#programs)
@@ -16,34 +16,37 @@ These guidelines help me to help you in taking the next step in your career.  Pl
 
 ### 1. Letters of Recommendation (LOR) {#lor}
 
+Requesting an LOR is a big step.  Ideally, you have known the person beyond a classroom setting.  Regardless, this step is the most critical because your behavior has a direct effect on another person who wants to help you but also has a busy schedule of their own.  The steps below can increase your odds of success but require a good deal of rigor and planning on your part.   
   
-**1a. Get Organized (Doctoral/Internship)** – The application process requires a great deal of organization. An ideal situation is for you to _share_ with me (not email me) a Google Sheet that lists all your schools, their deadlines, and whether or not you received a confirmation email that I submitted the LOR. I could then see what I’m missing. Ultimately, it's your responsibility to keep track and not your recommender.  Here’s a doctoral example for a Google Sheet:
+**1a. Get Organized with a shared Google Sheet** – The application process requires a great deal of organization and anticipation. An ideal situation is for you to _share_ with Dr. Bedics (not email) a Google Sheet that lists all your schools, their deadlines, and whether or not you received a confirmation email that the LOR was received.  Here’s a doctoral example for a Google Sheet:
 
 <center>
 <img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/excel.png" alt="Cover" align="center" style="width: 80%; height: 80%; margin:8px">
 </center> 
  
-It is easier to use a Google Sheet than an imported Excel.  You could add more information to share with me such as the admission ratio, average GREs for admission, or other tasks that help you track what you need (i.e., submitted transcripts etc.). Revise this to fit your needs. The ideal situation is for you to have this **complete by 10/1**.  Late additions are risky and I would resist the urge to continually add programs.
+It is easier to use a Google Sheet than an imported Excel. As an option, you could add more information to share such as the admission ratio, average GREs for admission, or other tasks that help you track what you need (i.e., submitted transcripts etc.). Revise this to fit your needs. The ideal situation is for you to have this **complete by 10/15**.  Late additions are risky and I would resist the urge to continually add programs.
 
-**1b. Due Dates (Doctoral/Internship)** – You should submit **all** your LOR requests 1-month prior to the earliest deadline. Anything less is risky. For example, if you have a 11/15 deadline then all your email requests should be sent to the recommender by 10/15.  This requires that you have your full list well in advance (10/1) and are able send out email requests early.
+**1b. Due Dates (Doctoral/Internship)** – You should submit all of your LOR requests 1-month prior to the earliest deadline. For example, if you have a 11/15 deadline then all your email requests should be sent to the recommender by 10/15.  This requires that you have your full list well in advance (10/15) and are able send out email requests early.
 
-  * The latest for an email request to be sent to Dr. Bedics is 11/1.  If you miss this then Dr. Bedics cannot guarantee a timely submission.  
+  * The latest an email request can be sent to Dr. Bedics is 11/1.  If you miss this then Dr. Bedics cannot guarantee a timely submission.  
 
-**1c. Electronic Submissions (Doctoral)** – The best and easiest way for recommenders to submit letters is through an online web portal that is sent via email from the university. Students can sometimes lack clarity on how to submit for each school. Please do your research.
+**1c. Send all school requests at once** – There can be nothing worse for a recommender than to receive random email requests to submit a letter for student throughout the course of semester. The solution is to send all the LOR in one batch and at the same time. Such an approach is not only considerate of your recommender but will also increase the likelihood that no school will be missed. It also forces you to get organized.  
+
+**1d. Minor Points:**
+
+  * **Electronic Submissions (Doctoral)** – The best and easiest way for recommenders to submit letters is through an online web portal that is sent via an email from the university. Students can sometimes lack clarity on how to submit for each school. Please do your research.  
 
   * **Waive Your Rights** – You should waive your rights to read the letter.  Not doing so can be perceived as odd.  In the end, it is your choice. 
   
-  * **Send all requests at once** – There can be nothing worse for a recommender than to receive random email requests to submit a letter for student.  What makes it worse, actually, is getting an email request with a due date less than a month.  The solution is to send the letter requests from all the university in one batch and at the same time. Such an approach is not only considerate of your recommender but will also increase the likelihood that no school will be missed.
-
-  * **No Snail Mail** – I do not send enveloped mail to universities. Check to see if any of your schools require actual physical letters. You will need to provide me with a stamped, addressed envelope with no return address. Please discuss with me.
+  * **No Snail Mail** – Although unlikely, check to see if any of your schools require actual physical letters. You will need to provide the recommender with a stamped, addressed envelope, with no return address. 
   
-  * **LOR to Student** – I do not send letters directly to you for you to do what you want with them. That does not happen. You’ll have to drop the school or me. You pick.
+  * **LOR to Student** – There should never be a situation where you have to collect the LOR from the recommender.  To ask for such a thing can be perceived as odd and shows that you likely did not do you HW on how to send a LOR to a school.
 
-**1d. Thank You Cards** – A standard form of etiquette is to send a thank you letter.  Not an email but a physical card.  Your recommenders are likely old enough to appreciate a printed and written thank you card.  I would resist the urge to send gift cards (e.g., Starbucks cards).  The sentiment in the card is more than enough and you'll stand out.     
+**1e. Thank You Cards** – A standard form of etiquette is to send a thank you card.  Not an email but a physical card.  Your recommenders are likely old enough to appreciate a printed and written thank you card.  I would resist the urge to send gift cards (e.g., Starbucks cards).  The sentiment in the card is more than enough and you'll stand out.     
 
 <center>
 <img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/cards.JPG" alt="Cover" align="center" style="width: 50%; height: 30%; margin:8px"></center> 
-<center>Jamie's much appreciated wall of thank you cards</center>
+<center>Jamie's much appreciated wall of thank you cards (much fewer than actual letters written)</center>
 
 
 <a href="#">Go to top</a>
