@@ -4,6 +4,7 @@ layout: page
 permalink: /doctoral
 ---
 
+*****
 
 ### Table of Contents
 
@@ -13,6 +14,7 @@ These guidelines are meant to help you in taking the next step in your career.  
 2. [Prospective Programs](#programs)
 3. [Professional Material](#material)
 
+*****
 
 ### 1. Letters of Recommendation (LOR) {#lor}
 
