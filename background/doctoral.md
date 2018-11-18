@@ -32,7 +32,7 @@ It is easier to use a Google Sheet than an imported Excel. As an option, you cou
 
   * The latest an email request can be sent to Dr. Bedics is 11/1.  If you miss this then Dr. Bedics cannot guarantee a timely submission.  
 
-**1c. Send all school requests at once** – There can be nothing worse for a recommender than to receive random email requests to submit a letter for student throughout the course of semester. The solution is to send all the LOR in one batch and at the same time. Such an approach is not only considerate of your recommender but will also increase the likelihood that no school will be missed. It also forces you to get organized.  
+**1c. Send all school requests at once** – There can be nothing worse for a recommender than to receive random email requests from schools for a student throughout the semester. The solution is to send all the LOR requests in one batch and at the same time. Such an approach is not only considerate of your recommender but will also increase the likelihood that no school will be missed. It also forces you to get organized.  
 
 **1d. Minor Points:**
 
